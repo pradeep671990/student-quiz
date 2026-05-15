@@ -6,7 +6,7 @@ let totalTime = 10 * 60;
 
 let timerInterval;
 
-fetch('data/questions.json')
+fetch('questions.json')
   .then(response => response.json())
   .then(data => {
 
