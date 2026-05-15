@@ -2,101 +2,29 @@
 <html>
 <head>
   <title>Class 5 Quiz</title>
-  <style>
-    body {
-      font-family: Arial;
-      margin: 40px;
-      background: #f4f4f4;
-    }
-
-    .quiz-box {
-      background: white;
-      padding: 20px;
-      border-radius: 10px;
-      max-width: 700px;
-      margin: auto;
-    }
-
-    h1 {
-      text-align: center;
-      color: darkblue;
-    }
-
-    button {
-      padding: 10px 20px;
-      margin-top: 20px;
-      background: darkblue;
-      color: white;
-      border: none;
-      border-radius: 5px;
-    }
-
-    .question {
-      margin-top: 20px;
-    }
-  </style>
+  <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
-<div class="quiz-box">
+<div class="quiz-container">
+
   <h1>Class 5 GK & Computer Quiz</h1>
 
-  <form id="quizForm">
+  <div class="top-bar">
+    <div id="timer">Time Left: 10:00</div>
+    <div id="questionCount"></div>
+  </div>
 
-    <div class="question">
-      <p>1. What is the capital of India?</p>
-      <input type="radio" name="q1" value="0"> Mumbai<br>
-      <input type="radio" name="q1" value="1"> Delhi<br>
-      <input type="radio" name="q1" value="0"> Chennai<br>
-      <input type="radio" name="q1" value="0"> Kolkata
-    </div>
+  <div id="quiz"></div>
 
-    <div class="question">
-      <p>2. Which device is called the brain of computer?</p>
-      <input type="radio" name="q2" value="1"> CPU<br>
-      <input type="radio" name="q2" value="0"> Mouse<br>
-      <input type="radio" name="q2" value="0"> Keyboard<br>
-      <input type="radio" name="q2" value="0"> Printer
-    </div>
+  <button onclick="submitQuiz()">Submit Quiz</button>
 
-    <div class="question">
-      <p>3. Which planet is known as the Red Planet?</p>
-      <input type="radio" name="q3" value="0"> Earth<br>
-      <input type="radio" name="q3" value="1"> Mars<br>
-      <input type="radio" name="q3" value="0"> Venus<br>
-      <input type="radio" name="q3" value="0"> Jupiter
-    </div>
+  <div id="result"></div>
 
-    <div class="question">
-      <p>4. Which of these is an input device?</p>
-      <input type="radio" name="q4" value="0"> Monitor<br>
-      <input type="radio" name="q4" value="1"> Keyboard<br>
-      <input type="radio" name="q4" value="0"> Speaker<br>
-      <input type="radio" name="q4" value="0"> Printer
-    </div>
-
-    <button type="button" onclick="checkScore()">Submit Quiz</button>
-
-  </form>
-
-  <h2 id="result"></h2>
 </div>
 
-<script>
-function checkScore() {
-
-  let score = 0;
-
-  const answers = document.querySelectorAll('input[type="radio"]:checked');
-
-  answers.forEach((answer) => {
-    score += Number(answer.value);
-  });
-
-  document.getElementById("result").innerHTML =
-    "Your Score: " + score + " / 4";
-}
-</script>
+<script src="script.js"></script>
 
 </body>
 </html>
