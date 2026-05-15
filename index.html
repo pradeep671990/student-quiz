@@ -1,8 +1,12 @@
 <!DOCTYPE html>
 <html>
+
 <head>
+
   <title>Class 5 Quiz</title>
+
   <link rel="stylesheet" href="style.css">
+
 </head>
 
 <body>
@@ -11,16 +15,65 @@
 
   <h1>Class 5 GK & Computer Quiz</h1>
 
-  <div class="top-bar">
-    <div id="timer">Time Left: 10:00</div>
-    <div id="questionCount"></div>
+  <!-- Quiz Controls -->
+
+  <div class="controls">
+
+    <label>
+      Select Number of Questions:
+    </label>
+
+    <select id="questionLimit">
+
+      <option value="10">10</option>
+
+      <option value="20">20</option>
+
+      <option value="30">30</option>
+
+      <option value="40">40</option>
+
+      <option value="50">50</option>
+
+    </select>
+
+    <button onclick="startQuiz()">
+      Start Quiz
+    </button>
+
   </div>
 
-  <div id="quiz"></div>
+  <!-- Timer + Question Count -->
 
-  <button onclick="submitQuiz()">Submit Quiz</button>
+  <div class="top-bar">
 
-  <div id="result"></div>
+    <div id="timer">
+      Time Left: 10:00
+    </div>
+
+    <div id="questionCount">
+
+    </div>
+
+  </div>
+
+  <!-- Quiz Questions -->
+
+  <div id="quiz">
+
+  </div>
+
+  <!-- Submit Button -->
+
+  <button onclick="submitQuiz()">
+    Submit Quiz
+  </button>
+
+  <!-- Final Result -->
+
+  <div id="result">
+
+  </div>
 
 </div>
 
