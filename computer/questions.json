@@ -16,6 +16,2806 @@
   },
   {
     "question": "Which of the following is an output device?",
+    "options": ["Monitor", "Keyboard", "Mouse", "Scanner"],
+    "answer": "Monitor"
+  },
+  {
+    "question": "What does RAM stand for?",
+    "options": ["Random Access Memory", "Read Access Memory", "Run Access Memory", "Random Assured Memory"],
+    "answer": "Random Access Memory"
+  },
+  {
+    "question": "What does ROM stand for?",
+    "options": ["Read Only Memory", "Random Only Memory", "Run Only Memory", "Read Output Memory"],
+    "answer": "Read Only Memory"
+  },
+  {
+    "question": "Which part of the computer displays information?",
+    "options": ["Monitor", "Keyboard", "CPU", "Mouse"],
+    "answer": "Monitor"
+  },
+  {
+    "question": "Which device is used to point and click on the screen?",
+    "options": ["Mouse", "Keyboard", "Printer", "Scanner"],
+    "answer": "Mouse"
+  },
+  {
+    "question": "What is used to type text into a computer?",
+    "options": ["Keyboard", "Monitor", "Printer", "Mouse"],
+    "answer": "Keyboard"
+  },
+  {
+    "question": "Which device is used to print documents?",
+    "options": ["Printer", "Monitor", "Scanner", "Speaker"],
+    "answer": "Printer"
+  },
+  {
+    "question": "What does the monitor display?",
+    "options": ["Output", "Input", "Storage", "Processing"],
+    "answer": "Output"
+  },
+  {
+    "question": "Which of these stores data permanently?",
+    "options": ["Hard Disk", "RAM", "Cache", "Register"],
+    "answer": "Hard Disk"
+  },
+  {
+    "question": "What is the full form of USB?",
+    "options": ["Universal Serial Bus", "United Serial Bus", "Universal System Bus", "Unique Serial Bus"],
+    "answer": "Universal Serial Bus"
+  },
+  {
+    "question": "What is a computer program called?",
+    "options": ["Software", "Hardware", "Firmware", "Netware"],
+    "answer": "Software"
+  },
+  {
+    "question": "What are the physical parts of a computer called?",
+    "options": ["Hardware", "Software", "Programs", "Files"],
+    "answer": "Hardware"
+  },
+  {
+    "question": "Which key is used to delete characters to the left of the cursor?",
+    "options": ["Backspace", "Delete", "Escape", "Enter"],
+    "answer": "Backspace"
+  },
+  {
+    "question": "Which key is used to confirm an action?",
+    "options": ["Enter", "Space", "Shift", "Tab"],
+    "answer": "Enter"
+  },
+  {
+    "question": "Which key is used to write capital letters?",
+    "options": ["Caps Lock", "Shift", "Both Caps Lock and Shift", "Alt"],
+    "answer": "Both Caps Lock and Shift"
+  },
+  {
+    "question": "How many function keys are on a standard keyboard?",
+    "options": ["12", "10", "8", "14"],
+    "answer": "12"
+  },
+  {
+    "question": "What is the shortcut to copy selected text?",
+    "options": ["Ctrl + C", "Ctrl + V", "Ctrl + X", "Ctrl + Z"],
+    "answer": "Ctrl + C"
+  },
+  {
+    "question": "What is the shortcut to paste copied text?",
+    "options": ["Ctrl + V", "Ctrl + C", "Ctrl + X", "Ctrl + P"],
+    "answer": "Ctrl + V"
+  },
+  {
+    "question": "What is the shortcut to cut selected text?",
+    "options": ["Ctrl + X", "Ctrl + C", "Ctrl + V", "Ctrl + Z"],
+    "answer": "Ctrl + X"
+  },
+  {
+    "question": "What is the shortcut to undo the last action?",
+    "options": ["Ctrl + Z", "Ctrl + Y", "Ctrl + U", "Ctrl + A"],
+    "answer": "Ctrl + Z"
+  },
+  {
+    "question": "What is the shortcut to select all text?",
+    "options": ["Ctrl + A", "Ctrl + S", "Ctrl + D", "Ctrl + F"],
+    "answer": "Ctrl + A"
+  },
+  {
+    "question": "What is the shortcut to save a file?",
+    "options": ["Ctrl + S", "Ctrl + A", "Ctrl + P", "Ctrl + N"],
+    "answer": "Ctrl + S"
+  },
+  {
+    "question": "Which of these is an example of system software?",
+    "options": ["Operating System", "MS Word", "Paint", "Calculator"],
+    "answer": "Operating System"
+  },
+  {
+    "question": "Which is the most popular operating system for personal computers?",
+    "options": ["Windows", "Android", "iOS", "Linux"],
+    "answer": "Windows"
+  },
+  {
+    "question": "What is the desktop?",
+    "options": ["The main screen after logging in", "A type of computer", "A keyboard", "A printer"],
+    "answer": "The main screen after logging in"
+  },
+  {
+    "question": "What is an icon?",
+    "options": ["A small picture representing a program or file", "A type of keyboard key", "A storage device", "A monitor screen"],
+    "answer": "A small picture representing a program or file"
+  },
+  {
+    "question": "What is a folder used for?",
+    "options": ["Organizing files", "Printing documents", "Browsing the internet", "Playing music"],
+    "answer": "Organizing files"
+  },
+  {
+    "question": "Which of these is a word processing software?",
+    "options": ["MS Word", "MS Excel", "MS PowerPoint", "MS Paint"],
+    "answer": "MS Word"
+  },
+  {
+    "question": "Which software is used to make spreadsheets?",
+    "options": ["MS Excel", "MS Word", "MS Paint", "MS Access"],
+    "answer": "MS Excel"
+  },
+  {
+    "question": "Which software is used to make presentations?",
+    "options": ["MS PowerPoint", "MS Word", "MS Excel", "MS Outlook"],
+    "answer": "MS PowerPoint"
+  },
+  {
+    "question": "Which software is used for drawing and painting on a computer?",
+    "options": ["MS Paint", "MS Word", "MS Excel", "Notepad"],
+    "answer": "MS Paint"
+  },
+  {
+    "question": "What is the internet?",
+    "options": ["A global network of computers", "A type of software", "A storage device", "A type of printer"],
+    "answer": "A global network of computers"
+  },
+  {
+    "question": "What does WWW stand for?",
+    "options": ["World Wide Web", "World Web Wide", "Wide World Web", "Web World Wide"],
+    "answer": "World Wide Web"
+  },
+  {
+    "question": "What is a website?",
+    "options": ["A collection of web pages", "A type of computer", "An email address", "A search engine"],
+    "answer": "A collection of web pages"
+  },
+  {
+    "question": "What is a web browser?",
+    "options": ["Software used to access the internet", "A type of printer", "A storage device", "An input device"],
+    "answer": "Software used to access the internet"
+  },
+  {
+    "question": "Which of these is a web browser?",
+    "options": ["Google Chrome", "MS Word", "MS Excel", "Windows"],
+    "answer": "Google Chrome"
+  },
+  {
+    "question": "What is an email?",
+    "options": ["Electronic mail sent over the internet", "A type of file", "A web browser", "A computer game"],
+    "answer": "Electronic mail sent over the internet"
+  },
+  {
+    "question": "What is a search engine?",
+    "options": ["A tool to search for information on the internet", "A type of computer", "A printer", "A keyboard"],
+    "answer": "A tool to search for information on the internet"
+  },
+  {
+    "question": "Which of these is a search engine?",
+    "options": ["Google", "Windows", "MS Word", "Mozilla"],
+    "answer": "Google"
+  },
+  {
+    "question": "What does the Recycle Bin store?",
+    "options": ["Deleted files", "New files", "Copied files", "Downloaded files"],
+    "answer": "Deleted files"
+  },
+  {
+    "question": "What is a cursor?",
+    "options": ["The blinking pointer on the screen", "A type of key", "A storage device", "A monitor"],
+    "answer": "The blinking pointer on the screen"
+  },
+  {
+    "question": "What is a file?",
+    "options": ["A collection of data stored on a computer", "A type of keyboard", "A monitor", "An input device"],
+    "answer": "A collection of data stored on a computer"
+  },
+  {
+    "question": "What is the purpose of a scanner?",
+    "options": ["To convert paper documents into digital format", "To print documents", "To display images", "To store data"],
+    "answer": "To convert paper documents into digital format"
+  },
+  {
+    "question": "Which storage device uses a laser to read data?",
+    "options": ["CD/DVD", "Pen drive", "Hard disk", "Floppy disk"],
+    "answer": "CD/DVD"
+  },
+  {
+    "question": "What is a pen drive also called?",
+    "options": ["USB flash drive", "Hard disk", "CD", "DVD"],
+    "answer": "USB flash drive"
+  },
+  {
+    "question": "How is data measured in computers?",
+    "options": ["Bytes", "Meters", "Kilograms", "Liters"],
+    "answer": "Bytes"
+  },
+  {
+    "question": "Which is the smallest unit of data in a computer?",
+    "options": ["Bit", "Byte", "Kilobyte", "Megabyte"],
+    "answer": "Bit"
+  },
+  {
+    "question": "How many bits make one byte?",
+    "options": ["8", "4", "16", "2"],
+    "answer": "8"
+  },
+  {
+    "question": "What is 1 KB equal to?",
+    "options": ["1024 bytes", "1000 bytes", "512 bytes", "2048 bytes"],
+    "answer": "1024 bytes"
+  },
+  {
+    "question": "What is 1 MB equal to?",
+    "options": ["1024 KB", "1000 KB", "512 KB", "2048 KB"],
+    "answer": "1024 KB"
+  },
+  {
+    "question": "What does GB stand for?",
+    "options": ["Gigabyte", "Gigabit", "Gigaboard", "General Byte"],
+    "answer": "Gigabyte"
+  },
+  {
+    "question": "Which of these is NOT an operating system?",
+    "options": ["MS Word", "Windows", "Linux", "Android"],
+    "answer": "MS Word"
+  },
+  {
+    "question": "What is a laptop?",
+    "options": ["A portable computer", "A type of printer", "An input device", "A storage device"],
+    "answer": "A portable computer"
+  },
+  {
+    "question": "What is a tablet computer?",
+    "options": ["A flat touchscreen computer", "A type of keyboard", "A printer", "A scanner"],
+    "answer": "A flat touchscreen computer"
+  },
+  {
+    "question": "What is a smartphone?",
+    "options": ["A mobile phone with computer features", "A type of laptop", "A printer", "A monitor"],
+    "answer": "A mobile phone with computer features"
+  },
+  {
+    "question": "What is multimedia?",
+    "options": ["Combination of text, images, audio, and video", "A type of storage", "A keyboard", "A printer"],
+    "answer": "Combination of text, images, audio, and video"
+  },
+  {
+    "question": "Which key is used to move to the next line while typing?",
+    "options": ["Enter", "Tab", "Space", "Shift"],
+    "answer": "Enter"
+  },
+  {
+    "question": "What is the taskbar in Windows?",
+    "options": ["The bar at the bottom of the screen", "The title of a window", "A storage folder", "An input device"],
+    "answer": "The bar at the bottom of the screen"
+  },
+  {
+    "question": "What does the Start button do?",
+    "options": ["Opens the Start menu", "Shuts down the computer", "Starts a game", "Opens the browser"],
+    "answer": "Opens the Start menu"
+  },
+  {
+    "question": "What is an application software?",
+    "options": ["Software designed to perform specific tasks", "The operating system", "A hardware component", "A storage device"],
+    "answer": "Software designed to perform specific tasks"
+  },
+  {
+    "question": "Which of these is an input device?",
+    "options": ["Microphone", "Speaker", "Printer", "Monitor"],
+    "answer": "Microphone"
+  },
+  {
+    "question": "What is the purpose of a speaker?",
+    "options": ["To produce sound output", "To capture sound input", "To display images", "To print documents"],
+    "answer": "To produce sound output"
+  },
+  {
+    "question": "What does 'booting' a computer mean?",
+    "options": ["Starting up the computer", "Shutting down the computer", "Deleting files", "Printing a document"],
+    "answer": "Starting up the computer"
+  },
+  {
+    "question": "What is a computer virus?",
+    "options": ["A harmful program that damages the computer", "A type of storage device", "An operating system", "A web browser"],
+    "answer": "A harmful program that damages the computer"
+  },
+  {
+    "question": "What is antivirus software used for?",
+    "options": ["To protect the computer from viruses", "To create documents", "To browse the internet", "To print files"],
+    "answer": "To protect the computer from viruses"
+  },
+  {
+    "question": "What is the function of the Escape (Esc) key?",
+    "options": ["To cancel or stop an action", "To delete text", "To save a file", "To open a menu"],
+    "answer": "To cancel or stop an action"
+  },
+  {
+    "question": "What is a password?",
+    "options": ["A secret word to protect access", "A type of file", "A keyboard shortcut", "A web address"],
+    "answer": "A secret word to protect access"
+  },
+  {
+    "question": "Which key is used to move between fields in a form?",
+    "options": ["Tab", "Enter", "Shift", "Alt"],
+    "answer": "Tab"
+  },
+  {
+    "question": "What is the full form of DVD?",
+    "options": ["Digital Versatile Disc", "Digital Video Disc", "Data Versatile Disc", "Digital Versatile Drive"],
+    "answer": "Digital Versatile Disc"
+  },
+  {
+    "question": "What is the full form of CD?",
+    "options": ["Compact Disc", "Computer Disc", "Central Disc", "Common Disc"],
+    "answer": "Compact Disc"
+  },
+  {
+    "question": "Which type of printer sprays ink on paper?",
+    "options": ["Inkjet printer", "Laser printer", "Dot matrix printer", "Thermal printer"],
+    "answer": "Inkjet printer"
+  },
+  {
+    "question": "Which type of printer uses a laser beam to print?",
+    "options": ["Laser printer", "Inkjet printer", "Dot matrix printer", "Thermal printer"],
+    "answer": "Laser printer"
+  },
+  {
+    "question": "What is the function of the Home key?",
+    "options": ["Moves cursor to the beginning of a line", "Opens the home screen", "Deletes text", "Saves a file"],
+    "answer": "Moves cursor to the beginning of a line"
+  },
+  {
+    "question": "What is the function of the End key?",
+    "options": ["Moves cursor to the end of a line", "Closes the program", "Deletes a file", "Prints a document"],
+    "answer": "Moves cursor to the end of a line"
+  },
+  {
+    "question": "What is a joystick used for?",
+    "options": ["Playing video games", "Printing documents", "Scanning images", "Storing data"],
+    "answer": "Playing video games"
+  },
+  {
+    "question": "What is a light pen?",
+    "options": ["An input device to draw on screen", "A type of printer", "A storage device", "An output device"],
+    "answer": "An input device to draw on screen"
+  },
+  {
+    "question": "Which key locks the numeric keypad for number input?",
+    "options": ["Num Lock", "Caps Lock", "Scroll Lock", "Tab"],
+    "answer": "Num Lock"
+  },
+  {
+    "question": "What is the numeric keypad?",
+    "options": ["A set of number keys on the right side of the keyboard", "A calculator device", "A type of mouse", "A printer"],
+    "answer": "A set of number keys on the right side of the keyboard"
+  },
+  {
+    "question": "What does a webcam do?",
+    "options": ["Captures video and images", "Prints photos", "Stores videos", "Displays videos"],
+    "answer": "Captures video and images"
+  },
+  {
+    "question": "What is a modem?",
+    "options": ["A device that connects a computer to the internet", "A type of printer", "A storage device", "An output device"],
+    "answer": "A device that connects a computer to the internet"
+  },
+  {
+    "question": "What is Wi-Fi?",
+    "options": ["Wireless internet connection", "A type of cable", "A storage device", "A computer game"],
+    "answer": "Wireless internet connection"
+  },
+  {
+    "question": "What is Bluetooth?",
+    "options": ["Short-range wireless technology", "A type of internet", "A keyboard", "A monitor"],
+    "answer": "Short-range wireless technology"
+  },
+  {
+    "question": "What is a network?",
+    "options": ["A group of connected computers", "A type of software", "An input device", "A storage device"],
+    "answer": "A group of connected computers"
+  },
+  {
+    "question": "What does LAN stand for?",
+    "options": ["Local Area Network", "Large Area Network", "Long Area Network", "Local Access Network"],
+    "answer": "Local Area Network"
+  },
+  {
+    "question": "What does WAN stand for?",
+    "options": ["Wide Area Network", "Wide Access Network", "World Area Network", "Wireless Area Network"],
+    "answer": "Wide Area Network"
+  },
+  {
+    "question": "What is a URL?",
+    "options": ["The address of a website", "A type of file", "An email address", "A keyboard shortcut"],
+    "answer": "The address of a website"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "options": ["HyperText Transfer Protocol", "High Text Transfer Protocol", "HyperText Transport Program", "High Transfer Text Protocol"],
+    "answer": "HyperText Transfer Protocol"
+  },
+  {
+    "question": "What is a homepage?",
+    "options": ["The main page of a website", "The start screen of a computer", "A type of file", "An email inbox"],
+    "answer": "The main page of a website"
+  },
+  {
+    "question": "Which of these is used to write simple text without formatting?",
+    "options": ["Notepad", "MS Word", "MS Excel", "MS PowerPoint"],
+    "answer": "Notepad"
+  },
+  {
+    "question": "What is a spreadsheet?",
+    "options": ["A table of rows and columns used for calculations", "A text document", "A presentation file", "A web page"],
+    "answer": "A table of rows and columns used for calculations"
+  },
+  {
+    "question": "What are rows in MS Excel identified by?",
+    "options": ["Numbers", "Letters", "Symbols", "Colors"],
+    "answer": "Numbers"
+  },
+  {
+    "question": "What are columns in MS Excel identified by?",
+    "options": ["Letters", "Numbers", "Symbols", "Colors"],
+    "answer": "Letters"
+  },
+  {
+    "question": "What is a cell in MS Excel?",
+    "options": ["The intersection of a row and a column", "A type of file", "A folder", "A formula"],
+    "answer": "The intersection of a row and a column"
+  },
+  {
+    "question": "Which symbol is used to start a formula in MS Excel?",
+    "options": ["=", "+", "-", "@"],
+    "answer": "="
+  },
+  {
+    "question": "What is a slide in MS PowerPoint?",
+    "options": ["A single page in a presentation", "A type of image", "A spreadsheet page", "A document page"],
+    "answer": "A single page in a presentation"
+  },
+  {
+    "question": "What is animation in MS PowerPoint?",
+    "options": ["Effects applied to objects on slides", "A type of font", "A background color", "A slide layout"],
+    "answer": "Effects applied to objects on slides"
+  },
+  {
+    "question": "What is a hyperlink?",
+    "options": ["A clickable link that takes you to another page", "A type of font", "An email attachment", "A storage device"],
+    "answer": "A clickable link that takes you to another page"
+  },
+  {
+    "question": "What is clip art?",
+    "options": ["Pre-made images used in documents", "A type of printer", "A drawing tool", "A keyboard shortcut"],
+    "answer": "Pre-made images used in documents"
+  },
+  {
+    "question": "What is a font?",
+    "options": ["The style and size of text", "A type of file", "A keyboard key", "A monitor setting"],
+    "answer": "The style and size of text"
+  },
+  {
+    "question": "What is bold text used for?",
+    "options": ["To make text appear thicker and darker", "To underline text", "To italicize text", "To change font size"],
+    "answer": "To make text appear thicker and darker"
+  },
+  {
+    "question": "What is italic text?",
+    "options": ["Slanted text", "Bold text", "Underlined text", "Colored text"],
+    "answer": "Slanted text"
+  },
+  {
+    "question": "What is the shortcut for bold text?",
+    "options": ["Ctrl + B", "Ctrl + I", "Ctrl + U", "Ctrl + T"],
+    "answer": "Ctrl + B"
+  },
+  {
+    "question": "What is the shortcut for italic text?",
+    "options": ["Ctrl + I", "Ctrl + B", "Ctrl + U", "Ctrl + K"],
+    "answer": "Ctrl + I"
+  },
+  {
+    "question": "What is the shortcut for underline text?",
+    "options": ["Ctrl + U", "Ctrl + B", "Ctrl + I", "Ctrl + L"],
+    "answer": "Ctrl + U"
+  },
+  {
+    "question": "What is a computer monitor also called?",
+    "options": ["VDU (Visual Display Unit)", "CPU", "RAM", "HDD"],
+    "answer": "VDU (Visual Display Unit)"
+  },
+  {
+    "question": "What is a touchscreen?",
+    "options": ["A screen that responds to touch", "A type of mouse", "A keyboard", "A printer"],
+    "answer": "A screen that responds to touch"
+  },
+  {
+    "question": "What is the purpose of a headphone?",
+    "options": ["To listen to audio privately", "To input sound", "To print audio", "To store audio"],
+    "answer": "To listen to audio privately"
+  },
+  {
+    "question": "What is the purpose of a microphone?",
+    "options": ["To input sound into a computer", "To output sound", "To print text", "To scan images"],
+    "answer": "To input sound into a computer"
+  },
+  {
+    "question": "What is a digital camera?",
+    "options": ["A camera that stores photos digitally", "A type of printer", "A type of scanner", "A type of monitor"],
+    "answer": "A camera that stores photos digitally"
+  },
+  {
+    "question": "What is the purpose of a power supply unit (PSU)?",
+    "options": ["To provide electricity to computer components", "To store data", "To display images", "To print documents"],
+    "answer": "To provide electricity to computer components"
+  },
+  {
+    "question": "What is the motherboard?",
+    "options": ["The main circuit board of a computer", "A type of storage", "A monitor", "A printer"],
+    "answer": "The main circuit board of a computer"
+  },
+  {
+    "question": "What is a graphics card used for?",
+    "options": ["To display graphics on the monitor", "To store files", "To print images", "To connect to the internet"],
+    "answer": "To display graphics on the monitor"
+  },
+  {
+    "question": "What is a sound card used for?",
+    "options": ["To process audio in a computer", "To display images", "To store data", "To connect to a network"],
+    "answer": "To process audio in a computer"
+  },
+  {
+    "question": "What does 'software installation' mean?",
+    "options": ["Adding a program to a computer", "Removing a program", "Printing a document", "Deleting a file"],
+    "answer": "Adding a program to a computer"
+  },
+  {
+    "question": "What is a default printer?",
+    "options": ["The printer automatically selected for printing", "A new printer", "A broken printer", "A wireless printer"],
+    "answer": "The printer automatically selected for printing"
+  },
+  {
+    "question": "What does 'drag and drop' mean?",
+    "options": ["Moving an item by clicking and holding then releasing", "Copying a file", "Deleting a file", "Printing a file"],
+    "answer": "Moving an item by clicking and holding then releasing"
+  },
+  {
+    "question": "What is double-clicking?",
+    "options": ["Pressing the mouse button twice quickly", "Pressing the mouse button once", "Pressing two keys at once", "Moving the mouse fast"],
+    "answer": "Pressing the mouse button twice quickly"
+  },
+  {
+    "question": "What is right-clicking on a mouse used for?",
+    "options": ["Opening a context menu", "Selecting text", "Closing a window", "Printing a page"],
+    "answer": "Opening a context menu"
+  },
+  {
+    "question": "What is a scroll wheel on a mouse used for?",
+    "options": ["Scrolling up and down a page", "Clicking items", "Drawing on screen", "Typing text"],
+    "answer": "Scrolling up and down a page"
+  },
+  {
+    "question": "What is cut and paste?",
+    "options": ["Moving text or files from one place to another", "Copying text", "Deleting text", "Formatting text"],
+    "answer": "Moving text or files from one place to another"
+  },
+  {
+    "question": "What is an attachment in an email?",
+    "options": ["A file sent along with the email", "The subject of an email", "The body of an email", "The email address"],
+    "answer": "A file sent along with the email"
+  },
+  {
+    "question": "What is the inbox in an email?",
+    "options": ["Where received emails are stored", "Where sent emails are stored", "Where deleted emails are stored", "Where draft emails are stored"],
+    "answer": "Where received emails are stored"
+  },
+  {
+    "question": "What is the subject line in an email?",
+    "options": ["A brief description of the email's topic", "The sender's name", "The email address", "The body of the email"],
+    "answer": "A brief description of the email's topic"
+  },
+  {
+    "question": "What is spam email?",
+    "options": ["Unwanted junk email", "Important email", "Business email", "Official email"],
+    "answer": "Unwanted junk email"
+  },
+  {
+    "question": "What is 'CC' in email?",
+    "options": ["Carbon Copy – sending a copy to another person", "Computer Copy", "Common Contact", "Copy Center"],
+    "answer": "Carbon Copy – sending a copy to another person"
+  },
+  {
+    "question": "What does 'download' mean?",
+    "options": ["Copying data from the internet to your computer", "Sending data to the internet", "Deleting data", "Printing data"],
+    "answer": "Copying data from the internet to your computer"
+  },
+  {
+    "question": "What does 'upload' mean?",
+    "options": ["Sending data from your computer to the internet", "Downloading data", "Deleting data", "Saving data locally"],
+    "answer": "Sending data from your computer to the internet"
+  },
+  {
+    "question": "What is a blog?",
+    "options": ["A website where a person writes regularly", "A type of search engine", "An email account", "A type of file"],
+    "answer": "A website where a person writes regularly"
+  },
+  {
+    "question": "What is social media?",
+    "options": ["Online platforms to share content and connect", "A type of storage", "A computer game", "A web browser"],
+    "answer": "Online platforms to share content and connect"
+  },
+  {
+    "question": "What is cyberbullying?",
+    "options": ["Bullying someone online", "A computer virus", "A type of game", "An internet scam"],
+    "answer": "Bullying someone online"
+  },
+  {
+    "question": "What is online safety?",
+    "options": ["Staying safe while using the internet", "Using antivirus software", "Saving files safely", "Using passwords"],
+    "answer": "Staying safe while using the internet"
+  },
+  {
+    "question": "Which of these is good online safety practice?",
+    "options": ["Not sharing personal information online", "Sharing your password with friends", "Clicking on all links", "Downloading unknown files"],
+    "answer": "Not sharing personal information online"
+  },
+  {
+    "question": "What is a strong password?",
+    "options": ["A password with letters, numbers, and symbols", "Your name as password", "A short password", "Your birthday as password"],
+    "answer": "A password with letters, numbers, and symbols"
+  },
+  {
+    "question": "What is the first computer called?",
+    "options": ["ENIAC", "IBM", "UNIVAC", "APPLE"],
+    "answer": "ENIAC"
+  },
+  {
+    "question": "Who is known as the father of the computer?",
+    "options": ["Charles Babbage", "Bill Gates", "Steve Jobs", "Alan Turing"],
+    "answer": "Charles Babbage"
+  },
+  {
+    "question": "What was the first mechanical computer called?",
+    "options": ["Analytical Engine", "ENIAC", "UNIVAC", "Abacus"],
+    "answer": "Analytical Engine"
+  },
+  {
+    "question": "What is an abacus?",
+    "options": ["An ancient calculating device", "A type of computer", "A storage device", "A printer"],
+    "answer": "An ancient calculating device"
+  },
+  {
+    "question": "What is the binary number system?",
+    "options": ["A system using only 0 and 1", "A system using 0 to 9", "A system using letters", "A system using symbols"],
+    "answer": "A system using only 0 and 1"
+  },
+  {
+    "question": "What are the two digits used in binary?",
+    "options": ["0 and 1", "1 and 2", "0 and 2", "1 and 9"],
+    "answer": "0 and 1"
+  },
+  {
+    "question": "What does a computer use to process information?",
+    "options": ["Binary code", "Letters", "Colors", "Sounds"],
+    "answer": "Binary code"
+  },
+  {
+    "question": "What is a pixel?",
+    "options": ["The smallest unit of a digital image", "A type of printer", "A keyboard key", "A storage unit"],
+    "answer": "The smallest unit of a digital image"
+  },
+  {
+    "question": "What is screen resolution?",
+    "options": ["The number of pixels on a screen", "The size of the screen", "The brightness of the screen", "The color of the screen"],
+    "answer": "The number of pixels on a screen"
+  },
+  {
+    "question": "What is the function of a router?",
+    "options": ["To direct network traffic between computers", "To print documents", "To store files", "To display images"],
+    "answer": "To direct network traffic between computers"
+  },
+  {
+    "question": "What is cloud storage?",
+    "options": ["Storing data on internet servers", "Storing data on a CD", "Storing data on a pen drive", "Storing data on paper"],
+    "answer": "Storing data on internet servers"
+  },
+  {
+    "question": "What is a computer game?",
+    "options": ["An interactive program for entertainment", "A type of software", "A storage device", "An input device"],
+    "answer": "An interactive program for entertainment"
+  },
+  {
+    "question": "What is a ZIP file?",
+    "options": ["A compressed file containing multiple files", "A type of image file", "A video file", "A text file"],
+    "answer": "A compressed file containing multiple files"
+  },
+  {
+    "question": "What is a PDF file?",
+    "options": ["A document format that looks the same on all devices", "A video file", "An image file", "A sound file"],
+    "answer": "A document format that looks the same on all devices"
+  },
+  {
+    "question": "What is an MP3 file?",
+    "options": ["An audio file format", "A video file format", "An image file format", "A document file format"],
+    "answer": "An audio file format"
+  },
+  {
+    "question": "What is a JPEG file?",
+    "options": ["An image file format", "An audio file format", "A video file format", "A document format"],
+    "answer": "An image file format"
+  },
+  {
+    "question": "What is a MP4 file?",
+    "options": ["A video file format", "An audio file format", "An image file format", "A text file format"],
+    "answer": "A video file format"
+  },
+  {
+    "question": "What is an extension of a file?",
+    "options": ["The letters after a dot in a filename", "The name of the file", "The size of the file", "The location of the file"],
+    "answer": "The letters after a dot in a filename"
+  },
+  {
+    "question": "What extension does a Word document have?",
+    "options": [".docx", ".xlsx", ".pptx", ".pdf"],
+    "answer": ".docx"
+  },
+  {
+    "question": "What extension does an Excel file have?",
+    "options": [".xlsx", ".docx", ".pptx", ".txt"],
+    "answer": ".xlsx"
+  },
+  {
+    "question": "What extension does a PowerPoint file have?",
+    "options": [".pptx", ".docx", ".xlsx", ".pdf"],
+    "answer": ".pptx"
+  },
+  {
+    "question": "What extension does a text file have?",
+    "options": [".txt", ".doc", ".pdf", ".jpg"],
+    "answer": ".txt"
+  },
+  {
+    "question": "What is formatting in MS Word?",
+    "options": ["Changing the appearance of text", "Saving a file", "Printing a file", "Deleting text"],
+    "answer": "Changing the appearance of text"
+  },
+  {
+    "question": "What is a header in MS Word?",
+    "options": ["Text at the top of every page", "Text at the bottom of every page", "A title of the document", "A type of font"],
+    "answer": "Text at the top of every page"
+  },
+  {
+    "question": "What is a footer in MS Word?",
+    "options": ["Text at the bottom of every page", "Text at the top of every page", "A document title", "A table row"],
+    "answer": "Text at the bottom of every page"
+  },
+  {
+    "question": "What is page orientation?",
+    "options": ["Whether a page is portrait or landscape", "The size of the font", "The color of the page", "The margin of the page"],
+    "answer": "Whether a page is portrait or landscape"
+  },
+  {
+    "question": "What is portrait orientation?",
+    "options": ["Page is taller than it is wide", "Page is wider than it is tall", "Page is square", "Page is circular"],
+    "answer": "Page is taller than it is wide"
+  },
+  {
+    "question": "What is landscape orientation?",
+    "options": ["Page is wider than it is tall", "Page is taller than it is wide", "Page is square", "Page is circular"],
+    "answer": "Page is wider than it is tall"
+  },
+  {
+    "question": "What is a margin in a document?",
+    "options": ["The blank space around the edge of a page", "The title of the page", "The font size", "The line spacing"],
+    "answer": "The blank space around the edge of a page"
+  },
+  {
+    "question": "What is spell check used for?",
+    "options": ["To find and correct spelling errors", "To change font size", "To add images", "To print a document"],
+    "answer": "To find and correct spelling errors"
+  },
+  {
+    "question": "What is Find and Replace in MS Word?",
+    "options": ["A tool to find text and replace it with new text", "A tool to delete text", "A tool to copy text", "A tool to format text"],
+    "answer": "A tool to find text and replace it with new text"
+  },
+  {
+    "question": "What is a table in MS Word?",
+    "options": ["A grid of rows and columns", "A type of image", "A list of items", "A heading style"],
+    "answer": "A grid of rows and columns"
+  },
+  {
+    "question": "What is a chart in MS Excel?",
+    "options": ["A graphical representation of data", "A formula", "A type of cell", "A worksheet tab"],
+    "answer": "A graphical representation of data"
+  },
+  {
+    "question": "What is the SUM function in MS Excel?",
+    "options": ["A formula that adds numbers", "A formula that multiplies numbers", "A formula that subtracts numbers", "A formula that divides numbers"],
+    "answer": "A formula that adds numbers"
+  },
+  {
+    "question": "What is a worksheet in MS Excel?",
+    "options": ["A single spreadsheet within a workbook", "A type of formula", "A chart", "A cell address"],
+    "answer": "A single spreadsheet within a workbook"
+  },
+  {
+    "question": "What is a workbook in MS Excel?",
+    "options": ["A file that contains one or more worksheets", "A single cell", "A formula", "A row of data"],
+    "answer": "A file that contains one or more worksheets"
+  },
+  {
+    "question": "What is a transition in MS PowerPoint?",
+    "options": ["The animation effect between slides", "A type of text", "A slide background", "A font style"],
+    "answer": "The animation effect between slides"
+  },
+  {
+    "question": "What is Slide Show view in MS PowerPoint?",
+    "options": ["Full-screen view for presenting slides", "Editing view", "Outline view", "Notes view"],
+    "answer": "Full-screen view for presenting slides"
+  },
+  {
+    "question": "What key starts a Slide Show in PowerPoint?",
+    "options": ["F5", "F1", "F2", "F10"],
+    "answer": "F5"
+  },
+  {
+    "question": "What is a template in MS Office?",
+    "options": ["A pre-designed document layout", "A type of font", "A keyboard shortcut", "A storage folder"],
+    "answer": "A pre-designed document layout"
+  },
+  {
+    "question": "What is Print Preview?",
+    "options": ["Seeing how a document will look before printing", "Printing the document", "Saving the document", "Formatting the document"],
+    "answer": "Seeing how a document will look before printing"
+  },
+  {
+    "question": "What shortcut opens the Print dialog?",
+    "options": ["Ctrl + P", "Ctrl + S", "Ctrl + O", "Ctrl + N"],
+    "answer": "Ctrl + P"
+  },
+  {
+    "question": "What shortcut opens a new document?",
+    "options": ["Ctrl + N", "Ctrl + O", "Ctrl + S", "Ctrl + W"],
+    "answer": "Ctrl + N"
+  },
+  {
+    "question": "What shortcut opens an existing file?",
+    "options": ["Ctrl + O", "Ctrl + N", "Ctrl + S", "Ctrl + F"],
+    "answer": "Ctrl + O"
+  },
+  {
+    "question": "What is the function of F1 key?",
+    "options": ["Opens Help", "Saves a file", "Closes a window", "Starts a program"],
+    "answer": "Opens Help"
+  },
+  {
+    "question": "What is the function of Alt + F4?",
+    "options": ["Closes the current window", "Opens a file", "Saves a file", "Prints a file"],
+    "answer": "Closes the current window"
+  },
+  {
+    "question": "What does Ctrl + Z do?",
+    "options": ["Undo", "Redo", "Cut", "Copy"],
+    "answer": "Undo"
+  },
+  {
+    "question": "What does Ctrl + Y do?",
+    "options": ["Redo", "Undo", "Copy", "Paste"],
+    "answer": "Redo"
+  },
+  {
+    "question": "What is a screensaver?",
+    "options": ["An animated image shown when computer is idle", "A type of antivirus", "A storage device", "A printer setting"],
+    "answer": "An animated image shown when computer is idle"
+  },
+  {
+    "question": "What is the Control Panel in Windows?",
+    "options": ["A place to change computer settings", "A type of game", "A web browser", "A storage device"],
+    "answer": "A place to change computer settings"
+  },
+  {
+    "question": "What is Task Manager in Windows?",
+    "options": ["A tool to manage running programs", "A folder organizer", "A type of storage", "An email tool"],
+    "answer": "A tool to manage running programs"
+  },
+  {
+    "question": "What shortcut opens Task Manager?",
+    "options": ["Ctrl + Alt + Delete", "Ctrl + Shift + Esc", "Both Ctrl+Alt+Delete and Ctrl+Shift+Esc", "Alt + F4"],
+    "answer": "Both Ctrl+Alt+Delete and Ctrl+Shift+Esc"
+  },
+  {
+    "question": "What is a file path?",
+    "options": ["The location of a file on a computer", "The name of a file", "The size of a file", "The type of a file"],
+    "answer": "The location of a file on a computer"
+  },
+  {
+    "question": "What is a shortcut on the desktop?",
+    "options": ["An icon that opens a program or file quickly", "A type of file", "A storage location", "A web address"],
+    "answer": "An icon that opens a program or file quickly"
+  },
+  {
+    "question": "What is the system tray in Windows?",
+    "options": ["The area at the bottom right with icons", "The desktop background", "The taskbar at the top", "The start menu"],
+    "answer": "The area at the bottom right with icons"
+  },
+  {
+    "question": "What is a window in computer terms?",
+    "options": ["A rectangular area on screen showing a program", "A type of keyboard key", "A storage device", "An input device"],
+    "answer": "A rectangular area on screen showing a program"
+  },
+  {
+    "question": "What is the minimize button used for?",
+    "options": ["To hide a window without closing it", "To close a window", "To make a window full screen", "To resize a window"],
+    "answer": "To hide a window without closing it"
+  },
+  {
+    "question": "What is the maximize button used for?",
+    "options": ["To make a window fill the whole screen", "To close a window", "To minimize a window", "To move a window"],
+    "answer": "To make a window fill the whole screen"
+  },
+  {
+    "question": "What is the close button (X) used for?",
+    "options": ["To close the window", "To minimize the window", "To maximize the window", "To resize the window"],
+    "answer": "To close the window"
+  },
+  {
+    "question": "What is a menu bar?",
+    "options": ["A bar at the top of a window showing menu options", "A bar at the bottom of the screen", "A type of toolbar", "A keyboard row"],
+    "answer": "A bar at the top of a window showing menu options"
+  },
+  {
+    "question": "What is a toolbar?",
+    "options": ["A row of buttons for quick access to commands", "A type of keyboard", "A menu option", "A storage location"],
+    "answer": "A row of buttons for quick access to commands"
+  },
+  {
+    "question": "What is a dialog box?",
+    "options": ["A small window asking for user input", "A type of folder", "A keyboard shortcut", "An email message"],
+    "answer": "A small window asking for user input"
+  },
+  {
+    "question": "What is the purpose of the Space bar?",
+    "options": ["To insert a space between words", "To delete text", "To enter data", "To move to a new line"],
+    "answer": "To insert a space between words"
+  },
+  {
+    "question": "What is a RAM used for in a computer?",
+    "options": ["Temporarily stores data the CPU is currently using", "Permanently stores all data", "Displays images", "Prints documents"],
+    "answer": "Temporarily stores data the CPU is currently using"
+  },
+  {
+    "question": "What happens to RAM data when the computer is turned off?",
+    "options": ["It is lost", "It is saved automatically", "It is transferred to ROM", "It is backed up online"],
+    "answer": "It is lost"
+  },
+  {
+    "question": "What is the purpose of ROM?",
+    "options": ["To store permanent instructions for the computer", "To temporarily store data", "To display graphics", "To connect to the internet"],
+    "answer": "To store permanent instructions for the computer"
+  },
+  {
+    "question": "What is a floppy disk?",
+    "options": ["An old type of removable storage", "A type of RAM", "A type of ROM", "A type of printer"],
+    "answer": "An old type of removable storage"
+  },
+  {
+    "question": "How much data can a standard CD hold?",
+    "options": ["700 MB", "4.7 GB", "1 GB", "128 MB"],
+    "answer": "700 MB"
+  },
+  {
+    "question": "How much data can a standard DVD hold?",
+    "options": ["4.7 GB", "700 MB", "1 TB", "128 MB"],
+    "answer": "4.7 GB"
+  },
+  {
+    "question": "What is a solid-state drive (SSD)?",
+    "options": ["A fast storage device with no moving parts", "A type of CD", "A type of RAM", "A type of ROM"],
+    "answer": "A fast storage device with no moving parts"
+  },
+  {
+    "question": "What is a hard disk drive (HDD)?",
+    "options": ["A magnetic storage device with spinning disks", "A type of RAM", "A type of CD", "A portable storage"],
+    "answer": "A magnetic storage device with spinning disks"
+  },
+  {
+    "question": "What is a computer bus?",
+    "options": ["A pathway for data to travel between components", "A type of network", "A storage device", "An input device"],
+    "answer": "A pathway for data to travel between components"
+  },
+  {
+    "question": "What is a computer port?",
+    "options": ["A connector on a computer for devices", "A type of network", "A keyboard key", "A storage location"],
+    "answer": "A connector on a computer for devices"
+  },
+  {
+    "question": "What is an HDMI port used for?",
+    "options": ["Connecting monitors and TVs for audio and video", "Connecting USB devices", "Connecting to the internet", "Charging the computer"],
+    "answer": "Connecting monitors and TVs for audio and video"
+  },
+  {
+    "question": "What is a VGA port used for?",
+    "options": ["Connecting an older type of monitor", "Connecting to the internet", "Charging the computer", "Connecting USB devices"],
+    "answer": "Connecting an older type of monitor"
+  },
+  {
+    "question": "What is the full form of BIOS?",
+    "options": ["Basic Input Output System", "Basic Internal Output System", "Binary Input Output System", "Base Input Output System"],
+    "answer": "Basic Input Output System"
+  },
+  {
+    "question": "What does BIOS do?",
+    "options": ["Starts the computer and checks hardware", "Stores user files", "Connects to the internet", "Prints documents"],
+    "answer": "Starts the computer and checks hardware"
+  },
+  {
+    "question": "What is a computer cache?",
+    "options": ["A very fast memory close to the CPU", "A type of storage device", "A web browser feature", "A keyboard shortcut"],
+    "answer": "A very fast memory close to the CPU"
+  },
+  {
+    "question": "What is the clock speed of a CPU measured in?",
+    "options": ["Gigahertz (GHz)", "Gigabytes (GB)", "Gigabits (Gb)", "Gigapixels (GP)"],
+    "answer": "Gigahertz (GHz)"
+  },
+  {
+    "question": "What is a multi-core processor?",
+    "options": ["A CPU with multiple processing units", "A type of RAM", "A type of storage", "A type of monitor"],
+    "answer": "A CPU with multiple processing units"
+  },
+  {
+    "question": "What is the full form of GPU?",
+    "options": ["Graphics Processing Unit", "General Processing Unit", "Graphic Program Utility", "General Program Unit"],
+    "answer": "Graphics Processing Unit"
+  },
+  {
+    "question": "What is a device driver?",
+    "options": ["Software that allows hardware to work with the OS", "A type of storage device", "A keyboard shortcut", "A type of printer"],
+    "answer": "Software that allows hardware to work with the OS"
+  },
+  {
+    "question": "What is an IP address?",
+    "options": ["A unique number identifying a device on a network", "A type of password", "A web browser", "An email address"],
+    "answer": "A unique number identifying a device on a network"
+  },
+  {
+    "question": "What does DNS stand for?",
+    "options": ["Domain Name System", "Data Network System", "Domain Network Service", "Digital Name Service"],
+    "answer": "Domain Name System"
+  },
+  {
+    "question": "What is a firewall?",
+    "options": ["Security system that monitors network traffic", "A type of storage", "An input device", "A web browser"],
+    "answer": "Security system that monitors network traffic"
+  },
+  {
+    "question": "What is encryption?",
+    "options": ["Converting data into a secret code for security", "Printing data", "Deleting data", "Copying data"],
+    "answer": "Converting data into a secret code for security"
+  },
+  {
+    "question": "What is a cookie in web terms?",
+    "options": ["A small file stored by a website on your computer", "A type of virus", "A web page", "An image file"],
+    "answer": "A small file stored by a website on your computer"
+  },
+  {
+    "question": "What is a pop-up?",
+    "options": ["A window that appears suddenly on screen", "A type of file", "A keyboard shortcut", "A type of printer"],
+    "answer": "A window that appears suddenly on screen"
+  },
+  {
+    "question": "What is a browser bookmark?",
+    "options": ["A saved link to a web page", "A type of email", "A web browser plugin", "A downloaded file"],
+    "answer": "A saved link to a web page"
+  },
+  {
+    "question": "What does 'https' mean in a web address?",
+    "options": ["Secure version of HTTP", "A type of domain", "A file format", "A search engine"],
+    "answer": "Secure version of HTTP"
+  },
+  {
+    "question": "What is a domain name?",
+    "options": ["The name of a website on the internet", "A type of email", "A web browser", "A storage device"],
+    "answer": "The name of a website on the internet"
+  },
+  {
+    "question": "What is an app?",
+    "options": ["A software application", "A type of hardware", "A storage device", "A computer game only"],
+    "answer": "A software application"
+  },
+  {
+    "question": "What is a computer simulation?",
+    "options": ["A computer model of a real-world process", "A type of virus", "A storage device", "An input device"],
+    "answer": "A computer model of a real-world process"
+  },
+  {
+    "question": "What is virtual reality (VR)?",
+    "options": ["A computer-generated environment you can interact with", "A type of storage", "A monitor type", "An audio device"],
+    "answer": "A computer-generated environment you can interact with"
+  },
+  {
+    "question": "What is augmented reality (AR)?",
+    "options": ["Overlaying digital content onto the real world", "A type of virtual reality", "A computer game", "A type of monitor"],
+    "answer": "Overlaying digital content onto the real world"
+  },
+  {
+    "question": "What is artificial intelligence (AI)?",
+    "options": ["Computer systems that perform tasks requiring human intelligence", "A type of hardware", "A storage device", "An input device"],
+    "answer": "Computer systems that perform tasks requiring human intelligence"
+  },
+  {
+    "question": "What is a robot?",
+    "options": ["A machine that can perform tasks automatically", "A type of computer", "A software program", "An input device"],
+    "answer": "A machine that can perform tasks automatically"
+  },
+  {
+    "question": "What is a barcode scanner?",
+    "options": ["A device that reads barcodes", "A type of printer", "A type of camera", "A storage device"],
+    "answer": "A device that reads barcodes"
+  },
+  {
+    "question": "What is a QR code?",
+    "options": ["A type of barcode that stores information", "A type of password", "A web address", "A type of image"],
+    "answer": "A type of barcode that stores information"
+  },
+  {
+    "question": "What is a data projector?",
+    "options": ["A device that displays computer images on a large screen", "A type of printer", "A type of scanner", "A storage device"],
+    "answer": "A device that displays computer images on a large screen"
+  },
+  {
+    "question": "What is a computer clock?",
+    "options": ["A component that synchronizes computer operations", "A display showing time only", "A type of input device", "A storage device"],
+    "answer": "A component that synchronizes computer operations"
+  },
+  {
+    "question": "What is the purpose of a cooling fan in a computer?",
+    "options": ["To prevent the CPU from overheating", "To produce sound", "To store data", "To display images"],
+    "answer": "To prevent the CPU from overheating"
+  },
+  {
+    "question": "What is a heat sink?",
+    "options": ["A component that draws heat away from the CPU", "A type of storage", "A power supply", "A type of keyboard"],
+    "answer": "A component that draws heat away from the CPU"
+  },
+  {
+    "question": "What is a UPS in computing?",
+    "options": ["Uninterruptible Power Supply – provides backup power", "Universal Printing System", "Unified Program Software", "User Power System"],
+    "answer": "Uninterruptible Power Supply – provides backup power"
+  },
+  {
+    "question": "What is a data backup?",
+    "options": ["A copy of data stored in a different location", "A type of virus", "A storage device", "A web browser"],
+    "answer": "A copy of data stored in a different location"
+  },
+  {
+    "question": "Why is data backup important?",
+    "options": ["To recover data if the original is lost or damaged", "To make the computer faster", "To save electricity", "To print documents faster"],
+    "answer": "To recover data if the original is lost or damaged"
+  },
+  {
+    "question": "What is a computer crash?",
+    "options": ["When a computer stops working unexpectedly", "When a computer shuts down normally", "When a program opens", "When the internet is slow"],
+    "answer": "When a computer stops working unexpectedly"
+  },
+  {
+    "question": "What is a blue screen of death (BSOD)?",
+    "options": ["A Windows error screen indicating a serious problem", "A type of screensaver", "A computer game", "An internet error"],
+    "answer": "A Windows error screen indicating a serious problem"
+  },
+  {
+    "question": "What is software update?",
+    "options": ["Installing a newer version of software", "Deleting software", "Copying software", "Printing with software"],
+    "answer": "Installing a newer version of software"
+  },
+  {
+    "question": "What is open-source software?",
+    "options": ["Software whose source code is freely available", "Software that costs money", "Software only for businesses", "Software only for games"],
+    "answer": "Software whose source code is freely available"
+  },
+  {
+    "question": "What is freeware?",
+    "options": ["Software available at no cost", "Software that damages the computer", "Software for professionals only", "Software that needs a license"],
+    "answer": "Software available at no cost"
+  },
+  {
+    "question": "What is shareware?",
+    "options": ["Software you can try for free before buying", "Software you share with others", "Free software permanently", "Software for sharing files"],
+    "answer": "Software you can try for free before buying"
+  },
+  {
+    "question": "What is a programming language?",
+    "options": ["A language used to write computer programs", "A human language", "A type of file", "A web browser"],
+    "answer": "A language used to write computer programs"
+  },
+  {
+    "question": "Which of these is a programming language?",
+    "options": ["Python", "Windows", "Google", "Bluetooth"],
+    "answer": "Python"
+  },
+  {
+    "question": "What is the internet of things (IoT)?",
+    "options": ["Everyday devices connected to the internet", "A type of computer game", "A storage network", "A web browser"],
+    "answer": "Everyday devices connected to the internet"
+  },
+  {
+    "question": "What is a smart device?",
+    "options": ["A device that can connect to the internet and interact with users", "A fast computer", "A new type of printer", "A portable storage"],
+    "answer": "A device that can connect to the internet and interact with users"
+  },
+  {
+    "question": "What is a computer algorithm?",
+    "options": ["A step-by-step set of instructions to solve a problem", "A type of virus", "A web browser", "A storage device"],
+    "answer": "A step-by-step set of instructions to solve a problem"
+  },
+  {
+    "question": "What does 'debugging' mean in programming?",
+    "options": ["Finding and fixing errors in a program", "Writing a program", "Running a program", "Deleting a program"],
+    "answer": "Finding and fixing errors in a program"
+  },
+  {
+    "question": "What is a flowchart?",
+    "options": ["A diagram showing the steps in a process", "A type of spreadsheet", "A web page", "A type of document"],
+    "answer": "A diagram showing the steps in a process"
+  },
+  {
+    "question": "What is a database?",
+    "options": ["An organized collection of data", "A type of web browser", "A type of printer", "An input device"],
+    "answer": "An organized collection of data"
+  },
+  {
+    "question": "What is MS Access used for?",
+    "options": ["Creating and managing databases", "Creating presentations", "Creating spreadsheets", "Browsing the internet"],
+    "answer": "Creating and managing databases"
+  },
+  {
+    "question": "What is a query in a database?",
+    "options": ["A request to find specific information", "A type of file", "A keyboard shortcut", "A storage unit"],
+    "answer": "A request to find specific information"
+  },
+  {
+    "question": "What is a record in a database?",
+    "options": ["A single entry of data in a table", "A type of storage", "A file format", "A web page"],
+    "answer": "A single entry of data in a table"
+  },
+  {
+    "question": "What is a field in a database?",
+    "options": ["A single piece of data about a record", "A type of row", "A file name", "A web address"],
+    "answer": "A single piece of data about a record"
+  },
+  {
+    "question": "What is BASIC?",
+    "options": ["An early, simple programming language", "A type of computer", "A type of operating system", "A web browser"],
+    "answer": "An early, simple programming language"
+  },
+  {
+    "question": "What is Scratch?",
+    "options": ["A visual programming language for beginners", "A type of storage", "An operating system", "A web browser"],
+    "answer": "A visual programming language for beginners"
+  },
+  {
+    "question": "What is a loop in programming?",
+    "options": ["A block of code that repeats", "A type of variable", "A type of file", "An error in a program"],
+    "answer": "A block of code that repeats"
+  },
+  {
+    "question": "What is a variable in programming?",
+    "options": ["A named storage location for data", "A type of loop", "An error in a program", "A type of function"],
+    "answer": "A named storage location for data"
+  },
+  {
+    "question": "What is a condition in programming?",
+    "options": ["A statement that checks if something is true or false", "A type of loop", "A variable", "A function"],
+    "answer": "A statement that checks if something is true or false"
+  },
+  {
+    "question": "What is an output in computing?",
+    "options": ["Information produced by a computer", "Information entered into a computer", "A storage device", "A programming error"],
+    "answer": "Information produced by a computer"
+  },
+  {
+    "question": "What is an input in computing?",
+    "options": ["Data entered into a computer", "Data produced by a computer", "A storage device", "A type of monitor"],
+    "answer": "Data entered into a computer"
+  },
+  {
+    "question": "What does 'processing' mean in computing?",
+    "options": ["Performing operations on data", "Storing data", "Displaying data", "Printing data"],
+    "answer": "Performing operations on data"
+  },
+  {
+    "question": "What are the four basic functions of a computer?",
+    "options": ["Input, Processing, Output, Storage", "Type, Print, Store, Display", "Read, Write, Delete, Copy", "Open, Close, Save, Print"],
+    "answer": "Input, Processing, Output, Storage"
+  },
+  {
+    "question": "What is a supercomputer?",
+    "options": ["An extremely powerful and fast computer", "A small portable computer", "A type of game console", "A type of tablet"],
+    "answer": "An extremely powerful and fast computer"
+  },
+  {
+    "question": "What is a mainframe computer?",
+    "options": ["A large computer used by organizations for big tasks", "A portable computer", "A game computer", "A type of smartphone"],
+    "answer": "A large computer used by organizations for big tasks"
+  },
+  {
+    "question": "What is a personal computer (PC)?",
+    "options": ["A computer designed for individual use", "A shared computer", "A game console", "A type of tablet"],
+    "answer": "A computer designed for individual use"
+  },
+  {
+    "question": "What is a server?",
+    "options": ["A computer that provides services to other computers", "A type of printer", "A type of mouse", "A web browser"],
+    "answer": "A computer that provides services to other computers"
+  },
+  {
+    "question": "What is a client computer?",
+    "options": ["A computer that uses services from a server", "A computer that provides services", "A portable computer", "A type of game console"],
+    "answer": "A computer that uses services from a server"
+  },
+  {
+    "question": "What does 'ping' mean in networking?",
+    "options": ["A test to check if a device is reachable on a network", "A type of email", "A web browser tool", "A file format"],
+    "answer": "A test to check if a device is reachable on a network"
+  },
+  {
+    "question": "What is bandwidth?",
+    "options": ["The amount of data that can be sent over a network", "A type of cable", "A storage unit", "A web browser setting"],
+    "answer": "The amount of data that can be sent over a network"
+  },
+  {
+    "question": "What is internet speed measured in?",
+    "options": ["Mbps (Megabits per second)", "Megabytes", "Gigahertz", "Pixels"],
+    "answer": "Mbps (Megabits per second)"
+  },
+  {
+    "question": "What is a web page?",
+    "options": ["A single page on a website", "A type of email", "A type of document", "A storage file"],
+    "answer": "A single page on a website"
+  },
+  {
+    "question": "What is HTML?",
+    "options": ["HyperText Markup Language used to create web pages", "High Text Machine Language", "HyperText Machine Listing", "High Transfer Memory Language"],
+    "answer": "HyperText Markup Language used to create web pages"
+  },
+  {
+    "question": "What is CSS used for?",
+    "options": ["Styling the appearance of web pages", "Creating databases", "Writing programs", "Sending emails"],
+    "answer": "Styling the appearance of web pages"
+  },
+  {
+    "question": "What is an avatar in a computer game?",
+    "options": ["A character representing the player", "A type of storage", "A web browser", "A programming language"],
+    "answer": "A character representing the player"
+  },
+  {
+    "question": "What is a pixel in a digital image?",
+    "options": ["The smallest unit of color in an image", "A type of file", "A printer unit", "A storage unit"],
+    "answer": "The smallest unit of color in an image"
+  },
+  {
+    "question": "What is a megapixel?",
+    "options": ["One million pixels", "One thousand pixels", "One billion pixels", "One hundred pixels"],
+    "answer": "One million pixels"
+  },
+  {
+    "question": "What is a GIF file?",
+    "options": ["An animated image file format", "A video file format", "An audio file format", "A document format"],
+    "answer": "An animated image file format"
+  },
+  {
+    "question": "What is a PNG file?",
+    "options": ["An image format that supports transparent backgrounds", "A video format", "An audio format", "A document format"],
+    "answer": "An image format that supports transparent backgrounds"
+  },
+  {
+    "question": "What is digital literacy?",
+    "options": ["The ability to use digital technology effectively", "Reading books digitally", "A programming skill", "A web design skill"],
+    "answer": "The ability to use digital technology effectively"
+  },
+  {
+    "question": "What is a computer network topology?",
+    "options": ["The arrangement of computers in a network", "A type of software", "A storage format", "A web design"],
+    "answer": "The arrangement of computers in a network"
+  },
+  {
+    "question": "What is a star topology?",
+    "options": ["All computers connected to a central hub", "All computers in a line", "All computers in a circle", "All computers directly connected"],
+    "answer": "All computers connected to a central hub"
+  },
+  {
+    "question": "What is a bus topology?",
+    "options": ["All computers connected to a single cable", "All connected to a hub", "All in a ring", "All directly connected"],
+    "answer": "All computers connected to a single cable"
+  },
+  {
+    "question": "What is a ring topology?",
+    "options": ["Computers connected in a circular arrangement", "All connected to a hub", "All on one cable", "All directly linked"],
+    "answer": "Computers connected in a circular arrangement"
+  },
+  {
+    "question": "What is a MAN in networking?",
+    "options": ["Metropolitan Area Network", "Main Area Network", "Managed Access Network", "Multi-Access Node"],
+    "answer": "Metropolitan Area Network"
+  },
+  {
+    "question": "What is a protocol in networking?",
+    "options": ["A set of rules for communication between devices", "A type of cable", "A storage method", "A web browser"],
+    "answer": "A set of rules for communication between devices"
+  },
+  {
+    "question": "What does FTP stand for?",
+    "options": ["File Transfer Protocol", "Fast Transfer Protocol", "File Transport Program", "Full Transfer Path"],
+    "answer": "File Transfer Protocol"
+  },
+  {
+    "question": "What is SMTP used for?",
+    "options": ["Sending emails", "Receiving emails", "Browsing the web", "Storing files"],
+    "answer": "Sending emails"
+  },
+  {
+    "question": "What does POP3 stand for?",
+    "options": ["Post Office Protocol version 3", "Program Output Protocol 3", "Packet Open Protocol 3", "Personal Office Program 3"],
+    "answer": "Post Office Protocol version 3"
+  },
+  {
+    "question": "What is VoIP?",
+    "options": ["Voice over Internet Protocol – making calls over the internet", "Video on Internet Program", "Voice Output Internet Protocol", "Virtual Online Internet Phone"],
+    "answer": "Voice over Internet Protocol – making calls over the internet"
+  },
+  {
+    "question": "What is a digital signature?",
+    "options": ["An electronic version of a handwritten signature", "A type of password", "A web address", "A storage file"],
+    "answer": "An electronic version of a handwritten signature"
+  },
+  {
+    "question": "What is phishing?",
+    "options": ["A scam to steal personal information online", "A computer game", "A type of virus", "A web browser"],
+    "answer": "A scam to steal personal information online"
+  },
+  {
+    "question": "What is a keylogger?",
+    "options": ["Malware that records keystrokes", "A type of keyboard", "A storage device", "A monitor setting"],
+    "answer": "Malware that records keystrokes"
+  },
+  {
+    "question": "What is malware?",
+    "options": ["Malicious software designed to harm computers", "A type of hardware", "A web browser", "A storage device"],
+    "answer": "Malicious software designed to harm computers"
+  },
+  {
+    "question": "What is spyware?",
+    "options": ["Software that secretly collects user information", "A type of game", "An antivirus program", "A web browser"],
+    "answer": "Software that secretly collects user information"
+  },
+  {
+    "question": "What is ransomware?",
+    "options": ["Malware that locks files and demands payment", "A type of antivirus", "A web browser", "A storage format"],
+    "answer": "Malware that locks files and demands payment"
+  },
+  {
+    "question": "What is a Trojan horse virus?",
+    "options": ["Malware disguised as legitimate software", "A harmless game", "A type of antivirus", "A web browser plugin"],
+    "answer": "Malware disguised as legitimate software"
+  },
+  {
+    "question": "What is a worm in computing?",
+    "options": ["A self-replicating malware that spreads across networks", "A type of virus only", "An antivirus", "A web browser"],
+    "answer": "A self-replicating malware that spreads across networks"
+  },
+  {
+    "question": "What is two-factor authentication?",
+    "options": ["A security method requiring two forms of verification", "A type of password", "A web browser setting", "A storage method"],
+    "answer": "A security method requiring two forms of verification"
+  },
+  {
+    "question": "What is a captcha?",
+    "options": ["A test to verify a user is human, not a bot", "A type of password", "A web browser", "A search engine"],
+    "answer": "A test to verify a user is human, not a bot"
+  },
+  {
+    "question": "What is plagiarism in computing?",
+    "options": ["Copying someone else's work without permission", "Writing your own program", "Saving files", "Printing documents"],
+    "answer": "Copying someone else's work without permission"
+  },
+  {
+    "question": "What is copyright?",
+    "options": ["Legal protection for someone's creative work", "A type of license", "A web browser feature", "A storage right"],
+    "answer": "Legal protection for someone's creative work"
+  },
+  {
+    "question": "What is a digital footprint?",
+    "options": ["The trail of data left by your online activity", "A type of file", "A web browser history", "A search result"],
+    "answer": "The trail of data left by your online activity"
+  },
+  {
+    "question": "What is netiquette?",
+    "options": ["Proper behavior when using the internet", "A type of internet protocol", "A web design style", "A programming language"],
+    "answer": "Proper behavior when using the internet"
+  },
+  {
+    "question": "What is video conferencing?",
+    "options": ["Holding meetings over the internet with video", "Watching videos online", "Storing video files", "Editing videos on a computer"],
+    "answer": "Holding meetings over the internet with video"
+  },
+  {
+    "question": "What is e-learning?",
+    "options": ["Learning using digital technology and the internet", "A type of software", "A programming language", "A web browser"],
+    "answer": "Learning using digital technology and the internet"
+  },
+  {
+    "question": "What is digital art?",
+    "options": ["Art created using digital tools and technology", "Art printed on a computer", "A type of file format", "A web design"],
+    "answer": "Art created using digital tools and technology"
+  },
+  {
+    "question": "What is a computer simulation used for in education?",
+    "options": ["To model real-world situations safely for learning", "To store data", "To print documents", "To browse the internet"],
+    "answer": "To model real-world situations safely for learning"
+  },
+  {
+    "question": "What is a smart board?",
+    "options": ["An interactive whiteboard connected to a computer", "A type of keyboard", "A storage device", "A type of printer"],
+    "answer": "An interactive whiteboard connected to a computer"
+  },
+  {
+    "question": "What is the purpose of a data cable?",
+    "options": ["To transfer data between devices", "To provide power", "To display images", "To print documents"],
+    "answer": "To transfer data between devices"
+  },
+  {
+    "question": "What is a computer animation?",
+    "options": ["Moving images created using a computer", "A type of game", "A storage file", "A web browser plugin"],
+    "answer": "Moving images created using a computer"
+  },
+  {
+    "question": "What is e-commerce?",
+    "options": ["Buying and selling products online", "A type of email", "A web browser", "A programming language"],
+    "answer": "Buying and selling products online"
+  },
+  {
+    "question": "What is an online form?",
+    "options": ["A digital document for entering information", "A type of email", "A web browser page", "A storage file"],
+    "answer": "A digital document for entering information"
+  },
+  {
+    "question": "What is a digital clock in a computer?",
+    "options": ["A display showing the current time", "A component that times processing", "A type of input device", "A web browser feature"],
+    "answer": "A display showing the current time"
+  },
+  {
+    "question": "What is word wrap in MS Word?",
+    "options": ["Text automatically moves to the next line at the end of the margin", "A type of text formatting", "A keyboard shortcut", "A font style"],
+    "answer": "Text automatically moves to the next line at the end of the margin"
+  },
+  {
+    "question": "What is alignment in MS Word?",
+    "options": ["How text is positioned (left, center, right, justified)", "The font size", "The line spacing", "The margin size"],
+    "answer": "How text is positioned (left, center, right, justified)"
+  },
+  {
+    "question": "What is justified alignment?",
+    "options": ["Text aligned evenly on both left and right margins", "Text aligned to the left", "Text aligned to the right", "Text centered on the page"],
+    "answer": "Text aligned evenly on both left and right margins"
+  },
+  {
+    "question": "What is line spacing in a document?",
+    "options": ["The amount of space between lines of text", "The font size", "The page margin", "The paragraph width"],
+    "answer": "The amount of space between lines of text"
+  },
+  {
+    "question": "What is an indent in a document?",
+    "options": ["Moving text to the right to show a new paragraph", "A type of font style", "A keyboard shortcut", "A page margin"],
+    "answer": "Moving text to the right to show a new paragraph"
+  },
+  {
+    "question": "What is a numbered list?",
+    "options": ["A list where each item has a sequential number", "A list with bullet points", "A list in a table", "A list of files"],
+    "answer": "A list where each item has a sequential number"
+  },
+  {
+    "question": "What is a bulleted list?",
+    "options": ["A list where each item has a bullet point symbol", "A numbered list", "A table list", "A sorted list"],
+    "answer": "A list where each item has a bullet point symbol"
+  },
+  {
+    "question": "What is a page break?",
+    "options": ["A mark that forces text to start on a new page", "A type of margin", "A line spacing option", "A paragraph indent"],
+    "answer": "A mark that forces text to start on a new page"
+  },
+  {
+    "question": "What is a column in MS Word?",
+    "options": ["Text arranged in vertical sections side by side", "A row in a table", "A type of font", "A page margin"],
+    "answer": "Text arranged in vertical sections side by side"
+  },
+  {
+    "question": "What does the zoom tool do in MS Word?",
+    "options": ["Makes the document view larger or smaller on screen", "Changes the font size", "Changes the page size", "Changes the margin"],
+    "answer": "Makes the document view larger or smaller on screen"
+  },
+  {
+    "question": "What is a comment in MS Word?",
+    "options": ["A note added to a document without changing the text", "A type of footnote", "A header text", "A text format"],
+    "answer": "A note added to a document without changing the text"
+  },
+  {
+    "question": "What is AutoCorrect in MS Word?",
+    "options": ["Automatically fixes common spelling mistakes as you type", "A grammar checker", "A spell checker tool", "A font changer"],
+    "answer": "Automatically fixes common spelling mistakes as you type"
+  },
+  {
+    "question": "What is a watermark in a document?",
+    "options": ["A faint image or text in the background of a page", "A type of border", "A header style", "A page number"],
+    "answer": "A faint image or text in the background of a page"
+  },
+  {
+    "question": "What is a page number in a document?",
+    "options": ["A number printed on each page", "The total pages in a document", "A type of header", "A footer text"],
+    "answer": "A number printed on each page"
+  },
+  {
+    "question": "What is a table of contents?",
+    "options": ["A list of sections with page numbers", "A type of table", "A spreadsheet function", "A database record"],
+    "answer": "A list of sections with page numbers"
+  },
+  {
+    "question": "What is a macro in MS Office?",
+    "options": ["A recorded set of commands to automate tasks", "A type of font", "A storage method", "A keyboard shortcut"],
+    "answer": "A recorded set of commands to automate tasks"
+  },
+  {
+    "question": "What is the formula bar in MS Excel?",
+    "options": ["The bar showing the contents of the selected cell", "A row at the top of the spreadsheet", "A toolbar for formatting", "A menu bar"],
+    "answer": "The bar showing the contents of the selected cell"
+  },
+  {
+    "question": "What is an absolute cell reference in Excel?",
+    "options": ["A cell reference that doesn't change when copied (e.g., $A$1)", "A reference that changes when copied", "A name given to a cell", "A formula result"],
+    "answer": "A cell reference that doesn't change when copied (e.g., $A$1)"
+  },
+  {
+    "question": "What is a relative cell reference in Excel?",
+    "options": ["A reference that adjusts when copied to another cell", "A fixed cell reference", "A named range", "A formula"],
+    "answer": "A reference that adjusts when copied to another cell"
+  },
+  {
+    "question": "What is the AVERAGE function in Excel?",
+    "options": ["Calculates the mean of a group of numbers", "Adds all numbers", "Finds the highest number", "Finds the lowest number"],
+    "answer": "Calculates the mean of a group of numbers"
+  },
+  {
+    "question": "What is the MAX function in Excel?",
+    "options": ["Finds the largest number in a range", "Finds the smallest number", "Calculates the average", "Adds all numbers"],
+    "answer": "Finds the largest number in a range"
+  },
+  {
+    "question": "What is the MIN function in Excel?",
+    "options": ["Finds the smallest number in a range", "Finds the largest number", "Calculates the average", "Adds all numbers"],
+    "answer": "Finds the smallest number in a range"
+  },
+  {
+    "question": "What is the COUNT function in Excel?",
+    "options": ["Counts the number of cells containing numbers", "Adds numbers", "Finds the average", "Finds the maximum"],
+    "answer": "Counts the number of cells containing numbers"
+  },
+  {
+    "question": "What does freeze panes do in Excel?",
+    "options": ["Keeps rows or columns visible while scrolling", "Locks the spreadsheet", "Freezes the computer", "Protects cells from editing"],
+    "answer": "Keeps rows or columns visible while scrolling"
+  },
+  {
+    "question": "What is sorting data in Excel?",
+    "options": ["Arranging data in a specific order (A-Z or ascending/descending)", "Deleting data", "Copying data", "Formatting data"],
+    "answer": "Arranging data in a specific order (A-Z or ascending/descending)"
+  },
+  {
+    "question": "What is filtering data in Excel?",
+    "options": ["Displaying only data that meets certain criteria", "Deleting unwanted data", "Sorting data", "Formatting data"],
+    "answer": "Displaying only data that meets certain criteria"
+  },
+  {
+    "question": "What is a pie chart?",
+    "options": ["A circular chart showing data as slices", "A bar chart", "A line chart", "A scatter chart"],
+    "answer": "A circular chart showing data as slices"
+  },
+  {
+    "question": "What is a bar chart?",
+    "options": ["A chart using rectangular bars to compare data", "A circular chart", "A line chart", "A dot chart"],
+    "answer": "A chart using rectangular bars to compare data"
+  },
+  {
+    "question": "What is a line chart?",
+    "options": ["A chart using lines to show data trends over time", "A bar chart", "A pie chart", "A scatter chart"],
+    "answer": "A chart using lines to show data trends over time"
+  },
+  {
+    "question": "What is the IF function in Excel?",
+    "options": ["A function that returns different values based on a condition", "A function that adds numbers", "A function that counts cells", "A function that finds maximum"],
+    "answer": "A function that returns different values based on a condition"
+  },
+  {
+    "question": "What is a named range in Excel?",
+    "options": ["A group of cells given a descriptive name", "A cell reference", "A chart title", "A worksheet name"],
+    "answer": "A group of cells given a descriptive name"
+  },
+  {
+    "question": "What is conditional formatting in Excel?",
+    "options": ["Formatting cells based on their values automatically", "Formatting text manually", "A type of chart", "A formula"],
+    "answer": "Formatting cells based on their values automatically"
+  },
+  {
+    "question": "What is a pivot table in Excel?",
+    "options": ["A tool to summarize and analyze large data sets", "A type of chart", "A data filter", "A formula function"],
+    "answer": "A tool to summarize and analyze large data sets"
+  },
+  {
+    "question": "What is a slide layout in PowerPoint?",
+    "options": ["A template determining where content goes on a slide", "A slide background", "A slide animation", "A slide transition"],
+    "answer": "A template determining where content goes on a slide"
+  },
+  {
+    "question": "What is a slide master in PowerPoint?",
+    "options": ["A slide that controls the design of all slides", "The first slide", "The last slide", "A hidden slide"],
+    "answer": "A slide that controls the design of all slides"
+  },
+  {
+    "question": "What is speaker notes in PowerPoint?",
+    "options": ["Notes visible to the presenter but not the audience", "A type of slide", "A slide background", "A font style"],
+    "answer": "Notes visible to the presenter but not the audience"
+  },
+  {
+    "question": "What is a theme in PowerPoint?",
+    "options": ["A coordinated set of fonts, colors, and effects", "A single slide design", "A type of animation", "A background image"],
+    "answer": "A coordinated set of fonts, colors, and effects"
+  },
+  {
+    "question": "What is a placeholder in PowerPoint?",
+    "options": ["A box on a slide for text or images", "A type of animation", "A slide background", "A speaker note"],
+    "answer": "A box on a slide for text or images"
+  },
+  {
+    "question": "What is handout view in PowerPoint?",
+    "options": ["A view showing how slides look when printed as handouts", "The normal editing view", "The slide show view", "The outline view"],
+    "answer": "A view showing how slides look when printed as handouts"
+  },
+  {
+    "question": "What is the outline view in PowerPoint?",
+    "options": ["Shows slide content as text in outline form", "Shows slides as thumbnails", "Shows the full screen presentation", "Shows hidden slides"],
+    "answer": "Shows slide content as text in outline form"
+  },
+  {
+    "question": "What is a hyperlink in a PowerPoint presentation?",
+    "options": ["A link to a web page or another slide", "A type of animation", "A transition effect", "A placeholder"],
+    "answer": "A link to a web page or another slide"
+  },
+  {
+    "question": "What is the Slide Sorter view in PowerPoint?",
+    "options": ["Shows all slides as small thumbnails for easy arrangement", "Shows a single slide", "Shows the presentation full screen", "Shows speaker notes"],
+    "answer": "Shows all slides as small thumbnails for easy arrangement"
+  },
+  {
+    "question": "What is a text box in MS Office?",
+    "options": ["A box for typing text anywhere on a page or slide", "A type of table", "A formula input", "A type of image"],
+    "answer": "A box for typing text anywhere on a page or slide"
+  },
+  {
+    "question": "What is character spacing in MS Word?",
+    "options": ["The space between individual letters", "The space between words", "The space between lines", "The font size"],
+    "answer": "The space between individual letters"
+  },
+  {
+    "question": "What is superscript text?",
+    "options": ["Text raised above the normal line (e.g., x²)", "Text below the normal line", "Bold text", "Italic text"],
+    "answer": "Text raised above the normal line (e.g., x²)"
+  },
+  {
+    "question": "What is subscript text?",
+    "options": ["Text below the normal line (e.g., H₂O)", "Text above the normal line", "Bold text", "Underlined text"],
+    "answer": "Text below the normal line (e.g., H₂O)"
+  },
+  {
+    "question": "What is a hanging indent?",
+    "options": ["The second and later lines of a paragraph are indented more than the first", "The first line is indented more", "All lines indented equally", "No indent"],
+    "answer": "The second and later lines of a paragraph are indented more than the first"
+  },
+  {
+    "question": "What is first line indent?",
+    "options": ["Only the first line of a paragraph is indented", "All lines indented", "Only the last line is indented", "No lines are indented"],
+    "answer": "Only the first line of a paragraph is indented"
+  },
+  {
+    "question": "What is a drop cap?",
+    "options": ["A large first letter at the beginning of a paragraph", "A smaller font size", "A type of bullet point", "A page border"],
+    "answer": "A large first letter at the beginning of a paragraph"
+  },
+  {
+    "question": "What is a cross-reference in MS Word?",
+    "options": ["A reference to another part of the same document", "A type of hyperlink", "A footnote reference", "A bibliography entry"],
+    "answer": "A reference to another part of the same document"
+  },
+  {
+    "question": "What is a footnote in a document?",
+    "options": ["A note at the bottom of a page explaining something in the text", "A footer on all pages", "A page number", "A document title"],
+    "answer": "A note at the bottom of a page explaining something in the text"
+  },
+  {
+    "question": "What is an endnote in a document?",
+    "options": ["A note appearing at the end of the document", "A note at the bottom of each page", "A page number", "A header"],
+    "answer": "A note appearing at the end of the document"
+  },
+  {
+    "question": "What is a bibliography?",
+    "options": ["A list of sources used in a document", "A list of images", "A table of contents", "A glossary"],
+    "answer": "A list of sources used in a document"
+  },
+  {
+    "question": "What is a glossary?",
+    "options": ["A list of terms with their definitions", "A list of images", "A table of contents", "A bibliography"],
+    "answer": "A list of terms with their definitions"
+  },
+  {
+    "question": "What is track changes in MS Word?",
+    "options": ["A feature that records edits made to a document", "A version history feature", "An autosave feature", "A printing record"],
+    "answer": "A feature that records edits made to a document"
+  },
+  {
+    "question": "What is the reading view in MS Word?",
+    "options": ["A view for easy reading without editing tools", "The editing view", "The print view", "The outline view"],
+    "answer": "A view for easy reading without editing tools"
+  },
+  {
+    "question": "What is a text waterfall in MS Word?",
+    "options": ["Text flowing around an inserted image", "A background text effect", "A type of animation", "A paragraph style"],
+    "answer": "Text flowing around an inserted image"
+  },
+  {
+    "question": "What is the ribbon in MS Office?",
+    "options": ["The toolbar at the top with commands arranged in tabs", "A decorative border", "A type of font", "A file format"],
+    "answer": "The toolbar at the top with commands arranged in tabs"
+  },
+  {
+    "question": "What is the Quick Access Toolbar?",
+    "options": ["A small toolbar with frequently used commands", "The main ribbon", "The status bar", "The taskbar"],
+    "answer": "A small toolbar with frequently used commands"
+  },
+  {
+    "question": "What is the status bar in MS Office?",
+    "options": ["The bar at the bottom showing document information", "The ribbon bar", "The title bar", "The toolbar"],
+    "answer": "The bar at the bottom showing document information"
+  },
+  {
+    "question": "What is the title bar?",
+    "options": ["The bar at the top showing the program and file name", "The menu bar", "The toolbar", "The status bar"],
+    "answer": "The bar at the top showing the program and file name"
+  },
+  {
+    "question": "What is an object in MS Office?",
+    "options": ["An inserted item like image, chart, or table", "A type of text", "A keyboard shortcut", "A font style"],
+    "answer": "An inserted item like image, chart, or table"
+  },
+  {
+    "question": "What is Ctrl + Home used for?",
+    "options": ["Moves cursor to the beginning of the document", "Opens a new file", "Saves the file", "Closes the window"],
+    "answer": "Moves cursor to the beginning of the document"
+  },
+  {
+    "question": "What is Ctrl + End used for?",
+    "options": ["Moves cursor to the end of the document", "Saves the file", "Closes the file", "Opens a new file"],
+    "answer": "Moves cursor to the end of the document"
+  },
+  {
+    "question": "What does Shift + Arrow key do in MS Word?",
+    "options": ["Selects text in the direction of the arrow", "Moves the cursor", "Deletes text", "Formats text"],
+    "answer": "Selects text in the direction of the arrow"
+  },
+  {
+    "question": "What is the Page Down key used for?",
+    "options": ["Scrolls down one screen", "Scrolls up one screen", "Goes to the end of a document", "Goes to the beginning"],
+    "answer": "Scrolls down one screen"
+  },
+  {
+    "question": "What is the Page Up key used for?",
+    "options": ["Scrolls up one screen", "Scrolls down one screen", "Goes to the beginning of a document", "Goes to the end"],
+    "answer": "Scrolls up one screen"
+  },
+  {
+    "question": "What is AutoFill in MS Excel?",
+    "options": ["Automatically fills a series of data in cells", "Saves the spreadsheet automatically", "Checks formulas automatically", "Formats cells automatically"],
+    "answer": "Automatically fills a series of data in cells"
+  },
+  {
+    "question": "What is a drop-down list in Excel?",
+    "options": ["A list of options for data entry in a cell", "A type of chart", "A formula", "A row of data"],
+    "answer": "A list of options for data entry in a cell"
+  },
+  {
+    "question": "What is data validation in Excel?",
+    "options": ["Restricting what data can be entered in a cell", "Formatting data", "Sorting data", "Filtering data"],
+    "answer": "Restricting what data can be entered in a cell"
+  },
+  {
+    "question": "What is a header row in Excel?",
+    "options": ["The first row containing column titles", "The last row of data", "A frozen row", "A total row"],
+    "answer": "The first row containing column titles"
+  },
+  {
+    "question": "What is the CONCATENATE function in Excel?",
+    "options": ["Joins text from multiple cells together", "Adds numbers", "Counts cells", "Finds the average"],
+    "answer": "Joins text from multiple cells together"
+  },
+  {
+    "question": "What is a macro virus?",
+    "options": ["A virus embedded in a document macro", "A type of antivirus", "A worm virus", "A Trojan horse"],
+    "answer": "A virus embedded in a document macro"
+  },
+  {
+    "question": "What is the difference between Save and Save As?",
+    "options": ["Save As lets you save with a new name or location", "They are the same", "Save creates a new file", "Save As overwrites without asking"],
+    "answer": "Save As lets you save with a new name or location"
+  },
+  {
+    "question": "What is a read-only file?",
+    "options": ["A file that can be read but not edited", "A file that can be edited", "A hidden file", "A compressed file"],
+    "answer": "A file that can be read but not edited"
+  },
+  {
+    "question": "What is a hidden file?",
+    "options": ["A file not normally visible in the file system", "A deleted file", "A compressed file", "A read-only file"],
+    "answer": "A file not normally visible in the file system"
+  },
+  {
+    "question": "What is file compression?",
+    "options": ["Making a file smaller in size", "Making a file larger", "Encrypting a file", "Deleting parts of a file"],
+    "answer": "Making a file smaller in size"
+  },
+  {
+    "question": "What is a file format?",
+    "options": ["The way data is stored in a file", "The name of the file", "The size of the file", "The location of the file"],
+    "answer": "The way data is stored in a file"
+  },
+  {
+    "question": "What is the difference between hardware and software?",
+    "options": ["Hardware is physical; software is programs", "They are the same thing", "Hardware is programs; software is physical", "Both are programs"],
+    "answer": "Hardware is physical; software is programs"
+  },
+  {
+    "question": "What is ergonomics in computing?",
+    "options": ["Designing equipment for comfortable and safe use", "A type of software", "A network protocol", "A storage method"],
+    "answer": "Designing equipment for comfortable and safe use"
+  },
+  {
+    "question": "What is repetitive strain injury (RSI)?",
+    "options": ["Injury from repeated movements like typing or clicking", "A computer virus", "A type of software error", "An internet problem"],
+    "answer": "Injury from repeated movements like typing or clicking"
+  },
+  {
+    "question": "What is the correct posture when using a computer?",
+    "options": ["Sitting upright with back supported and screen at eye level", "Leaning forward close to the screen", "Lying down with the laptop", "Hunching over the keyboard"],
+    "answer": "Sitting upright with back supported and screen at eye level"
+  },
+  {
+    "question": "What is e-waste?",
+    "options": ["Discarded electronic devices and components", "A type of computer virus", "Online garbage files", "Digital junk mail"],
+    "answer": "Discarded electronic devices and components"
+  },
+  {
+    "question": "What is the green computing concept?",
+    "options": ["Using computers in environmentally friendly ways", "Using computers to study plants", "A type of operating system", "A programming language"],
+    "answer": "Using computers in environmentally friendly ways"
+  },
+  {
+    "question": "What is screen time?",
+    "options": ["The amount of time spent looking at screens", "The screen's brightness setting", "The screen's resolution", "The screen size"],
+    "answer": "The amount of time spent looking at screens"
+  },
+  {
+    "question": "What is the 20-20-20 rule for eye health?",
+    "options": ["Every 20 min, look at something 20 feet away for 20 seconds", "20 minutes of computer use per day", "20 second breaks every 20 minutes", "20 feet distance from the screen"],
+    "answer": "Every 20 min, look at something 20 feet away for 20 seconds"
+  },
+  {
+    "question": "What does a compiler do?",
+    "options": ["Translates entire programming code into machine language", "Runs a program step by step", "Stores programs", "Displays programs"],
+    "answer": "Translates entire programming code into machine language"
+  },
+  {
+    "question": "What does an interpreter do?",
+    "options": ["Translates and runs code line by line", "Translates all code at once", "Stores code", "Prints code"],
+    "answer": "Translates and runs code line by line"
+  },
+  {
+    "question": "What is source code?",
+    "options": ["The original human-readable code written by a programmer", "The compiled machine code", "A type of file", "A web browser script"],
+    "answer": "The original human-readable code written by a programmer"
+  },
+  {
+    "question": "What is machine code?",
+    "options": ["Instructions in binary that a CPU can execute directly", "A programming language", "A type of file format", "Source code"],
+    "answer": "Instructions in binary that a CPU can execute directly"
+  },
+  {
+    "question": "What is an IDE?",
+    "options": ["Integrated Development Environment for writing code", "Internet Data Exchange", "Integrated Data Engine", "Internal Development Engine"],
+    "answer": "Integrated Development Environment for writing code"
+  },
+  {
+    "question": "What is a function in programming?",
+    "options": ["A reusable block of code that performs a specific task", "A type of loop", "A variable", "An error"],
+    "answer": "A reusable block of code that performs a specific task"
+  },
+  {
+    "question": "What is an array in programming?",
+    "options": ["A collection of items stored in a single variable", "A type of loop", "A condition", "A function"],
+    "answer": "A collection of items stored in a single variable"
+  },
+  {
+    "question": "What is a string in programming?",
+    "options": ["A sequence of characters (text)", "A number value", "A type of loop", "A file format"],
+    "answer": "A sequence of characters (text)"
+  },
+  {
+    "question": "What is an integer in programming?",
+    "options": ["A whole number without decimals", "A decimal number", "A text value", "A true/false value"],
+    "answer": "A whole number without decimals"
+  },
+  {
+    "question": "What is a boolean value?",
+    "options": ["A value that is either True or False", "A whole number", "A text string", "A decimal number"],
+    "answer": "A value that is either True or False"
+  },
+  {
+    "question": "What is an if-else statement in programming?",
+    "options": ["Executes different code based on whether a condition is true or false", "A type of loop", "A function call", "A variable declaration"],
+    "answer": "Executes different code based on whether a condition is true or false"
+  },
+  {
+    "question": "What is a while loop?",
+    "options": ["A loop that repeats as long as a condition is true", "A loop that runs a fixed number of times", "A function", "A condition check only"],
+    "answer": "A loop that repeats as long as a condition is true"
+  },
+  {
+    "question": "What is a for loop?",
+    "options": ["A loop that runs a specific number of times", "A loop based on a condition", "A function", "A variable"],
+    "answer": "A loop that runs a specific number of times"
+  },
+  {
+    "question": "What is recursion in programming?",
+    "options": ["When a function calls itself", "A type of loop", "A variable type", "A file operation"],
+    "answer": "When a function calls itself"
+  },
+  {
+    "question": "What is a comment in programming?",
+    "options": ["Text in code that the computer ignores, for human explanation", "A variable", "A function", "An error message"],
+    "answer": "Text in code that the computer ignores, for human explanation"
+  },
+  {
+    "question": "What is a syntax error?",
+    "options": ["An error caused by incorrect code grammar", "An error caused by wrong logic", "A hardware error", "A network error"],
+    "answer": "An error caused by incorrect code grammar"
+  },
+  {
+    "question": "What is a logic error?",
+    "options": ["An error where the code runs but gives wrong results", "A syntax error", "A hardware failure", "A network problem"],
+    "answer": "An error where the code runs but gives wrong results"
+  },
+  {
+    "question": "What is object-oriented programming (OOP)?",
+    "options": ["Programming using objects that combine data and functions", "A type of loop", "A database method", "A web design style"],
+    "answer": "Programming using objects that combine data and functions"
+  },
+  {
+    "question": "What is a class in OOP?",
+    "options": ["A blueprint for creating objects", "A type of loop", "A function", "A variable type"],
+    "answer": "A blueprint for creating objects"
+  },
+  {
+    "question": "What is an object in OOP?",
+    "options": ["An instance of a class", "A type of function", "A variable", "A file"],
+    "answer": "An instance of a class"
+  },
+  {
+    "question": "What is the internet protocol (IP)?",
+    "options": ["Rules for sending data across the internet", "A type of web browser", "A storage method", "An email system"],
+    "answer": "Rules for sending data across the internet"
+  },
+  {
+    "question": "What is packet switching?",
+    "options": ["Breaking data into packets sent separately across a network", "A type of storage", "A network cable", "A web browser feature"],
+    "answer": "Breaking data into packets sent separately across a network"
+  },
+  {
+    "question": "What is a data packet?",
+    "options": ["A small unit of data sent over a network", "A type of file", "A storage device", "A web page"],
+    "answer": "A small unit of data sent over a network"
+  },
+  {
+    "question": "What is the cloud in computing?",
+    "options": ["Remote servers on the internet for storing and processing data", "A weather application", "A type of RAM", "A web browser"],
+    "answer": "Remote servers on the internet for storing and processing data"
+  },
+  {
+    "question": "What is SaaS?",
+    "options": ["Software as a Service – software delivered over the internet", "Storage as a Service", "System as a Software", "Server as a Solution"],
+    "answer": "Software as a Service – software delivered over the internet"
+  },
+  {
+    "question": "What is big data?",
+    "options": ["Extremely large data sets that need special tools to process", "A large storage device", "A type of database", "A file format"],
+    "answer": "Extremely large data sets that need special tools to process"
+  },
+  {
+    "question": "What is machine learning?",
+    "options": ["A type of AI where computers learn from data", "A programming language", "A type of storage", "A web browser feature"],
+    "answer": "A type of AI where computers learn from data"
+  },
+  {
+    "question": "What is a neural network in AI?",
+    "options": ["A system modeled on the human brain to recognize patterns", "A computer network", "A type of storage", "A web browser"],
+    "answer": "A system modeled on the human brain to recognize patterns"
+  },
+  {
+    "question": "What is a chatbot?",
+    "options": ["An AI program that simulates conversation", "A type of email", "A web browser plugin", "A type of virus"],
+    "answer": "An AI program that simulates conversation"
+  },
+  {
+    "question": "What is facial recognition?",
+    "options": ["Technology that identifies people by their facial features", "A type of password", "A web search tool", "A storage method"],
+    "answer": "Technology that identifies people by their facial features"
+  },
+  {
+    "question": "What is speech recognition?",
+    "options": ["Technology that converts spoken words to text", "A type of keyboard", "A speaker output", "A microphone input only"],
+    "answer": "Technology that converts spoken words to text"
+  },
+  {
+    "question": "What is a GPS in a device?",
+    "options": ["Global Positioning System – finds your location", "General Program Software", "Global Program System", "Graphic Processing Software"],
+    "answer": "Global Positioning System – finds your location"
+  },
+  {
+    "question": "What is a computer chip?",
+    "options": ["A small electronic circuit on a piece of silicon", "A type of storage", "A type of display", "A keyboard component"],
+    "answer": "A small electronic circuit on a piece of silicon"
+  },
+  {
+    "question": "What is a transistor?",
+    "options": ["A tiny electronic switch used in computer chips", "A type of storage", "A display component", "A keyboard key"],
+    "answer": "A tiny electronic switch used in computer chips"
+  },
+  {
+    "question": "What is Moore's Law?",
+    "options": ["The number of transistors in chips doubles roughly every two years", "A programming law", "A network rule", "A storage rule"],
+    "answer": "The number of transistors in chips doubles roughly every two years"
+  },
+  {
+    "question": "What is a computer generation?",
+    "options": ["A period in computer development defined by major technology changes", "The age of a computer", "A type of computer model", "A programming era"],
+    "answer": "A period in computer development defined by major technology changes"
+  },
+  {
+    "question": "What technology defined the first generation of computers?",
+    "options": ["Vacuum tubes", "Transistors", "Integrated circuits", "Microprocessors"],
+    "answer": "Vacuum tubes"
+  },
+  {
+    "question": "What technology defined the second generation of computers?",
+    "options": ["Transistors", "Vacuum tubes", "Integrated circuits", "Microprocessors"],
+    "answer": "Transistors"
+  },
+  {
+    "question": "What technology defined the third generation of computers?",
+    "options": ["Integrated circuits", "Vacuum tubes", "Transistors", "Microprocessors"],
+    "answer": "Integrated circuits"
+  },
+  {
+    "question": "What technology defined the fourth generation of computers?",
+    "options": ["Microprocessors", "Transistors", "Vacuum tubes", "Integrated circuits"],
+    "answer": "Microprocessors"
+  },
+  {
+    "question": "What is the fifth generation of computers focused on?",
+    "options": ["Artificial intelligence", "Vacuum tubes", "Transistors", "Integrated circuits"],
+    "answer": "Artificial intelligence"
+  },
+  {
+    "question": "What is a vacuum tube?",
+    "options": ["An early electronic component used in first-gen computers", "A type of storage", "A type of display", "A cooling component"],
+    "answer": "An early electronic component used in first-gen computers"
+  },
+  {
+    "question": "Who invented the World Wide Web?",
+    "options": ["Tim Berners-Lee", "Bill Gates", "Steve Jobs", "Mark Zuckerberg"],
+    "answer": "Tim Berners-Lee"
+  },
+  {
+    "question": "Who founded Microsoft?",
+    "options": ["Bill Gates and Paul Allen", "Steve Jobs and Steve Wozniak", "Mark Zuckerberg", "Larry Page"],
+    "answer": "Bill Gates and Paul Allen"
+  },
+  {
+    "question": "Who founded Apple Computer?",
+    "options": ["Steve Jobs and Steve Wozniak", "Bill Gates and Paul Allen", "Larry Page and Sergey Brin", "Jeff Bezos"],
+    "answer": "Steve Jobs and Steve Wozniak"
+  },
+  {
+    "question": "Who founded Google?",
+    "options": ["Larry Page and Sergey Brin", "Bill Gates and Paul Allen", "Steve Jobs", "Mark Zuckerberg"],
+    "answer": "Larry Page and Sergey Brin"
+  },
+  {
+    "question": "What is a pixel art?",
+    "options": ["Digital art created with individual pixels visible", "A type of photo editing", "A web design style", "A 3D art style"],
+    "answer": "Digital art created with individual pixels visible"
+  },
+  {
+    "question": "What is a vector image?",
+    "options": ["An image made of mathematical shapes that can be scaled without losing quality", "An image made of pixels", "A type of video", "A sound file"],
+    "answer": "An image made of mathematical shapes that can be scaled without losing quality"
+  },
+  {
+    "question": "What is a raster image?",
+    "options": ["An image made of pixels", "An image made of shapes", "A type of video", "A text document"],
+    "answer": "An image made of pixels"
+  },
+  {
+    "question": "What software is used for professional photo editing?",
+    "options": ["Adobe Photoshop", "MS Paint", "MS Word", "Notepad"],
+    "answer": "Adobe Photoshop"
+  },
+  {
+    "question": "What is a GIF used for?",
+    "options": ["Short animated images on the internet", "Long videos", "Audio files", "Document files"],
+    "answer": "Short animated images on the internet"
+  },
+  {
+    "question": "What is a computer network switch?",
+    "options": ["A device that connects multiple devices on a local network", "A type of router", "A type of modem", "A wireless access point"],
+    "answer": "A device that connects multiple devices on a local network"
+  },
+  {
+    "question": "What is a hub in networking?",
+    "options": ["A device that connects multiple computers in a network", "A type of router", "A type of modem", "A network switch"],
+    "answer": "A device that connects multiple computers in a network"
+  },
+  {
+    "question": "What is a MAC address?",
+    "options": ["A unique identifier for a network device's hardware", "A type of IP address", "A web address", "A file path"],
+    "answer": "A unique identifier for a network device's hardware"
+  },
+  {
+    "question": "What is a subnet mask?",
+    "options": ["A number that divides an IP address into network and host parts", "A type of firewall", "A web browser setting", "A type of encryption"],
+    "answer": "A number that divides an IP address into network and host parts"
+  },
+  {
+    "question": "What is latency in networking?",
+    "options": ["The delay in data transmission across a network", "The speed of a processor", "The storage capacity", "The screen resolution"],
+    "answer": "The delay in data transmission across a network"
+  },
+  {
+    "question": "What is a wireless access point?",
+    "options": ["A device that allows wireless devices to connect to a wired network", "A type of modem", "A type of router", "A network switch"],
+    "answer": "A device that allows wireless devices to connect to a wired network"
+  },
+  {
+    "question": "What is 4G and 5G?",
+    "options": ["Generations of mobile internet technology", "Types of Wi-Fi", "Types of Bluetooth", "Storage standards"],
+    "answer": "Generations of mobile internet technology"
+  },
+  {
+    "question": "What is an operating system kernel?",
+    "options": ["The core part of the OS that manages hardware and processes", "A type of application", "A storage format", "A web browser engine"],
+    "answer": "The core part of the OS that manages hardware and processes"
+  },
+  {
+    "question": "What is multitasking in computing?",
+    "options": ["Running multiple programs at the same time", "Performing one task very fast", "Sharing files between users", "Networking computers"],
+    "answer": "Running multiple programs at the same time"
+  },
+  {
+    "question": "What is a process in computing?",
+    "options": ["A program that is currently being executed", "A stored file", "A hardware component", "A web page"],
+    "answer": "A program that is currently being executed"
+  },
+  {
+    "question": "What is virtual memory?",
+    "options": ["Using part of the hard disk as extra RAM", "A type of cloud storage", "A type of ROM", "A virtual reality feature"],
+    "answer": "Using part of the hard disk as extra RAM"
+  },
+  {
+    "question": "What is a file system?",
+    "options": ["The method an OS uses to organize and store files", "A type of software", "A storage device", "A network"],
+    "answer": "The method an OS uses to organize and store files"
+  },
+  {
+    "question": "What is NTFS?",
+    "options": ["New Technology File System used by Windows", "Network Transfer File System", "Non-Text File Storage", "New Text Format Storage"],
+    "answer": "New Technology File System used by Windows"
+  },
+  {
+    "question": "What is a command line interface (CLI)?",
+    "options": ["A text-based interface where you type commands", "A graphical interface", "A touchscreen interface", "A voice interface"],
+    "answer": "A text-based interface where you type commands"
+  },
+  {
+    "question": "What is a graphical user interface (GUI)?",
+    "options": ["A visual interface using icons, windows, and menus", "A text command interface", "A programming environment", "A network interface"],
+    "answer": "A visual interface using icons, windows, and menus"
+  },
+  {
+    "question": "What is a context menu?",
+    "options": ["A menu that appears when you right-click", "The main menu bar", "A drop-down menu", "A start menu"],
+    "answer": "A menu that appears when you right-click"
+  },
+  {
+    "question": "What is a pop-up menu?",
+    "options": ["A menu that appears suddenly based on an action", "A permanent menu bar", "A start menu", "A ribbon menu"],
+    "answer": "A menu that appears suddenly based on an action"
+  },
+  {
+    "question": "What is user interface (UI) design?",
+    "options": ["Designing how a user interacts with software", "Writing code", "Testing software", "Managing databases"],
+    "answer": "Designing how a user interacts with software"
+  },
+  {
+    "question": "What is user experience (UX)?",
+    "options": ["How a user feels when using a product", "The visual design only", "The code behind an app", "The storage method"],
+    "answer": "How a user feels when using a product"
+  },
+  {
+    "question": "What is a responsive website?",
+    "options": ["A website that adjusts to different screen sizes", "A very fast website", "A colorful website", "A website with videos"],
+    "answer": "A website that adjusts to different screen sizes"
+  },
+  {
+    "question": "What is a domain extension like .com or .org called?",
+    "options": ["Top-level domain (TLD)", "Website name", "URL path", "IP address"],
+    "answer": "Top-level domain (TLD)"
+  },
+  {
+    "question": "What does .edu in a web address indicate?",
+    "options": ["An educational institution", "A government site", "A commercial site", "A non-profit organization"],
+    "answer": "An educational institution"
+  },
+  {
+    "question": "What does .gov in a web address indicate?",
+    "options": ["A government website", "An educational site", "A commercial site", "A non-profit"],
+    "answer": "A government website"
+  },
+  {
+    "question": "What does .org in a web address indicate?",
+    "options": ["An organization or non-profit", "A government site", "A commercial site", "An educational site"],
+    "answer": "An organization or non-profit"
+  },
+  {
+    "question": "What is a search result?",
+    "options": ["A list of web pages returned by a search engine", "A web page", "A downloaded file", "A browser bookmark"],
+    "answer": "A list of web pages returned by a search engine"
+  },
+  {
+    "question": "What is a web cache?",
+    "options": ["Stored web page data for faster loading", "A type of web browser", "A stored password", "A type of cookie"],
+    "answer": "Stored web page data for faster loading"
+  },
+  {
+    "question": "What is private browsing (incognito mode)?",
+    "options": ["Browsing without saving history or cookies locally", "Browsing anonymously online", "Browsing with a VPN", "A secure web connection"],
+    "answer": "Browsing without saving history or cookies locally"
+  },
+  {
+    "question": "What is a browser extension?",
+    "options": ["A small program that adds features to a web browser", "A type of web page", "A web browser plugin for printing", "A type of antivirus"],
+    "answer": "A small program that adds features to a web browser"
+  },
+  {
+    "question": "What is streaming?",
+    "options": ["Playing media directly from the internet without downloading", "Downloading then playing", "Storing media on a disk", "Uploading media online"],
+    "answer": "Playing media directly from the internet without downloading"
+  },
+  {
+    "question": "What is a podcast?",
+    "options": ["A digital audio program available for streaming or download", "A type of video game", "A web browser", "A type of email"],
+    "answer": "A digital audio program available for streaming or download"
+  },
+  {
+    "question": "What is a hashtag?",
+    "options": ["A word or phrase preceded by # to categorize social media content", "A type of password", "A web address", "A programming symbol"],
+    "answer": "A word or phrase preceded by # to categorize social media content"
+  },
+  {
+    "question": "What is a trending topic?",
+    "options": ["A topic being discussed widely on social media or the internet", "A popular website", "A frequently searched term", "A viral video"],
+    "answer": "A topic being discussed widely on social media or the internet"
+  },
+  {
+    "question": "What is a meme?",
+    "options": ["A humorous image or video spread widely on the internet", "A type of file", "A programming concept", "A web browser feature"],
+    "answer": "A humorous image or video spread widely on the internet"
+  },
+  {
+    "question": "What is a forum website?",
+    "options": ["A site where people discuss topics in threads", "A shopping site", "A news site", "A video sharing site"],
+    "answer": "A site where people discuss topics in threads"
+  },
+  {
+    "question": "What is Wikipedia?",
+    "options": ["A free online encyclopedia", "A search engine", "A social media site", "An email service"],
+    "answer": "A free online encyclopedia"
+  },
+  {
+    "question": "What is YouTube?",
+    "options": ["A video sharing website", "A search engine", "A social media text site", "An email service"],
+    "answer": "A video sharing website"
+  },
+  {
+    "question": "What is a digital textbook?",
+    "options": ["An electronic version of a textbook", "A printed textbook scanned", "A type of PDF only", "An online course"],
+    "answer": "An electronic version of a textbook"
+  },
+  {
+    "question": "What is an online quiz?",
+    "options": ["A digital test taken on the internet", "A printed test", "A type of game", "An email test"],
+    "answer": "A digital test taken on the internet"
+  },
+  {
+    "question": "What is a web form?",
+    "options": ["A page for entering and submitting information online", "A type of email", "A web browser page", "A type of document"],
+    "answer": "A page for entering and submitting information online"
+  },
+  {
+    "question": "What is an app store?",
+    "options": ["A platform for downloading apps to a device", "A shop that sells phones", "A website directory", "A cloud service"],
+    "answer": "A platform for downloading apps to a device"
+  },
+  {
+    "question": "What is a notification on a device?",
+    "options": ["An alert about new information or events", "A type of virus alert", "A battery warning", "A screen brightness alert"],
+    "answer": "An alert about new information or events"
+  },
+  {
+    "question": "What is a screen lock?",
+    "options": ["A security feature requiring authentication to use the device", "A screen saver", "A brightness setting", "A display mode"],
+    "answer": "A security feature requiring authentication to use the device"
+  },
+  {
+    "question": "What is a PIN in device security?",
+    "options": ["A Personal Identification Number used to unlock a device", "A type of password with letters", "A fingerprint scan", "A face ID"],
+    "answer": "A Personal Identification Number used to unlock a device"
+  },
+  {
+    "question": "What is biometric security?",
+    "options": ["Using physical characteristics like fingerprints or face for identification", "A type of password", "An encryption method", "A firewall"],
+    "answer": "Using physical characteristics like fingerprints or face for identification"
+  },
+  {
+    "question": "What is a software patch?",
+    "options": ["A small update that fixes specific problems in software", "A complete software replacement", "A new program", "A backup copy"],
+    "answer": "A small update that fixes specific problems in software"
+  },
+  {
+    "question": "What is beta software?",
+    "options": ["A test version of software released before the final version", "A completed software", "A free software", "An old software version"],
+    "answer": "A test version of software released before the final version"
+  },
+  {
+    "question": "What is legacy software?",
+    "options": ["Old software still in use even though it may be outdated", "New software", "Free software", "A type of antivirus"],
+    "answer": "Old software still in use even though it may be outdated"
+  },
+  {
+    "question": "What is compatibility in software?",
+    "options": ["The ability of software to work with other software or hardware", "The speed of software", "The size of software", "The cost of software"],
+    "answer": "The ability of software to work with other software or hardware"
+  },
+  {
+    "question": "What is a software license?",
+    "options": ["Legal permission to use software", "A software update", "A software bug", "A software manual"],
+    "answer": "Legal permission to use software"
+  },
+  {
+    "question": "What is the difference between online and offline?",
+    "options": ["Online means connected to the internet; offline means not connected", "Online means the computer is on", "Offline means the computer is broken", "They mean the same thing"],
+    "answer": "Online means connected to the internet; offline means not connected"
+  },
+  {
+    "question": "What is a digital newspaper?",
+    "options": ["A newspaper available in electronic format online or on devices", "A printed newspaper only", "A news video", "A news podcast"],
+    "answer": "A newspaper available in electronic format online or on devices"
+  },
+  {
+    "question": "What is a computer log?",
+    "options": ["A record of events and activities on a computer", "A type of file format", "A programming note", "A storage method"],
+    "answer": "A record of events and activities on a computer"
+  },
+  {
+    "question": "What is a user account?",
+    "options": ["A profile with settings for a specific person on a computer", "A type of email", "A web browser profile", "A software license"],
+    "answer": "A profile with settings for a specific person on a computer"
+  },
+  {
+    "question": "What is an administrator account?",
+    "options": ["An account with full control over a computer system", "A standard user account", "A guest account", "A child account"],
+    "answer": "An account with full control over a computer system"
+  },
+  {
+    "question": "What is a guest account?",
+    "options": ["A limited account for temporary users", "An admin account", "A user's main account", "A shared account"],
+    "answer": "A limited account for temporary users"
+  },
+  {
+    "question": "What is a system restore?",
+    "options": ["Returning the computer to an earlier working state", "Restarting the computer", "Updating software", "Deleting files"],
+    "answer": "Returning the computer to an earlier working state"
+  },
+  {
+    "question": "What is disk cleanup?",
+    "options": ["Removing unnecessary files to free up disk space", "Formatting the hard drive", "Scanning for viruses", "Updating the operating system"],
+    "answer": "Removing unnecessary files to free up disk space"
+  },
+  {
+    "question": "What is defragmentation?",
+    "options": ["Reorganizing files on a hard disk to improve performance", "Deleting duplicate files", "Compressing files", "Scanning for errors"],
+    "answer": "Reorganizing files on a hard disk to improve performance"
+  },
+  {
+    "question": "What is a boot disk?",
+    "options": ["A disk used to start the computer when the OS fails", "A storage disk for music", "A CD for watching movies", "A disk for games"],
+    "answer": "A disk used to start the computer when the OS fails"
+  },
+  {
+    "question": "What is safe mode in Windows?",
+    "options": ["A limited startup mode for troubleshooting problems", "A security feature", "A children's mode", "A guest account mode"],
+    "answer": "A limited startup mode for troubleshooting problems"
+  },
+  {
+    "question": "What is a network cable?",
+    "options": ["A cable used to connect devices in a network", "A power cable", "A USB cable", "A display cable"],
+    "answer": "A cable used to connect devices in a network"
+  },
+  {
+    "question": "What is an Ethernet cable?",
+    "options": ["A common type of network cable for wired connections", "A type of power cable", "A USB cable", "A charging cable"],
+    "answer": "A common type of network cable for wired connections"
+  },
+  {
+    "question": "What is fiber optic cable?",
+    "options": ["A cable that transmits data as light signals", "A metal wire cable", "A wireless connection", "A USB cable"],
+    "answer": "A cable that transmits data as light signals"
+  },
+  {
+    "question": "What is a coaxial cable?",
+    "options": ["A type of cable used for cable TV and internet connections", "A fiber optic cable", "A USB cable", "An Ethernet cable"],
+    "answer": "A type of cable used for cable TV and internet connections"
+  },
+  {
+    "question": "What is a power cable?",
+    "options": ["A cable that supplies electricity to a device", "A data cable", "A display cable", "A network cable"],
+    "answer": "A cable that supplies electricity to a device"
+  },
+  {
+    "question": "What is a docking station?",
+    "options": ["A device that lets a laptop connect to additional peripherals easily", "A type of storage", "A charging stand only", "A type of printer"],
+    "answer": "A device that lets a laptop connect to additional peripherals easily"
+  },
+  {
+    "question": "What is a port replicator?",
+    "options": ["A device providing additional ports for a laptop", "A type of storage", "A network device", "A type of printer"],
+    "answer": "A device providing additional ports for a laptop"
+  },
+  {
+    "question": "What is a KVM switch?",
+    "options": ["A switch allowing one keyboard, video, and mouse to control multiple computers", "A type of network switch", "A type of modem", "A power switch"],
+    "answer": "A switch allowing one keyboard, video, and mouse to control multiple computers"
+  },
+  {
+    "question": "What is a drawing tablet?",
+    "options": ["An input device for drawing directly into a computer", "A tablet computer", "A type of monitor", "A type of printer"],
+    "answer": "An input device for drawing directly into a computer"
+  },
+  {
+    "question": "What is a stylus?",
+    "options": ["A pen-like device used to interact with touchscreens or drawing tablets", "A type of mouse", "A type of keyboard", "A type of printer"],
+    "answer": "A pen-like device used to interact with touchscreens or drawing tablets"
+  },
+  {
+    "question": "What is an e-book reader?",
+    "options": ["A device designed for reading digital books", "A type of tablet computer", "A type of laptop", "A smartphone"],
+    "answer": "A device designed for reading digital books"
+  },
+  {
+    "question": "What is a smartwatch?",
+    "options": ["A wearable computer worn on the wrist", "A type of smartphone", "A tablet computer", "A fitness device only"],
+    "answer": "A wearable computer worn on the wrist"
+  },
+  {
+    "question": "What is a drone?",
+    "options": ["An unmanned aircraft controlled by computers or remote control", "A type of robot", "A type of game", "A camera only"],
+    "answer": "An unmanned aircraft controlled by computers or remote control"
+  },
+  {
+    "question": "What is 3D printing?",
+    "options": ["Creating physical objects from a digital model layer by layer", "Printing in three colors", "Printing on both sides of paper", "Printing large posters"],
+    "answer": "Creating physical objects from a digital model layer by layer"
+  },
+  {
+    "question": "What is a microcontroller?",
+    "options": ["A small computer on a chip used to control devices", "A type of CPU", "A type of storage", "A type of monitor"],
+    "answer": "A small computer on a chip used to control devices"
+  },
+  {
+    "question": "What is Arduino?",
+    "options": ["An open-source microcontroller board for electronics projects", "A programming language", "A type of computer", "A web browser"],
+    "answer": "An open-source microcontroller board for electronics projects"
+  },
+  {
+    "question": "What is Raspberry Pi?",
+    "options": ["A small, affordable single-board computer", "A type of food delivery app", "A game console", "A type of tablet"],
+    "answer": "A small, affordable single-board computer"
+  },
+  {
+    "question": "What is a logic gate?",
+    "options": ["A basic building block of digital circuits performing logic operations", "A computer security feature", "A type of network", "A programming loop"],
+    "answer": "A basic building block of digital circuits performing logic operations"
+  },
+  {
+    "question": "What is an AND gate?",
+    "options": ["A logic gate that outputs 1 only when all inputs are 1", "A gate with one input", "A gate that outputs 1 when any input is 1", "A gate that inverts input"],
+    "answer": "A logic gate that outputs 1 only when all inputs are 1"
+  },
+  {
+    "question": "What is an OR gate?",
+    "options": ["A logic gate that outputs 1 when at least one input is 1", "A gate outputting 1 only when all inputs are 1", "A gate that inverts input", "A gate with one output"],
+    "answer": "A logic gate that outputs 1 when at least one input is 1"
+  },
+  {
+    "question": "What is a NOT gate?",
+    "options": ["A logic gate that inverts the input", "A gate with two inputs", "An AND gate variant", "An OR gate variant"],
+    "answer": "A logic gate that inverts the input"
+  },
+  {
+    "question": "What is binary addition?",
+    "options": ["Adding numbers using only 0s and 1s", "Adding numbers in decimal", "Multiplying binary numbers", "Subtracting binary numbers"],
+    "answer": "Adding numbers using only 0s and 1s"
+  },
+  {
+    "question": "What is hexadecimal?",
+    "options": ["A number system with 16 symbols (0-9 and A-F)", "A number system with 8 symbols", "A number system with 2 symbols", "A number system with 10 symbols"],
+    "answer": "A number system with 16 symbols (0-9 and A-F)"
+  },
+  {
+    "question": "What is octal number system?",
+    "options": ["A number system with 8 digits (0-7)", "A system with 16 digits", "A system with 2 digits", "A system with 10 digits"],
+    "answer": "A number system with 8 digits (0-7)"
+  },
+  {
+    "question": "What does ASCII stand for?",
+    "options": ["American Standard Code for Information Interchange", "American System Code for Information Interface", "Advanced Standard Code for Internet Interface", "American Standard Computer Information Index"],
+    "answer": "American Standard Code for Information Interchange"
+  },
+  {
+    "question": "What is ASCII used for?",
+    "options": ["Representing characters as numbers in computers", "Storing images", "Compressing files", "Networking computers"],
+    "answer": "Representing characters as numbers in computers"
+  },
+  {
+    "question": "What is Unicode?",
+    "options": ["A universal character encoding standard supporting most languages", "A type of programming language", "A web standard", "A file format"],
+    "answer": "A universal character encoding standard supporting most languages"
+  },
+  {
+    "question": "What is data redundancy?",
+    "options": ["Storing the same data in multiple places unnecessarily", "A type of backup", "A data compression method", "A networking term"],
+    "answer": "Storing the same data in multiple places unnecessarily"
+  },
+  {
+    "question": "What is a checksum?",
+    "options": ["A value used to detect errors in data transmission", "A type of encryption", "A file format", "A network protocol"],
+    "answer": "A value used to detect errors in data transmission"
+  },
+  {
+    "question": "What is throughput in networking?",
+    "options": ["The actual amount of data successfully transferred per second", "The maximum possible speed", "The latency of a network", "The bandwidth of a cable"],
+    "answer": "The actual amount of data successfully transferred per second"
+  },
+  {
+    "question": "What is a terminal in computing?",
+    "options": ["A device for entering and displaying data from a computer", "A type of printer", "A storage device", "A network router"],
+    "answer": "A device for entering and displaying data from a computer"
+  },
+  {
+    "question": "What is remote access?",
+    "options": ["Controlling a computer from a different location", "Accessing a USB device", "Reading a CD remotely", "Printing from a different room"],
+    "answer": "Controlling a computer from a different location"
+  },
+  {
+    "question": "What is a virtual machine?",
+    "options": ["A simulated computer running on a physical computer", "A type of robot", "A cloud storage system", "A type of network"],
+    "answer": "A simulated computer running on a physical computer"
+  },
+  {
+    "question": "What is the print spooler?",
+    "options": ["Software that manages print jobs sent to a printer", "A type of printer", "A printer driver", "A print preview tool"],
+    "answer": "Software that manages print jobs sent to a printer"
+  },
+  {
+    "question": "What is a computer simulation?",
+    "options": ["A digital model that imitates real-world processes", "A type of game", "A programming language", "A storage method"],
+    "answer": "A digital model that imitates real-world processes"
+  },
+  {
+    "question": "What is the difference between digital and analog?",
+    "options": ["Digital uses discrete values (0/1); analog uses continuous values", "Digital is older than analog", "Analog is faster than digital", "They are the same"],
+    "answer": "Digital uses discrete values (0/1); analog uses continuous values"
+  },
+  {
+    "question": "What is a converter in computing?",
+    "options": ["A device or software that changes data from one format to another", "A type of printer", "A storage device", "A network device"],
+    "answer": "A device or software that changes data from one format to another"
+  },
+  {
+    "question": "What is a computer's boot sequence?",
+    "options": ["The order of steps a computer takes to start up", "The order files are saved", "The sequence of keystrokes", "A type of programming loop"],
+    "answer": "The order of steps a computer takes to start up"
+  },
+  {
+    "question": "What is a POST in computing?",
+    "options": ["Power-On Self-Test run when a computer starts", "A type of email", "A social media update", "A programming term"],
+    "answer": "Power-On Self-Test run when a computer starts"
+  },
+  {
+    "question": "What is a ribbon cable?",
+    "options": ["A flat cable used to connect internal computer components", "A type of network cable", "A power cable", "A USB cable"],
+    "answer": "A flat cable used to connect internal computer components"
+  },
+  {
+    "question": "What is a computer form factor?",
+    "options": ["The size and shape of a computer or its components", "A type of file format", "A software type", "A networking standard"],
+    "answer": "The size and shape of a computer or its components"
+  },
+  {
+    "question": "What is a barebone computer?",
+    "options": ["A basic computer system without some components installed", "A very fast computer", "A portable computer", "A type of server"],
+    "answer": "A basic computer system without some components installed"
+  },
+  {
+    "question": "What is overclocking?",
+    "options": ["Running a processor faster than its rated speed", "Setting the computer clock time", "Slowing down a processor", "A type of update"],
+    "answer": "Running a processor faster than its rated speed"
+  },
+  {
+    "question": "Which device is called the brain of the computer?",
+    "options": ["CPU", "Mouse", "Keyboard", "Printer"],
+    "answer": "CPU"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": ["Central Processing Unit", "Computer Personal Unit", "Central Program Utility", "Control Processing Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "Which of the following is an input device?",
+    "options": ["Keyboard", "Monitor", "Printer", "Speaker"],
+    "answer": "Keyboard"
+  },
+  {
+    "question": "Which of the following is an output device?",
     "options": ["Monitor", "Mouse", "Keyboard", "Scanner"],
     "answer": "Monitor"
   },

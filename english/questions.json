@@ -1,5 +1,1980 @@
 [
   {
+    "question": "Which of the following is a noun?",
+    "options": ["Run", "Happy", "Dog", "Quickly"],
+    "answer": "Dog"
+  },
+  {
+    "question": "Which sentence uses a proper noun?",
+    "options": ["The boy plays.", "Riya loves to dance.", "She is tall.", "They went home."],
+    "answer": "Riya loves to dance."
+  },
+  {
+    "question": "Which of these is a common noun?",
+    "options": ["India", "River", "Monday", "Ganga"],
+    "answer": "River"
+  },
+  {
+    "question": "Which of these is a proper noun?",
+    "options": ["City", "Mountain", "Delhi", "Girl"],
+    "answer": "Delhi"
+  },
+  {
+    "question": "Which of the following is a collective noun?",
+    "options": ["Herd", "Chair", "Book", "Happy"],
+    "answer": "Herd"
+  },
+  {
+    "question": "What is the collective noun for a group of fish?",
+    "options": ["Shoal", "Pack", "Flock", "Herd"],
+    "answer": "Shoal"
+  },
+  {
+    "question": "What is the collective noun for a group of birds?",
+    "options": ["Flock", "Pack", "Herd", "Shoal"],
+    "answer": "Flock"
+  },
+  {
+    "question": "What is the collective noun for a group of wolves?",
+    "options": ["Pack", "Flock", "Herd", "Swarm"],
+    "answer": "Pack"
+  },
+  {
+    "question": "Which of the following is an abstract noun?",
+    "options": ["Happiness", "Table", "Cat", "Book"],
+    "answer": "Happiness"
+  },
+  {
+    "question": "Which of the following is a pronoun?",
+    "options": ["She", "Run", "Big", "Slowly"],
+    "answer": "She"
+  },
+  {
+    "question": "Which pronoun is used for a single male person?",
+    "options": ["He", "She", "They", "We"],
+    "answer": "He"
+  },
+  {
+    "question": "Which pronoun is used for a single female person?",
+    "options": ["She", "He", "It", "They"],
+    "answer": "She"
+  },
+  {
+    "question": "Fill in the blank: '___ is my friend.' (referring to a girl)",
+    "options": ["She", "He", "It", "They"],
+    "answer": "She"
+  },
+  {
+    "question": "Which of the following is a verb?",
+    "options": ["Jump", "Beautiful", "Quickly", "Chair"],
+    "answer": "Jump"
+  },
+  {
+    "question": "Which sentence has a verb in it?",
+    "options": ["The dog runs fast.", "A big red ball.", "A tall building.", "Old and new toys."],
+    "answer": "The dog runs fast."
+  },
+  {
+    "question": "Which of the following is an adjective?",
+    "options": ["Tall", "Run", "Slowly", "Dog"],
+    "answer": "Tall"
+  },
+  {
+    "question": "Which adjective describes size?",
+    "options": ["Huge", "Red", "Sweet", "Loud"],
+    "answer": "Huge"
+  },
+  {
+    "question": "Which adjective describes color?",
+    "options": ["Blue", "Soft", "Heavy", "Fast"],
+    "answer": "Blue"
+  },
+  {
+    "question": "Which of the following is an adverb?",
+    "options": ["Quickly", "Dog", "Beautiful", "Run"],
+    "answer": "Quickly"
+  },
+  {
+    "question": "Which adverb tells us HOW something is done?",
+    "options": ["Slowly", "There", "Yesterday", "Often"],
+    "answer": "Slowly"
+  },
+  {
+    "question": "Which adverb tells us WHEN something is done?",
+    "options": ["Yesterday", "Quietly", "Here", "Very"],
+    "answer": "Yesterday"
+  },
+  {
+    "question": "Which adverb tells us WHERE something is done?",
+    "options": ["Here", "Quickly", "Never", "Soon"],
+    "answer": "Here"
+  },
+  {
+    "question": "Which of the following is a preposition?",
+    "options": ["Under", "Run", "Happy", "Dog"],
+    "answer": "Under"
+  },
+  {
+    "question": "Choose the correct preposition: 'The book is ___ the table.'",
+    "options": ["On", "At", "By", "From"],
+    "answer": "On"
+  },
+  {
+    "question": "Choose the correct preposition: 'She lives ___ Mumbai.'",
+    "options": ["In", "On", "At", "Under"],
+    "answer": "In"
+  },
+  {
+    "question": "Which of the following is a conjunction?",
+    "options": ["And", "Run", "Happy", "Quickly"],
+    "answer": "And"
+  },
+  {
+    "question": "Which conjunction is used to show contrast?",
+    "options": ["But", "And", "Or", "So"],
+    "answer": "But"
+  },
+  {
+    "question": "Fill in the blank: 'I like tea ___ coffee.'",
+    "options": ["And", "But", "So", "Because"],
+    "answer": "And"
+  },
+  {
+    "question": "Which of the following is an article?",
+    "options": ["The", "Run", "Jump", "Fast"],
+    "answer": "The"
+  },
+  {
+    "question": "Which article is used before a vowel sound?",
+    "options": ["An", "A", "The", "Any"],
+    "answer": "An"
+  },
+  {
+    "question": "Choose the correct article: '___ apple a day keeps the doctor away.'",
+    "options": ["An", "A", "The", "No article"],
+    "answer": "An"
+  },
+  {
+    "question": "Choose the correct article: '___ sun rises in the east.'",
+    "options": ["The", "A", "An", "No article"],
+    "answer": "The"
+  },
+  {
+    "question": "What is the plural of 'child'?",
+    "options": ["Children", "Childs", "Childes", "Childrens"],
+    "answer": "Children"
+  },
+  {
+    "question": "What is the plural of 'tooth'?",
+    "options": ["Teeth", "Tooths", "Toothes", "Toothies"],
+    "answer": "Teeth"
+  },
+  {
+    "question": "What is the plural of 'man'?",
+    "options": ["Men", "Mans", "Manes", "Manes"],
+    "answer": "Men"
+  },
+  {
+    "question": "What is the plural of 'leaf'?",
+    "options": ["Leaves", "Leafs", "Leafes", "Leafs"],
+    "answer": "Leaves"
+  },
+  {
+    "question": "What is the plural of 'box'?",
+    "options": ["Boxes", "Boxs", "Boxies", "Boxen"],
+    "answer": "Boxes"
+  },
+  {
+    "question": "What is the plural of 'mouse' (animal)?",
+    "options": ["Mice", "Mouses", "Mices", "Mouse"],
+    "answer": "Mice"
+  },
+  {
+    "question": "What is the plural of 'foot'?",
+    "options": ["Feet", "Foots", "Footies", "Footes"],
+    "answer": "Feet"
+  },
+  {
+    "question": "What is the plural of 'goose'?",
+    "options": ["Geese", "Gooses", "Goose", "Goosies"],
+    "answer": "Geese"
+  },
+  {
+    "question": "What is the feminine of 'lion'?",
+    "options": ["Lioness", "Lionette", "Lionne", "She-lion"],
+    "answer": "Lioness"
+  },
+  {
+    "question": "What is the feminine of 'king'?",
+    "options": ["Queen", "Kingess", "Kinge", "Lady-king"],
+    "answer": "Queen"
+  },
+  {
+    "question": "What is the masculine of 'mare'?",
+    "options": ["Stallion", "Horse", "Bull", "Ram"],
+    "answer": "Stallion"
+  },
+  {
+    "question": "What is the feminine of 'actor'?",
+    "options": ["Actress", "Actores", "Actresse", "Actoress"],
+    "answer": "Actress"
+  },
+  {
+    "question": "What is the feminine of 'prince'?",
+    "options": ["Princess", "Princes", "Princesse", "Princessy"],
+    "answer": "Princess"
+  },
+  {
+    "question": "What is the present tense of 'ran'?",
+    "options": ["Run", "Runs", "Running", "Runned"],
+    "answer": "Run"
+  },
+  {
+    "question": "What is the past tense of 'go'?",
+    "options": ["Went", "Goed", "Gone", "Goes"],
+    "answer": "Went"
+  },
+  {
+    "question": "What is the past tense of 'eat'?",
+    "options": ["Ate", "Eaten", "Eated", "Eats"],
+    "answer": "Ate"
+  },
+  {
+    "question": "What is the past tense of 'write'?",
+    "options": ["Wrote", "Written", "Writed", "Writes"],
+    "answer": "Wrote"
+  },
+  {
+    "question": "What is the past tense of 'sing'?",
+    "options": ["Sang", "Sung", "Singed", "Sings"],
+    "answer": "Sang"
+  },
+  {
+    "question": "What is the past tense of 'see'?",
+    "options": ["Saw", "Seen", "Seed", "Sees"],
+    "answer": "Saw"
+  },
+  {
+    "question": "What is the past tense of 'come'?",
+    "options": ["Came", "Comed", "Come", "Comes"],
+    "answer": "Came"
+  },
+  {
+    "question": "What is the past tense of 'give'?",
+    "options": ["Gave", "Given", "Gived", "Gives"],
+    "answer": "Gave"
+  },
+  {
+    "question": "Which sentence is in the present continuous tense?",
+    "options": ["She is dancing.", "She dances.", "She danced.", "She will dance."],
+    "answer": "She is dancing."
+  },
+  {
+    "question": "Which sentence is in the simple past tense?",
+    "options": ["He played cricket.", "He plays cricket.", "He is playing cricket.", "He will play cricket."],
+    "answer": "He played cricket."
+  },
+  {
+    "question": "Which sentence is in the simple future tense?",
+    "options": ["She will go to school.", "She goes to school.", "She went to school.", "She is going to school."],
+    "answer": "She will go to school."
+  },
+  {
+    "question": "What is the antonym of 'hot'?",
+    "options": ["Cold", "Warm", "Cool", "Mild"],
+    "answer": "Cold"
+  },
+  {
+    "question": "What is the antonym of 'happy'?",
+    "options": ["Sad", "Glad", "Joyful", "Excited"],
+    "answer": "Sad"
+  },
+  {
+    "question": "What is the antonym of 'big'?",
+    "options": ["Small", "Tall", "Long", "Wide"],
+    "answer": "Small"
+  },
+  {
+    "question": "What is the antonym of 'day'?",
+    "options": ["Night", "Evening", "Dusk", "Dawn"],
+    "answer": "Night"
+  },
+  {
+    "question": "What is the antonym of 'slow'?",
+    "options": ["Fast", "Quick", "Both Fast and Quick", "Rapid"],
+    "answer": "Fast"
+  },
+  {
+    "question": "What is the antonym of 'love'?",
+    "options": ["Hate", "Like", "Dislike", "Ignore"],
+    "answer": "Hate"
+  },
+  {
+    "question": "What is the antonym of 'ancient'?",
+    "options": ["Modern", "Old", "New", "Fresh"],
+    "answer": "Modern"
+  },
+  {
+    "question": "What is the antonym of 'brave'?",
+    "options": ["Cowardly", "Bold", "Daring", "Fearless"],
+    "answer": "Cowardly"
+  },
+  {
+    "question": "What is the synonym of 'happy'?",
+    "options": ["Joyful", "Sad", "Angry", "Tired"],
+    "answer": "Joyful"
+  },
+  {
+    "question": "What is the synonym of 'big'?",
+    "options": ["Large", "Small", "Tiny", "Little"],
+    "answer": "Large"
+  },
+  {
+    "question": "What is the synonym of 'begin'?",
+    "options": ["Start", "End", "Stop", "Finish"],
+    "answer": "Start"
+  },
+  {
+    "question": "What is the synonym of 'fast'?",
+    "options": ["Quick", "Slow", "Lazy", "Quiet"],
+    "answer": "Quick"
+  },
+  {
+    "question": "What is the synonym of 'difficult'?",
+    "options": ["Hard", "Easy", "Simple", "Clear"],
+    "answer": "Hard"
+  },
+  {
+    "question": "What is the synonym of 'beautiful'?",
+    "options": ["Pretty", "Ugly", "Plain", "Dull"],
+    "answer": "Pretty"
+  },
+  {
+    "question": "What is the synonym of 'angry'?",
+    "options": ["Furious", "Happy", "Calm", "Peaceful"],
+    "answer": "Furious"
+  },
+  {
+    "question": "What is the synonym of 'smart'?",
+    "options": ["Clever", "Dumb", "Slow", "Weak"],
+    "answer": "Clever"
+  },
+  {
+    "question": "What does the idiom 'It's raining cats and dogs' mean?",
+    "options": ["It is raining very heavily", "Animals are falling from the sky", "It is a light drizzle", "It is cloudy"],
+    "answer": "It is raining very heavily"
+  },
+  {
+    "question": "What does the idiom 'Break the ice' mean?",
+    "options": ["To start a conversation and make people feel comfortable", "To break frozen water", "To stop a fight", "To open a window"],
+    "answer": "To start a conversation and make people feel comfortable"
+  },
+  {
+    "question": "What does the idiom 'Hit the nail on the head' mean?",
+    "options": ["To be exactly right", "To hammer a nail", "To be wrong", "To build something"],
+    "answer": "To be exactly right"
+  },
+  {
+    "question": "What does the idiom 'Bite the bullet' mean?",
+    "options": ["To endure a painful situation bravely", "To eat something hard", "To be afraid", "To fight someone"],
+    "answer": "To endure a painful situation bravely"
+  },
+  {
+    "question": "What does the idiom 'Under the weather' mean?",
+    "options": ["Feeling unwell or sick", "Standing in the rain", "Being outside", "Feeling cold"],
+    "answer": "Feeling unwell or sick"
+  },
+  {
+    "question": "Which sentence is punctuated correctly?",
+    "options": ["She likes apples, mangoes, and bananas.", "She likes apples mangoes and bananas.", "She likes, apples, mangoes and, bananas.", "She likes: apples, mangoes and bananas"],
+    "answer": "She likes apples, mangoes, and bananas."
+  },
+  {
+    "question": "Which punctuation mark ends a question?",
+    "options": ["Question mark (?)", "Full stop (.)", "Exclamation mark (!)", "Comma (,)"],
+    "answer": "Question mark (?)"
+  },
+  {
+    "question": "Which punctuation mark ends an exclamatory sentence?",
+    "options": ["Exclamation mark (!)", "Full stop (.)", "Question mark (?)", "Comma (,)"],
+    "answer": "Exclamation mark (!)"
+  },
+  {
+    "question": "Which punctuation mark is used to separate items in a list?",
+    "options": ["Comma (,)", "Full stop (.)", "Question mark (?)", "Colon (:)"],
+    "answer": "Comma (,)"
+  },
+  {
+    "question": "What punctuation mark shows possession?",
+    "options": ["Apostrophe (')", "Comma (,)", "Hyphen (-)", "Colon (:)"],
+    "answer": "Apostrophe (')"
+  },
+  {
+    "question": "Which sentence uses an apostrophe correctly?",
+    "options": ["That is Priya's bag.", "That is Priyas bag.", "That is Priya bag's.", "That is Priyas' bag."],
+    "answer": "That is Priya's bag."
+  },
+  {
+    "question": "What is a sentence?",
+    "options": ["A group of words that makes complete sense", "A single word", "A group of letters", "A paragraph"],
+    "answer": "A group of words that makes complete sense"
+  },
+  {
+    "question": "Which of these is a complete sentence?",
+    "options": ["The cat sat on the mat.", "Running fast.", "Big blue.", "In the morning."],
+    "answer": "The cat sat on the mat."
+  },
+  {
+    "question": "What kind of sentence asks a question?",
+    "options": ["Interrogative", "Declarative", "Exclamatory", "Imperative"],
+    "answer": "Interrogative"
+  },
+  {
+    "question": "What kind of sentence makes a statement?",
+    "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+    "answer": "Declarative"
+  },
+  {
+    "question": "What kind of sentence gives a command?",
+    "options": ["Imperative", "Interrogative", "Declarative", "Exclamatory"],
+    "answer": "Imperative"
+  },
+  {
+    "question": "What kind of sentence shows strong emotion?",
+    "options": ["Exclamatory", "Declarative", "Interrogative", "Imperative"],
+    "answer": "Exclamatory"
+  },
+  {
+    "question": "Which of the following is an exclamatory sentence?",
+    "options": ["What a beautiful flower!", "Is this your book?", "Close the door.", "She is singing."],
+    "answer": "What a beautiful flower!"
+  },
+  {
+    "question": "Which of the following is an imperative sentence?",
+    "options": ["Please sit down.", "She is reading.", "Did you eat?", "How lovely!"],
+    "answer": "Please sit down."
+  },
+  {
+    "question": "What is the subject of a sentence?",
+    "options": ["The person or thing the sentence is about", "The action in the sentence", "The describing word", "The connecting word"],
+    "answer": "The person or thing the sentence is about"
+  },
+  {
+    "question": "Identify the subject: 'The little boy cried loudly.'",
+    "options": ["The little boy", "Cried", "Loudly", "Little"],
+    "answer": "The little boy"
+  },
+  {
+    "question": "What is the predicate of a sentence?",
+    "options": ["The part that tells what the subject does or is", "The naming part", "The describing word", "The article"],
+    "answer": "The part that tells what the subject does or is"
+  },
+  {
+    "question": "What is a paragraph?",
+    "options": ["A group of sentences about one topic", "A single sentence", "A list of words", "A page of text"],
+    "answer": "A group of sentences about one topic"
+  },
+  {
+    "question": "What is the topic sentence of a paragraph?",
+    "options": ["The sentence that states the main idea", "The last sentence", "A supporting detail", "A concluding sentence"],
+    "answer": "The sentence that states the main idea"
+  },
+  {
+    "question": "What is alliteration?",
+    "options": ["Repetition of the same starting sound in nearby words", "Repetition of rhyming words", "A type of metaphor", "A comparison using 'like' or 'as'"],
+    "answer": "Repetition of the same starting sound in nearby words"
+  },
+  {
+    "question": "Which sentence uses alliteration?",
+    "options": ["Peter Piper picked a peck.", "She sells seashells by the seashore.", "Both of these", "None of these"],
+    "answer": "Both of these"
+  },
+  {
+    "question": "What is a simile?",
+    "options": ["A comparison using 'like' or 'as'", "A comparison without using 'like' or 'as'", "A repeated sound", "A rhyming pattern"],
+    "answer": "A comparison using 'like' or 'as'"
+  },
+  {
+    "question": "Which sentence is a simile?",
+    "options": ["She is as fast as a cheetah.", "She is a cheetah.", "The cheetah ran.", "Fast like running."],
+    "answer": "She is as fast as a cheetah."
+  },
+  {
+    "question": "What is a metaphor?",
+    "options": ["A comparison that says one thing IS another without using 'like' or 'as'", "A comparison using 'like' or 'as'", "A repeated sound", "A type of noun"],
+    "answer": "A comparison that says one thing IS another without using 'like' or 'as'"
+  },
+  {
+    "question": "Which sentence is a metaphor?",
+    "options": ["Life is a journey.", "Life is like a journey.", "He runs fast.", "The road is long."],
+    "answer": "Life is a journey."
+  },
+  {
+    "question": "What is rhyme in a poem?",
+    "options": ["Words that have similar ending sounds", "Words that start with the same letter", "Words that are opposite in meaning", "Words that are repeated"],
+    "answer": "Words that have similar ending sounds"
+  },
+  {
+    "question": "Which two words rhyme?",
+    "options": ["Cat and bat", "Cat and dog", "Run and jump", "Big and tall"],
+    "answer": "Cat and bat"
+  },
+  {
+    "question": "What is a synonym?",
+    "options": ["A word with a similar meaning to another word", "A word with the opposite meaning", "A word that sounds the same", "A word that means nothing"],
+    "answer": "A word with a similar meaning to another word"
+  },
+  {
+    "question": "What is an antonym?",
+    "options": ["A word with the opposite meaning", "A word with a similar meaning", "A word that rhymes", "A word that sounds the same"],
+    "answer": "A word with the opposite meaning"
+  },
+  {
+    "question": "What is a homophone?",
+    "options": ["Words that sound the same but have different meanings", "Words with the same meaning", "Words with opposite meanings", "Words that look the same"],
+    "answer": "Words that sound the same but have different meanings"
+  },
+  {
+    "question": "Which pair are homophones?",
+    "options": ["There and Their", "Big and Large", "Hot and Cold", "Run and Jump"],
+    "answer": "There and Their"
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["Beautiful", "Beautifull", "Beautifull", "Beutiful"],
+    "answer": "Beautiful"
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["Necessary", "Necesary", "Nessecary", "Neccessary"],
+    "answer": "Necessary"
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["Friend", "Freind", "Frend", "Friende"],
+    "answer": "Friend"
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["Receive", "Recieve", "Receve", "Receeve"],
+    "answer": "Receive"
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["Separate", "Seperate", "Seperrate", "Seprate"],
+    "answer": "Separate"
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["Believe", "Beleive", "Beleave", "Belive"],
+    "answer": "Believe"
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["February", "Feburary", "Febuary", "Februray"],
+    "answer": "February"
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["Wednesday", "Wednessday", "Wenesday", "Wednesdey"],
+    "answer": "Wednesday"
+  },
+  {
+    "question": "Choose the correct word: 'She ___ to school every day.'",
+    "options": ["Goes", "Go", "Gone", "Going"],
+    "answer": "Goes"
+  },
+  {
+    "question": "Choose the correct word: 'They ___ playing in the park.'",
+    "options": ["Are", "Is", "Was", "Am"],
+    "answer": "Are"
+  },
+  {
+    "question": "Choose the correct word: 'He ___ his homework yesterday.'",
+    "options": ["Did", "Does", "Do", "Doing"],
+    "answer": "Did"
+  },
+  {
+    "question": "Choose the correct word: 'I ___ a student.'",
+    "options": ["Am", "Is", "Are", "Was"],
+    "answer": "Am"
+  },
+  {
+    "question": "Choose the correct word: 'The children ___ playing outside.'",
+    "options": ["Were", "Was", "Is", "Am"],
+    "answer": "Were"
+  },
+  {
+    "question": "What is the opposite of 'north'?",
+    "options": ["South", "East", "West", "Up"],
+    "answer": "South"
+  },
+  {
+    "question": "What is the opposite of 'light' (weight)?",
+    "options": ["Heavy", "Dark", "Bright", "Dim"],
+    "answer": "Heavy"
+  },
+  {
+    "question": "What is the opposite of 'thick'?",
+    "options": ["Thin", "Wide", "Long", "Short"],
+    "answer": "Thin"
+  },
+  {
+    "question": "What is the opposite of 'always'?",
+    "options": ["Never", "Sometimes", "Often", "Rarely"],
+    "answer": "Never"
+  },
+  {
+    "question": "What is the opposite of 'empty'?",
+    "options": ["Full", "Heavy", "Large", "Packed"],
+    "answer": "Full"
+  },
+  {
+    "question": "What is the meaning of the word 'enormous'?",
+    "options": ["Very large", "Very small", "Very fast", "Very quiet"],
+    "answer": "Very large"
+  },
+  {
+    "question": "What is the meaning of the word 'ancient'?",
+    "options": ["Very old", "Very new", "Very fast", "Very clean"],
+    "answer": "Very old"
+  },
+  {
+    "question": "What is the meaning of the word 'courageous'?",
+    "options": ["Brave", "Afraid", "Weak", "Lazy"],
+    "answer": "Brave"
+  },
+  {
+    "question": "What is the meaning of the word 'delicious'?",
+    "options": ["Tasty", "Ugly", "Loud", "Bright"],
+    "answer": "Tasty"
+  },
+  {
+    "question": "What is the meaning of the word 'transparent'?",
+    "options": ["Clear, easy to see through", "Colorful", "Heavy", "Rough"],
+    "answer": "Clear, easy to see through"
+  },
+  {
+    "question": "What is the meaning of 'nocturnal'?",
+    "options": ["Active at night", "Active during the day", "Very fast", "Living underground"],
+    "answer": "Active at night"
+  },
+  {
+    "question": "What is the meaning of 'habitat'?",
+    "options": ["The natural home of an animal", "A type of clothing", "A house for humans", "A food item"],
+    "answer": "The natural home of an animal"
+  },
+  {
+    "question": "What does 'generous' mean?",
+    "options": ["Willing to give and share", "Selfish", "Greedy", "Lazy"],
+    "answer": "Willing to give and share"
+  },
+  {
+    "question": "What does 'whisper' mean?",
+    "options": ["To speak very softly", "To shout loudly", "To sing clearly", "To laugh quietly"],
+    "answer": "To speak very softly"
+  },
+  {
+    "question": "What does 'enormous' mean?",
+    "options": ["Very large", "Very small", "Very tall", "Very wide"],
+    "answer": "Very large"
+  },
+  {
+    "question": "What is the correct form: 'She sings ___ than her sister.'",
+    "options": ["Better", "More better", "Gooder", "Best"],
+    "answer": "Better"
+  },
+  {
+    "question": "Which is the superlative form of 'good'?",
+    "options": ["Best", "Better", "Goodest", "Most good"],
+    "answer": "Best"
+  },
+  {
+    "question": "Which is the comparative form of 'tall'?",
+    "options": ["Taller", "Tallest", "More tall", "Most tall"],
+    "answer": "Taller"
+  },
+  {
+    "question": "Which is the superlative form of 'hot'?",
+    "options": ["Hottest", "Hotter", "Most hot", "Hottest"],
+    "answer": "Hottest"
+  },
+  {
+    "question": "Which is the comparative form of 'beautiful'?",
+    "options": ["More beautiful", "Beautifuler", "Beautifullest", "Most beautiful"],
+    "answer": "More beautiful"
+  },
+  {
+    "question": "Which is the superlative form of 'bad'?",
+    "options": ["Worst", "Worse", "Most bad", "Baddest"],
+    "answer": "Worst"
+  },
+  {
+    "question": "Fill in the blank: 'Neither Ram nor Shyam ___ done the work.'",
+    "options": ["Has", "Have", "Had", "Having"],
+    "answer": "Has"
+  },
+  {
+    "question": "Fill in the blank: 'Each of the students ___ a book.'",
+    "options": ["Has", "Have", "Having", "Had"],
+    "answer": "Has"
+  },
+  {
+    "question": "Which word is a conjunction in: 'I wanted to go, but it was raining.'",
+    "options": ["But", "Go", "Raining", "Was"],
+    "answer": "But"
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": ["She doesn't like cold food.", "She don't like cold food.", "She not like cold food.", "She didn't likes cold food."],
+    "answer": "She doesn't like cold food."
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": ["He has eaten his lunch.", "He have eaten his lunch.", "He eated his lunch.", "He had eat his lunch."],
+    "answer": "He has eaten his lunch."
+  },
+  {
+    "question": "What is a compound word?",
+    "options": ["A word made by joining two words together", "A word with many syllables", "A word with a prefix", "A word with a suffix"],
+    "answer": "A word made by joining two words together"
+  },
+  {
+    "question": "Which of the following is a compound word?",
+    "options": ["Sunflower", "Beautiful", "Slowly", "Happy"],
+    "answer": "Sunflower"
+  },
+  {
+    "question": "Which of the following is a compound word?",
+    "options": ["Butterfly", "Running", "Kindness", "Unhappy"],
+    "answer": "Butterfly"
+  },
+  {
+    "question": "What is a prefix?",
+    "options": ["A group of letters added at the beginning of a word", "A group of letters added at the end of a word", "A root word", "A compound word"],
+    "answer": "A group of letters added at the beginning of a word"
+  },
+  {
+    "question": "What does the prefix 'un-' mean?",
+    "options": ["Not or opposite of", "Again", "Before", "After"],
+    "answer": "Not or opposite of"
+  },
+  {
+    "question": "What is the meaning of 'unhappy'?",
+    "options": ["Not happy", "Very happy", "Extremely happy", "Almost happy"],
+    "answer": "Not happy"
+  },
+  {
+    "question": "What is a suffix?",
+    "options": ["A group of letters added at the end of a word", "A group of letters added at the beginning", "A root word", "A joining word"],
+    "answer": "A group of letters added at the end of a word"
+  },
+  {
+    "question": "What does the suffix '-ful' mean?",
+    "options": ["Full of", "Without", "Before", "Against"],
+    "answer": "Full of"
+  },
+  {
+    "question": "What is the meaning of 'hopeful'?",
+    "options": ["Full of hope", "Without hope", "Against hope", "Before hope"],
+    "answer": "Full of hope"
+  },
+  {
+    "question": "What does the suffix '-less' mean?",
+    "options": ["Without", "Full of", "More", "Most"],
+    "answer": "Without"
+  },
+  {
+    "question": "What is the meaning of 'careless'?",
+    "options": ["Without care", "Full of care", "Very careful", "Having care"],
+    "answer": "Without care"
+  },
+  {
+    "question": "What is direct speech?",
+    "options": ["The exact words spoken by a person in quotation marks", "Reported speech", "Indirect speech", "Written speech"],
+    "answer": "The exact words spoken by a person in quotation marks"
+  },
+  {
+    "question": "Which sentence uses direct speech correctly?",
+    "options": ["She said, \"I am hungry.\"", "She said I am hungry.", "She said that I am hungry.", "She said, I am hungry."],
+    "answer": "She said, \"I am hungry.\""
+  },
+  {
+    "question": "What is indirect speech also called?",
+    "options": ["Reported speech", "Direct speech", "Quoted speech", "Exact speech"],
+    "answer": "Reported speech"
+  },
+  {
+    "question": "Convert to indirect speech: He said, 'I am tired.'",
+    "options": ["He said that he was tired.", "He said that I am tired.", "He said, I was tired.", "He said he is tired."],
+    "answer": "He said that he was tired."
+  },
+  {
+    "question": "What is an active voice sentence?",
+    "options": ["The subject does the action", "The subject receives the action", "The action is unknown", "The verb is absent"],
+    "answer": "The subject does the action"
+  },
+  {
+    "question": "Which sentence is in active voice?",
+    "options": ["The dog chased the cat.", "The cat was chased by the dog.", "The cat is being chased.", "The dog is chasing was."],
+    "answer": "The dog chased the cat."
+  },
+  {
+    "question": "Which sentence is in passive voice?",
+    "options": ["The letter was written by him.", "He wrote the letter.", "She is writing the letter.", "They write letters."],
+    "answer": "The letter was written by him."
+  },
+  {
+    "question": "What is a vowel?",
+    "options": ["The letters A, E, I, O, U", "The letters B, C, D, F, G", "All the letters of the alphabet", "The letters X, Y, Z"],
+    "answer": "The letters A, E, I, O, U"
+  },
+  {
+    "question": "How many vowels are in the English alphabet?",
+    "options": ["5", "6", "7", "4"],
+    "answer": "5"
+  },
+  {
+    "question": "How many letters are in the English alphabet?",
+    "options": ["26", "24", "28", "25"],
+    "answer": "26"
+  },
+  {
+    "question": "What is a consonant?",
+    "options": ["A letter that is not a vowel", "A type of vowel", "A type of syllable", "A joining word"],
+    "answer": "A letter that is not a vowel"
+  },
+  {
+    "question": "What is a syllable?",
+    "options": ["A unit of sound in a word", "A type of sentence", "A type of paragraph", "A type of noun"],
+    "answer": "A unit of sound in a word"
+  },
+  {
+    "question": "How many syllables are in the word 'beautiful'?",
+    "options": ["3", "2", "4", "1"],
+    "answer": "3"
+  },
+  {
+    "question": "How many syllables are in the word 'elephant'?",
+    "options": ["3", "2", "4", "1"],
+    "answer": "3"
+  },
+  {
+    "question": "How many syllables are in the word 'cat'?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "1"
+  },
+  {
+    "question": "What is a proverb?",
+    "options": ["A short, wise saying that gives advice", "A type of poem", "A type of story", "A long speech"],
+    "answer": "A short, wise saying that gives advice"
+  },
+  {
+    "question": "What does the proverb 'Actions speak louder than words' mean?",
+    "options": ["What you do is more important than what you say", "Speaking loudly is important", "Actions make noise", "Words are not important"],
+    "answer": "What you do is more important than what you say"
+  },
+  {
+    "question": "What does 'All that glitters is not gold' mean?",
+    "options": ["Not everything that looks good is actually good", "Gold glitters a lot", "Only gold has value", "Everything shiny is valuable"],
+    "answer": "Not everything that looks good is actually good"
+  },
+  {
+    "question": "What does 'A stitch in time saves nine' mean?",
+    "options": ["Fixing a problem early prevents more problems later", "Sewing is important", "Time is like a stitch", "Nine stitches are needed"],
+    "answer": "Fixing a problem early prevents more problems later"
+  },
+  {
+    "question": "What does 'Birds of a feather flock together' mean?",
+    "options": ["People with similar interests stay together", "Birds stay in flocks", "Feathers are similar", "Groups of birds meet"],
+    "answer": "People with similar interests stay together"
+  },
+  {
+    "question": "What does 'Practice makes perfect' mean?",
+    "options": ["Repeating something helps you get better at it", "Perfection is easy", "Practice is time-consuming", "You need to be born perfect"],
+    "answer": "Repeating something helps you get better at it"
+  },
+  {
+    "question": "What is a diary entry?",
+    "options": ["A personal record of daily events and feelings", "A type of letter", "A formal essay", "A news report"],
+    "answer": "A personal record of daily events and feelings"
+  },
+  {
+    "question": "What is a letter?",
+    "options": ["A written message sent to someone", "A type of poem", "A chapter in a book", "A type of essay"],
+    "answer": "A written message sent to someone"
+  },
+  {
+    "question": "What is the greeting in a letter called?",
+    "options": ["Salutation", "Conclusion", "Body", "Signature"],
+    "answer": "Salutation"
+  },
+  {
+    "question": "How does a formal letter end?",
+    "options": ["Yours sincerely / Yours faithfully", "Love from", "Your friend", "Bye"],
+    "answer": "Yours sincerely / Yours faithfully"
+  },
+  {
+    "question": "What is an informal letter?",
+    "options": ["A friendly letter written to someone you know well", "A business letter", "An official letter", "A complaint letter"],
+    "answer": "A friendly letter written to someone you know well"
+  },
+  {
+    "question": "What is a story made up of talking animals called?",
+    "options": ["A fable", "A fairy tale", "A myth", "A legend"],
+    "answer": "A fable"
+  },
+  {
+    "question": "Who wrote 'The Jungle Book'?",
+    "options": ["Rudyard Kipling", "Charles Dickens", "Mark Twain", "Lewis Carroll"],
+    "answer": "Rudyard Kipling"
+  },
+  {
+    "question": "What is the name of the main character in 'The Jungle Book'?",
+    "options": ["Mowgli", "Baloo", "Shere Khan", "Bagheera"],
+    "answer": "Mowgli"
+  },
+  {
+    "question": "What is a fairy tale?",
+    "options": ["A story with magical characters and events", "A true story", "A poem", "A news report"],
+    "answer": "A story with magical characters and events"
+  },
+  {
+    "question": "What is a biography?",
+    "options": ["A written account of someone else's life", "A story you make up", "A poem about someone", "A diary"],
+    "answer": "A written account of someone else's life"
+  },
+  {
+    "question": "What is an autobiography?",
+    "options": ["A book you write about your own life", "A book about someone else's life", "A diary entry", "A formal letter"],
+    "answer": "A book you write about your own life"
+  },
+  {
+    "question": "What is a poem?",
+    "options": ["A piece of writing arranged in lines with rhythm or rhyme", "A type of story", "A formal letter", "A news article"],
+    "answer": "A piece of writing arranged in lines with rhythm or rhyme"
+  },
+  {
+    "question": "What is a stanza in a poem?",
+    "options": ["A group of lines in a poem", "A single line in a poem", "The title of a poem", "The rhyming part"],
+    "answer": "A group of lines in a poem"
+  },
+  {
+    "question": "What is the theme of a story?",
+    "options": ["The main message or lesson of the story", "The main character", "The setting", "The plot"],
+    "answer": "The main message or lesson of the story"
+  },
+  {
+    "question": "What is the setting of a story?",
+    "options": ["The time and place where the story happens", "The main character", "The main problem", "The solution"],
+    "answer": "The time and place where the story happens"
+  },
+  {
+    "question": "What is the plot of a story?",
+    "options": ["The sequence of events in a story", "The theme of the story", "The characters in the story", "The setting of the story"],
+    "answer": "The sequence of events in a story"
+  },
+  {
+    "question": "What is a protagonist?",
+    "options": ["The main character in a story", "The villain", "The narrator", "A supporting character"],
+    "answer": "The main character in a story"
+  },
+  {
+    "question": "What is an antagonist?",
+    "options": ["The character who opposes the main character", "The hero", "The narrator", "A side character"],
+    "answer": "The character who opposes the main character"
+  },
+  {
+    "question": "What is a narrator?",
+    "options": ["The person who tells the story", "The main character", "The villain", "The author"],
+    "answer": "The person who tells the story"
+  },
+  {
+    "question": "What is a dialogue in a story?",
+    "options": ["A conversation between characters", "A description of the setting", "The theme of the story", "A type of poem"],
+    "answer": "A conversation between characters"
+  },
+  {
+    "question": "What is onomatopoeia?",
+    "options": ["Words that imitate the sound they describe", "A type of rhyme", "A comparison using 'like'", "A repeated consonant sound"],
+    "answer": "Words that imitate the sound they describe"
+  },
+  {
+    "question": "Which word is an example of onomatopoeia?",
+    "options": ["Buzz", "Beautiful", "Happy", "Quickly"],
+    "answer": "Buzz"
+  },
+  {
+    "question": "Which word is an example of onomatopoeia?",
+    "options": ["Splash", "Large", "Tall", "Slowly"],
+    "answer": "Splash"
+  },
+  {
+    "question": "What is personification?",
+    "options": ["Giving human qualities to non-human things", "A type of rhyme", "A comparison using 'like' or 'as'", "A type of metaphor"],
+    "answer": "Giving human qualities to non-human things"
+  },
+  {
+    "question": "Which sentence uses personification?",
+    "options": ["The wind whispered through the trees.", "The wind is strong.", "It is windy today.", "The tree fell down."],
+    "answer": "The wind whispered through the trees."
+  },
+  {
+    "question": "What is hyperbole?",
+    "options": ["An extreme exaggeration for effect", "A type of simile", "A comparison without 'like'", "A type of alliteration"],
+    "answer": "An extreme exaggeration for effect"
+  },
+  {
+    "question": "Which sentence uses hyperbole?",
+    "options": ["I've told you a million times!", "She told me twice.", "He said it once.", "They repeated it three times."],
+    "answer": "I've told you a million times!"
+  },
+  {
+    "question": "What does 'comprehension' mean?",
+    "options": ["Understanding what you read", "Writing a story", "Learning new words", "Speaking clearly"],
+    "answer": "Understanding what you read"
+  },
+  {
+    "question": "What is a dictionary used for?",
+    "options": ["Finding the meaning and spelling of words", "Finding synonyms only", "Learning grammar rules", "Reading stories"],
+    "answer": "Finding the meaning and spelling of words"
+  },
+  {
+    "question": "What is a thesaurus used for?",
+    "options": ["Finding synonyms and antonyms", "Finding word meanings", "Checking spellings only", "Learning grammar"],
+    "answer": "Finding synonyms and antonyms"
+  },
+  {
+    "question": "What is an encyclopedia used for?",
+    "options": ["Finding information on many topics", "Finding word meanings", "Finding synonyms", "Reading poetry"],
+    "answer": "Finding information on many topics"
+  },
+  {
+    "question": "What is the moral of a story?",
+    "options": ["The lesson taught by the story", "The main character", "The setting", "The beginning of the story"],
+    "answer": "The lesson taught by the story"
+  },
+  {
+    "question": "What is a fable?",
+    "options": ["A short story with a moral, often featuring animals", "A long adventure story", "A type of poem", "A fairy tale with magic"],
+    "answer": "A short story with a moral, often featuring animals"
+  },
+  {
+    "question": "Who is the author of 'Aesop's Fables'?",
+    "options": ["Aesop", "Shakespeare", "Rudyard Kipling", "Hans Christian Andersen"],
+    "answer": "Aesop"
+  },
+  {
+    "question": "What is the moral of 'The Tortoise and the Hare'?",
+    "options": ["Slow and steady wins the race", "Speed is everything", "Never give up", "Teamwork is important"],
+    "answer": "Slow and steady wins the race"
+  },
+  {
+    "question": "What is a myth?",
+    "options": ["A traditional story explaining natural events, often involving gods", "A modern story", "A true news story", "A type of poem"],
+    "answer": "A traditional story explaining natural events, often involving gods"
+  },
+  {
+    "question": "What is a legend?",
+    "options": ["A traditional story about heroic figures, often based on history", "A completely made-up story", "A type of poem", "A fairy tale"],
+    "answer": "A traditional story about heroic figures, often based on history"
+  },
+  {
+    "question": "What type of writing tells what really happened?",
+    "options": ["Non-fiction", "Fiction", "Fantasy", "Fable"],
+    "answer": "Non-fiction"
+  },
+  {
+    "question": "What type of writing is made up and not real?",
+    "options": ["Fiction", "Non-fiction", "Biography", "News report"],
+    "answer": "Fiction"
+  },
+  {
+    "question": "What is an essay?",
+    "options": ["A short piece of writing on a specific topic", "A type of poem", "A diary entry", "A letter"],
+    "answer": "A short piece of writing on a specific topic"
+  },
+  {
+    "question": "What is a report?",
+    "options": ["A factual piece of writing about a topic or event", "A fictional story", "A type of poem", "A personal diary"],
+    "answer": "A factual piece of writing about a topic or event"
+  },
+  {
+    "question": "What is an advertisement?",
+    "options": ["A message that promotes a product or service", "A news report", "A type of story", "A type of poem"],
+    "answer": "A message that promotes a product or service"
+  },
+  {
+    "question": "What is the purpose of a notice?",
+    "options": ["To inform people about something important", "To tell a story", "To write a poem", "To express personal feelings"],
+    "answer": "To inform people about something important"
+  },
+  {
+    "question": "Which sentence is in the negative form?",
+    "options": ["She does not like mangoes.", "She likes mangoes.", "She loved mangoes.", "She will like mangoes."],
+    "answer": "She does not like mangoes."
+  },
+  {
+    "question": "Change to negative: 'He is playing football.'",
+    "options": ["He is not playing football.", "He was not playing football.", "He does not play football.", "He did not play football."],
+    "answer": "He is not playing football."
+  },
+  {
+    "question": "Which is the question form of 'She is reading a book'?",
+    "options": ["Is she reading a book?", "She is reading a book?", "Was she reading a book?", "Does she read a book?"],
+    "answer": "Is she reading a book?"
+  },
+  {
+    "question": "What is an interjection?",
+    "options": ["A word that expresses a strong emotion", "A connecting word", "A describing word", "A naming word"],
+    "answer": "A word that expresses a strong emotion"
+  },
+  {
+    "question": "Which of these is an interjection?",
+    "options": ["Wow!", "Run", "Quickly", "Table"],
+    "answer": "Wow!"
+  },
+  {
+    "question": "Which of these is an interjection?",
+    "options": ["Hurray!", "Happy", "Chair", "Slowly"],
+    "answer": "Hurray!"
+  },
+  {
+    "question": "What is a modal verb?",
+    "options": ["A verb expressing ability, possibility, or permission (can, may, must)", "A main action verb", "A helping verb only", "A linking verb"],
+    "answer": "A verb expressing ability, possibility, or permission (can, may, must)"
+  },
+  {
+    "question": "Which is a modal verb?",
+    "options": ["Can", "Run", "Happy", "Table"],
+    "answer": "Can"
+  },
+  {
+    "question": "Which modal verb shows permission?",
+    "options": ["May", "Must", "Should", "Will"],
+    "answer": "May"
+  },
+  {
+    "question": "Which modal verb shows obligation?",
+    "options": ["Must", "Can", "May", "Might"],
+    "answer": "Must"
+  },
+  {
+    "question": "Fill in the blank: 'You ___ brush your teeth twice a day.' (obligation)",
+    "options": ["Should", "Can", "May", "Might"],
+    "answer": "Should"
+  },
+  {
+    "question": "What is a linking verb?",
+    "options": ["A verb that connects the subject to a description (is, are, was)", "An action verb", "A modal verb", "A helping verb only"],
+    "answer": "A verb that connects the subject to a description (is, are, was)"
+  },
+  {
+    "question": "Identify the linking verb: 'The flowers are beautiful.'",
+    "options": ["Are", "Flowers", "Beautiful", "The"],
+    "answer": "Are"
+  },
+  {
+    "question": "What is a helping verb?",
+    "options": ["A verb used with the main verb to form tenses", "The main action verb", "A noun", "An adjective"],
+    "answer": "A verb used with the main verb to form tenses"
+  },
+  {
+    "question": "Identify the helping verb: 'She is singing a song.'",
+    "options": ["Is", "Singing", "Song", "She"],
+    "answer": "Is"
+  },
+  {
+    "question": "What is a transitive verb?",
+    "options": ["A verb that requires a direct object", "A verb that doesn't need an object", "A linking verb", "A modal verb"],
+    "answer": "A verb that requires a direct object"
+  },
+  {
+    "question": "What is an intransitive verb?",
+    "options": ["A verb that doesn't need a direct object", "A verb that requires an object", "A linking verb", "A helping verb"],
+    "answer": "A verb that doesn't need a direct object"
+  },
+  {
+    "question": "What is a phrase?",
+    "options": ["A group of words without a subject and verb", "A complete sentence", "A type of paragraph", "A type of clause"],
+    "answer": "A group of words without a subject and verb"
+  },
+  {
+    "question": "What is a clause?",
+    "options": ["A group of words containing a subject and a verb", "A group of words without a verb", "A type of sentence", "A paragraph"],
+    "answer": "A group of words containing a subject and a verb"
+  },
+  {
+    "question": "What is a compound sentence?",
+    "options": ["Two or more independent clauses joined by a conjunction", "A single simple sentence", "A sentence with a subordinate clause", "A question sentence"],
+    "answer": "Two or more independent clauses joined by a conjunction"
+  },
+  {
+    "question": "Which sentence is a compound sentence?",
+    "options": ["I like apples, and she likes oranges.", "I like apples.", "She likes oranges because they are sweet.", "We eat fruit."],
+    "answer": "I like apples, and she likes oranges."
+  },
+  {
+    "question": "What is a simple sentence?",
+    "options": ["A sentence with one subject and one verb", "A sentence with two verbs", "A sentence joined by a conjunction", "A very short sentence"],
+    "answer": "A sentence with one subject and one verb"
+  },
+  {
+    "question": "What is a contraction?",
+    "options": ["A shortened form of two words combined with an apostrophe", "A compound word", "A prefix", "A suffix"],
+    "answer": "A shortened form of two words combined with an apostrophe"
+  },
+  {
+    "question": "What is the contraction of 'do not'?",
+    "options": ["Don't", "Dont", "Donot", "Do'not"],
+    "answer": "Don't"
+  },
+  {
+    "question": "What is the contraction of 'I am'?",
+    "options": ["I'm", "Im", "I'am", "Iam"],
+    "answer": "I'm"
+  },
+  {
+    "question": "What is the contraction of 'they are'?",
+    "options": ["They're", "Their", "There", "Theyre"],
+    "answer": "They're"
+  },
+  {
+    "question": "What is the contraction of 'cannot'?",
+    "options": ["Can't", "Cant", "Cann't", "Cannt"],
+    "answer": "Can't"
+  },
+  {
+    "question": "Which word completes the sentence correctly: 'There are ___ students in the class.' (many/much)?",
+    "options": ["Many", "Much", "More", "Most"],
+    "answer": "Many"
+  },
+  {
+    "question": "Which word is correct: 'She has ___ milk.' (many/much)?",
+    "options": ["Much", "Many", "A lot of many", "Few"],
+    "answer": "Much"
+  },
+  {
+    "question": "Which word is correct: 'There are ___ apples left.' (few/little)?",
+    "options": ["Few", "Little", "Less", "Fewer than"],
+    "answer": "Few"
+  },
+  {
+    "question": "Which word is correct: 'There is ___ water in the bottle.' (few/little)?",
+    "options": ["Little", "Few", "Less than", "Fewer"],
+    "answer": "Little"
+  },
+  {
+    "question": "What is a possessive pronoun?",
+    "options": ["A pronoun showing ownership (mine, yours, his, hers)", "A subject pronoun", "An object pronoun", "A reflexive pronoun"],
+    "answer": "A pronoun showing ownership (mine, yours, his, hers)"
+  },
+  {
+    "question": "Which of these is a possessive pronoun?",
+    "options": ["Mine", "Me", "I", "We"],
+    "answer": "Mine"
+  },
+  {
+    "question": "Fill in the blank: 'That book is ___.' (referring to me)",
+    "options": ["Mine", "Me", "My", "I"],
+    "answer": "Mine"
+  },
+  {
+    "question": "What is a reflexive pronoun?",
+    "options": ["A pronoun that refers back to the subject (myself, yourself, himself)", "A subject pronoun", "A possessive pronoun", "An object pronoun"],
+    "answer": "A pronoun that refers back to the subject (myself, yourself, himself)"
+  },
+  {
+    "question": "Which of these is a reflexive pronoun?",
+    "options": ["Herself", "Her", "She", "Hers"],
+    "answer": "Herself"
+  },
+  {
+    "question": "Fill in the blank: 'He hurt ___ while playing.'",
+    "options": ["Himself", "Him", "His", "He"],
+    "answer": "Himself"
+  },
+  {
+    "question": "What is a question tag?",
+    "options": ["A short question added at the end of a statement", "A type of question mark", "A type of exclamation", "A question word"],
+    "answer": "A short question added at the end of a statement"
+  },
+  {
+    "question": "Add the correct question tag: 'She is a doctor, ___?'",
+    "options": ["Isn't she", "Is she", "Wasn't she", "Doesn't she"],
+    "answer": "Isn't she"
+  },
+  {
+    "question": "Add the correct question tag: 'They don't like ice cream, ___?'",
+    "options": ["Do they", "Don't they", "Did they", "Are they"],
+    "answer": "Do they"
+  },
+  {
+    "question": "What are question words called?",
+    "options": ["Wh-words or interrogative pronouns", "Conjunctions", "Prepositions", "Interjections"],
+    "answer": "Wh-words or interrogative pronouns"
+  },
+  {
+    "question": "Which question word asks about a person?",
+    "options": ["Who", "What", "Where", "When"],
+    "answer": "Who"
+  },
+  {
+    "question": "Which question word asks about a place?",
+    "options": ["Where", "Who", "What", "Why"],
+    "answer": "Where"
+  },
+  {
+    "question": "Which question word asks about a time?",
+    "options": ["When", "Where", "Who", "How"],
+    "answer": "When"
+  },
+  {
+    "question": "Which question word asks about a reason?",
+    "options": ["Why", "Who", "What", "Where"],
+    "answer": "Why"
+  },
+  {
+    "question": "Which question word asks about the manner?",
+    "options": ["How", "Who", "What", "Where"],
+    "answer": "How"
+  },
+  {
+    "question": "Which question word asks about a thing?",
+    "options": ["What", "Who", "Where", "When"],
+    "answer": "What"
+  },
+  {
+    "question": "What is the correct use of 'their'?",
+    "options": ["Showing possession (Their books are on the table)", "A location word", "A verb", "A contraction of 'they are'"],
+    "answer": "Showing possession (Their books are on the table)"
+  },
+  {
+    "question": "What is the correct use of 'there'?",
+    "options": ["Indicating a place (The cat is there)", "Showing possession", "A contraction of 'they are'", "A verb"],
+    "answer": "Indicating a place (The cat is there)"
+  },
+  {
+    "question": "What is the correct use of 'they're'?",
+    "options": ["Contraction of 'they are'", "Showing possession", "A place word", "A verb"],
+    "answer": "Contraction of 'they are'"
+  },
+  {
+    "question": "Choose the correct word: '___ going to the market.' (They're/Their/There)",
+    "options": ["They're", "Their", "There", "Theyre"],
+    "answer": "They're"
+  },
+  {
+    "question": "What is the difference between 'its' and 'it's'?",
+    "options": ["'Its' shows possession; 'It's' means 'it is'", "They mean the same thing", "'It's' shows possession; 'Its' means 'it is'", "Both are contractions"],
+    "answer": "'Its' shows possession; 'It's' means 'it is'"
+  },
+  {
+    "question": "Choose correctly: '___ a sunny day.' (It's/Its)",
+    "options": ["It's", "Its", "Its'", "It is'"],
+    "answer": "It's"
+  },
+  {
+    "question": "What is a reading comprehension?",
+    "options": ["Reading a passage and answering questions about it", "Writing a creative story", "Memorizing words", "Spelling practice"],
+    "answer": "Reading a passage and answering questions about it"
+  },
+  {
+    "question": "What does 'inference' mean when reading?",
+    "options": ["Drawing a conclusion from clues in the text", "Reading aloud", "Summarizing the text", "Finding vocabulary words"],
+    "answer": "Drawing a conclusion from clues in the text"
+  },
+  {
+    "question": "What is a summary?",
+    "options": ["A short description of the main points", "The full text rewritten", "A list of characters", "The title of the story"],
+    "answer": "A short description of the main points"
+  },
+  {
+    "question": "What is prediction in reading?",
+    "options": ["Guessing what will happen next in a story", "Reading very fast", "Understanding vocabulary", "Finding the main idea"],
+    "answer": "Guessing what will happen next in a story"
+  },
+  {
+    "question": "What is the correct order of a story?",
+    "options": ["Beginning, Middle, End", "End, Middle, Beginning", "Middle, Beginning, End", "End, Beginning, Middle"],
+    "answer": "Beginning, Middle, End"
+  },
+  {
+    "question": "What does 'point of view' mean in a story?",
+    "options": ["The perspective from which the story is told", "The theme of the story", "The setting of the story", "The characters in the story"],
+    "answer": "The perspective from which the story is told"
+  },
+  {
+    "question": "What is first person point of view?",
+    "options": ["The narrator uses 'I' and 'we' to tell the story", "The narrator uses 'he/she' to tell the story", "The narrator uses 'you' to tell the story", "The narrator is a character outside the story"],
+    "answer": "The narrator uses 'I' and 'we' to tell the story"
+  },
+  {
+    "question": "What is third person point of view?",
+    "options": ["The narrator uses 'he', 'she', or 'they' to tell the story", "The narrator uses 'I'", "The narrator uses 'you'", "The author appears in the story"],
+    "answer": "The narrator uses 'he', 'she', or 'they' to tell the story"
+  },
+  {
+    "question": "What is the climax of a story?",
+    "options": ["The most exciting or important moment in the story", "The beginning of the story", "The ending of the story", "The introduction of characters"],
+    "answer": "The most exciting or important moment in the story"
+  },
+  {
+    "question": "What is a conflict in a story?",
+    "options": ["The main problem or struggle in the story", "The main character", "The setting", "The resolution"],
+    "answer": "The main problem or struggle in the story"
+  },
+  {
+    "question": "What is a resolution in a story?",
+    "options": ["How the problem or conflict is solved", "The main problem", "The climax", "The setting"],
+    "answer": "How the problem or conflict is solved"
+  },
+  {
+    "question": "What is the tone of a piece of writing?",
+    "options": ["The writer's attitude or feeling in the writing", "The theme of the writing", "The main character's feeling", "The style of writing"],
+    "answer": "The writer's attitude or feeling in the writing"
+  },
+  {
+    "question": "What is the purpose of descriptive writing?",
+    "options": ["To paint a picture with words so the reader can imagine it", "To convince the reader of something", "To tell a story with a moral", "To present factual information"],
+    "answer": "To paint a picture with words so the reader can imagine it"
+  },
+  {
+    "question": "What is persuasive writing?",
+    "options": ["Writing that tries to convince the reader of a point of view", "Writing that tells a story", "Writing that describes a place", "Writing that explains facts"],
+    "answer": "Writing that tries to convince the reader of a point of view"
+  },
+  {
+    "question": "What is expository writing?",
+    "options": ["Writing that explains or informs about a topic", "Writing that tells a fictional story", "Writing that tries to convince", "Writing that describes"],
+    "answer": "Writing that explains or informs about a topic"
+  },
+  {
+    "question": "What is narrative writing?",
+    "options": ["Writing that tells a story", "Writing that explains facts", "Writing that persuades", "Writing that describes only"],
+    "answer": "Writing that tells a story"
+  },
+  {
+    "question": "What is an acrostic poem?",
+    "options": ["A poem where the first letter of each line spells a word", "A poem that rhymes", "A poem with a set number of syllables", "A poem without rhyme"],
+    "answer": "A poem where the first letter of each line spells a word"
+  },
+  {
+    "question": "What is a haiku?",
+    "options": ["A Japanese poem with 3 lines of 5, 7, and 5 syllables", "A poem with 4 stanzas", "A rhyming poem with 8 lines", "A poem about nature only"],
+    "answer": "A Japanese poem with 3 lines of 5, 7, and 5 syllables"
+  },
+  {
+    "question": "What is a limerick?",
+    "options": ["A funny 5-line poem with an AABBA rhyme scheme", "A serious poem with 4 lines", "A haiku", "A poem without rhyme"],
+    "answer": "A funny 5-line poem with an AABBA rhyme scheme"
+  },
+  {
+    "question": "What is free verse?",
+    "options": ["Poetry that does not have a regular rhyme or rhythm", "Poetry that must rhyme", "Poetry with a fixed number of syllables", "A type of haiku"],
+    "answer": "Poetry that does not have a regular rhyme or rhythm"
+  },
+  {
+    "question": "What does 'fluency' mean in reading?",
+    "options": ["Reading smoothly, accurately, and with expression", "Reading very slowly", "Reading only loud words", "Knowing all vocabulary"],
+    "answer": "Reading smoothly, accurately, and with expression"
+  },
+  {
+    "question": "What does 'decoding' mean in reading?",
+    "options": ["Using phonics knowledge to sound out words", "Understanding what you read", "Writing new words", "Spelling words correctly"],
+    "answer": "Using phonics knowledge to sound out words"
+  },
+  {
+    "question": "What is phonics?",
+    "options": ["The relationship between letters and the sounds they make", "A type of grammar", "A reading strategy", "A type of vocabulary"],
+    "answer": "The relationship between letters and the sounds they make"
+  },
+  {
+    "question": "What is vocabulary?",
+    "options": ["The words in a language or known by a person", "A type of grammar rule", "A reading strategy", "A type of poem"],
+    "answer": "The words in a language or known by a person"
+  },
+  {
+    "question": "What is context clue?",
+    "options": ["Information in the surrounding text that helps understand a word's meaning", "A dictionary definition", "A grammar rule", "A prefix or suffix hint"],
+    "answer": "Information in the surrounding text that helps understand a word's meaning"
+  },
+  {
+    "question": "What does 'infer' mean?",
+    "options": ["To figure out something not directly stated", "To look up a word", "To summarize a text", "To read aloud"],
+    "answer": "To figure out something not directly stated"
+  },
+  {
+    "question": "What is the main idea?",
+    "options": ["The most important point in a passage", "The first sentence", "A supporting detail", "The conclusion only"],
+    "answer": "The most important point in a passage"
+  },
+  {
+    "question": "What are supporting details?",
+    "options": ["Facts that back up the main idea", "The main idea sentences", "The concluding sentences", "The title of the passage"],
+    "answer": "Facts that back up the main idea"
+  },
+  {
+    "question": "What is the conclusion of a paragraph?",
+    "options": ["The final sentence that wraps up the main idea", "The topic sentence", "A supporting detail", "The heading"],
+    "answer": "The final sentence that wraps up the main idea"
+  },
+  {
+    "question": "What is a caption?",
+    "options": ["A short description under an image", "A title of a story", "A type of heading", "A paragraph"],
+    "answer": "A short description under an image"
+  },
+  {
+    "question": "What is a heading in a text?",
+    "options": ["A title that introduces a section", "The first sentence of a paragraph", "A type of caption", "A summary sentence"],
+    "answer": "A title that introduces a section"
+  },
+  {
+    "question": "What is a table of contents?",
+    "options": ["A list of chapters or sections with page numbers", "A summary of the book", "The index", "The glossary"],
+    "answer": "A list of chapters or sections with page numbers"
+  },
+  {
+    "question": "What is an index in a book?",
+    "options": ["An alphabetical list of topics with page numbers at the back of the book", "A list of chapters", "A glossary", "A summary"],
+    "answer": "An alphabetical list of topics with page numbers at the back of the book"
+  },
+  {
+    "question": "What is a glossary in a book?",
+    "options": ["A list of important words with their meanings", "A list of chapters", "An alphabetical index", "A bibliography"],
+    "answer": "A list of important words with their meanings"
+  },
+  {
+    "question": "What is a bibliography?",
+    "options": ["A list of books and sources used by the author", "A list of characters", "A table of contents", "A glossary"],
+    "answer": "A list of books and sources used by the author"
+  },
+  {
+    "question": "What is a chapter?",
+    "options": ["A main section of a book", "A paragraph", "A stanza", "A type of sentence"],
+    "answer": "A main section of a book"
+  },
+  {
+    "question": "What is the author of a book?",
+    "options": ["The person who wrote the book", "The person who published the book", "The person who illustrated the book", "The person who edited the book"],
+    "answer": "The person who wrote the book"
+  },
+  {
+    "question": "What is an illustrator?",
+    "options": ["The person who draws the pictures in a book", "The author of the book", "The publisher of the book", "The editor of the book"],
+    "answer": "The person who draws the pictures in a book"
+  },
+  {
+    "question": "What is the genre of a book?",
+    "options": ["The category or type of book (e.g., fantasy, mystery, non-fiction)", "The main character", "The setting", "The plot"],
+    "answer": "The category or type of book (e.g., fantasy, mystery, non-fiction)"
+  },
+  {
+    "question": "What is the correct plural of the word 'story'?",
+    "options": ["Stories", "Storys", "Storis", "Storyes"],
+    "answer": "Stories"
+  },
+  {
+    "question": "What is the correct plural of 'city'?",
+    "options": ["Cities", "Citys", "Cityes", "Citeis"],
+    "answer": "Cities"
+  },
+  {
+    "question": "What is the correct plural of 'baby'?",
+    "options": ["Babies", "Babys", "Babyes", "Babeis"],
+    "answer": "Babies"
+  },
+  {
+    "question": "Which sentence uses 'their' correctly?",
+    "options": ["The students forgot their books.", "Their going to the park.", "I went their yesterday.", "Their is a cat."],
+    "answer": "The students forgot their books."
+  },
+  {
+    "question": "Which sentence uses 'too' correctly?",
+    "options": ["She wants to come too.", "She went too the park.", "Two children came.", "She is to tall."],
+    "answer": "She wants to come too."
+  },
+  {
+    "question": "What is the meaning of the word 'reluctant'?",
+    "options": ["Unwilling or hesitant", "Eager and excited", "Very fast", "Very loud"],
+    "answer": "Unwilling or hesitant"
+  },
+  {
+    "question": "What is the meaning of 'vivid'?",
+    "options": ["Very bright or clear", "Very dark", "Very slow", "Very quiet"],
+    "answer": "Very bright or clear"
+  },
+  {
+    "question": "What is the meaning of 'frequently'?",
+    "options": ["Often or many times", "Rarely", "Once only", "Never"],
+    "answer": "Often or many times"
+  },
+  {
+    "question": "What is the meaning of 'exhausted'?",
+    "options": ["Extremely tired", "Very excited", "Fully energetic", "Slightly bored"],
+    "answer": "Extremely tired"
+  },
+  {
+    "question": "What is the meaning of 'predict'?",
+    "options": ["To say what will happen in the future", "To look back at the past", "To describe something", "To compare two things"],
+    "answer": "To say what will happen in the future"
+  },
+  {
+    "question": "What does 'observe' mean?",
+    "options": ["To watch or notice carefully", "To listen carefully", "To smell something", "To taste something"],
+    "answer": "To watch or notice carefully"
+  },
+  {
+    "question": "What does 'communicate' mean?",
+    "options": ["To share information with others", "To travel from one place to another", "To make something", "To store something"],
+    "answer": "To share information with others"
+  },
+  {
+    "question": "What does 'compare' mean?",
+    "options": ["To look for similarities and differences", "To find only differences", "To find only similarities", "To rank in order"],
+    "answer": "To look for similarities and differences"
+  },
+  {
+    "question": "What does 'contrast' mean?",
+    "options": ["To find differences between two things", "To find similarities", "To join two things", "To describe one thing"],
+    "answer": "To find differences between two things"
+  },
+  {
+    "question": "Which conjunction shows a result or effect?",
+    "options": ["So", "But", "Or", "And"],
+    "answer": "So"
+  },
+  {
+    "question": "Which conjunction shows a cause?",
+    "options": ["Because", "And", "But", "Or"],
+    "answer": "Because"
+  },
+  {
+    "question": "Which conjunction shows a choice?",
+    "options": ["Or", "And", "But", "Because"],
+    "answer": "Or"
+  },
+  {
+    "question": "Which conjunction shows addition?",
+    "options": ["And", "But", "Or", "Because"],
+    "answer": "And"
+  },
+  {
+    "question": "What is a paragraph indent used for?",
+    "options": ["To show the beginning of a new paragraph", "To show the end of a sentence", "To show a list", "To show a heading"],
+    "answer": "To show the beginning of a new paragraph"
+  },
+  {
+    "question": "What is a speech bubble?",
+    "options": ["A drawn bubble showing what a character is saying", "A type of sentence", "A type of punctuation", "A story title"],
+    "answer": "A drawn bubble showing what a character is saying"
+  },
+  {
+    "question": "What does 'protagonist' mean?",
+    "options": ["The main character in a story", "The villain", "The storyteller", "A minor character"],
+    "answer": "The main character in a story"
+  },
+  {
+    "question": "What is character development?",
+    "options": ["How a character changes throughout a story", "How a character is described", "How many characters are in a story", "The name of a character"],
+    "answer": "How a character changes throughout a story"
+  },
+  {
+    "question": "What is a flashback in a story?",
+    "options": ["A scene set in an earlier time to give background information", "A scene set in the future", "A very exciting scene", "A description of the setting"],
+    "answer": "A scene set in an earlier time to give background information"
+  },
+  {
+    "question": "What is foreshadowing?",
+    "options": ["Hints about what will happen later in the story", "Describing events from the past", "A type of metaphor", "A type of comparison"],
+    "answer": "Hints about what will happen later in the story"
+  },
+  {
+    "question": "What is the difference between fiction and non-fiction?",
+    "options": ["Fiction is imaginary; non-fiction is based on real facts", "Fiction is true; non-fiction is made up", "They are the same thing", "Fiction is for children; non-fiction is for adults"],
+    "answer": "Fiction is imaginary; non-fiction is based on real facts"
+  },
+  {
+    "question": "What type of text is a recipe?",
+    "options": ["Instructional text", "Narrative text", "Persuasive text", "Descriptive text"],
+    "answer": "Instructional text"
+  },
+  {
+    "question": "What type of text is a newspaper article?",
+    "options": ["Informational/expository text", "Fiction", "Poetry", "A diary entry"],
+    "answer": "Informational/expository text"
+  },
+  {
+    "question": "What is the past participle of 'write'?",
+    "options": ["Written", "Wrote", "Writed", "Writes"],
+    "answer": "Written"
+  },
+  {
+    "question": "What is the past participle of 'speak'?",
+    "options": ["Spoken", "Spoke", "Speaked", "Speaks"],
+    "answer": "Spoken"
+  },
+  {
+    "question": "What is the past participle of 'break'?",
+    "options": ["Broken", "Broke", "Breaked", "Breaks"],
+    "answer": "Broken"
+  },
+  {
+    "question": "What is the past participle of 'know'?",
+    "options": ["Known", "Knew", "Knowed", "Knows"],
+    "answer": "Known"
+  },
+  {
+    "question": "Which word correctly completes the sentence: 'I have ___ this book before.'",
+    "options": ["Read", "Readed", "Red", "Reads"],
+    "answer": "Read"
+  },
+  {
+    "question": "Which is correct: 'The team ___ playing well.'",
+    "options": ["Is", "Are", "Were", "Have"],
+    "answer": "Is"
+  },
+  {
+    "question": "What is a gerund?",
+    "options": ["A verb form ending in -ing used as a noun", "A type of adjective", "A type of adverb", "A linking verb"],
+    "answer": "A verb form ending in -ing used as a noun"
+  },
+  {
+    "question": "Identify the gerund: 'Swimming is good exercise.'",
+    "options": ["Swimming", "Good", "Exercise", "Is"],
+    "answer": "Swimming"
+  },
+  {
+    "question": "What is an infinitive verb?",
+    "options": ["The base form of a verb with 'to' (e.g., to run, to eat)", "A past tense verb", "A present tense verb", "A helping verb"],
+    "answer": "The base form of a verb with 'to' (e.g., to run, to eat)"
+  },
+  {
+    "question": "Which of these is an infinitive?",
+    "options": ["To dance", "Dancing", "Danced", "Dances"],
+    "answer": "To dance"
+  },
+  {
+    "question": "What is a root word?",
+    "options": ["The base word from which other words are formed", "A prefix", "A suffix", "A compound word"],
+    "answer": "The base word from which other words are formed"
+  },
+  {
+    "question": "What is the root word of 'unhappiness'?",
+    "options": ["Happy", "Unhappy", "Happiness", "Un"],
+    "answer": "Happy"
+  },
+  {
+    "question": "What is the root word of 'unkindly'?",
+    "options": ["Kind", "Unkind", "Kindly", "Un"],
+    "answer": "Kind"
+  },
+  {
+    "question": "What does the prefix 're-' mean?",
+    "options": ["Again", "Not", "Before", "After"],
+    "answer": "Again"
+  },
+  {
+    "question": "What does the prefix 'pre-' mean?",
+    "options": ["Before", "After", "Again", "Not"],
+    "answer": "Before"
+  },
+  {
+    "question": "What does the prefix 'mis-' mean?",
+    "options": ["Wrong or badly", "Not", "Again", "Before"],
+    "answer": "Wrong or badly"
+  },
+  {
+    "question": "What is the meaning of 'misunderstand'?",
+    "options": ["To understand wrongly", "To understand correctly", "To not understand at all", "To understand again"],
+    "answer": "To understand wrongly"
+  },
+  {
+    "question": "What does the suffix '-ness' do to a word?",
+    "options": ["Turns an adjective into a noun", "Turns a noun into a verb", "Turns a verb into an adjective", "Turns an adverb into a noun"],
+    "answer": "Turns an adjective into a noun"
+  },
+  {
+    "question": "What is the noun form of 'kind'?",
+    "options": ["Kindness", "Kindly", "Kinder", "Unkind"],
+    "answer": "Kindness"
+  },
+  {
+    "question": "What does the suffix '-er' mean when added to a verb (e.g., teach → teacher)?",
+    "options": ["A person who does the action", "An action happening now", "Something done in the past", "A describing word"],
+    "answer": "A person who does the action"
+  },
+  {
+    "question": "What is a 'teacher'?",
+    "options": ["A person who teaches", "Someone who learns", "Someone who reads", "A person who writes"],
+    "answer": "A person who teaches"
+  },
+  {
+    "question": "What is the correct sentence?",
+    "options": ["The children are playing outside.", "The children is playing outside.", "The children was playing outside.", "The children am playing outside."],
+    "answer": "The children are playing outside."
+  },
+  {
+    "question": "What is the correct sentence?",
+    "options": ["Neither of the boys has done the work.", "Neither of the boys have done the work.", "Neither of the boys had done the work.", "Neither of the boys done the work."],
+    "answer": "Neither of the boys has done the work."
+  },
+  {
+    "question": "What is the meaning of the phrase 'in a nutshell'?",
+    "options": ["To summarize or say something in a few words", "Inside a nut", "To be secretive", "To be confused"],
+    "answer": "To summarize or say something in a few words"
+  },
+  {
+    "question": "What does 'burn the midnight oil' mean?",
+    "options": ["To work or study late into the night", "To light a candle", "To cook at night", "To stay awake without purpose"],
+    "answer": "To work or study late into the night"
+  },
+  {
+    "question": "What does 'the ball is in your court' mean?",
+    "options": ["It is your turn to take action or make a decision", "You are playing a sport", "You are standing in a court", "Others must decide for you"],
+    "answer": "It is your turn to take action or make a decision"
+  },
+  {
+    "question": "What is a tongue twister?",
+    "options": ["A phrase designed to be difficult to say quickly", "A type of poem", "A type of idiom", "A type of proverb"],
+    "answer": "A phrase designed to be difficult to say quickly"
+  },
+  {
+    "question": "What does 'S/He who laughs last, laughs best' mean?",
+    "options": ["The final winner has the greatest satisfaction", "Laughing is very important", "Being first is the best", "Never laugh at others"],
+    "answer": "The final winner has the greatest satisfaction"
+  },
+  {
+    "question": "What is the 'subject' in grammar?",
+    "options": ["The noun or pronoun that performs the action", "The action in the sentence", "The describing word", "The object of the sentence"],
+    "answer": "The noun or pronoun that performs the action"
+  },
+  {
+    "question": "What is the 'object' in grammar?",
+    "options": ["The noun that receives the action", "The noun that performs the action", "The verb in the sentence", "The adjective in the sentence"],
+    "answer": "The noun that receives the action"
+  },
+  {
+    "question": "Identify the object: 'She kicked the ball.'",
+    "options": ["Ball", "She", "Kicked", "The"],
+    "answer": "Ball"
+  },
+  {
+    "question": "What type of noun is 'team'?",
+    "options": ["Collective noun", "Proper noun", "Abstract noun", "Common noun"],
+    "answer": "Collective noun"
+  },
+  {
+    "question": "What type of noun is 'courage'?",
+    "options": ["Abstract noun", "Common noun", "Proper noun", "Collective noun"],
+    "answer": "Abstract noun"
+  },
+  {
+    "question": "What type of noun is 'Taj Mahal'?",
+    "options": ["Proper noun", "Common noun", "Abstract noun", "Collective noun"],
+    "answer": "Proper noun"
+  },
+  {
+    "question": "What is the correct punctuation: 'Wow that is amazing'",
+    "options": ["Wow, that is amazing!", "Wow that is amazing.", "Wow that is amazing?", "Wow! that is amazing."],
+    "answer": "Wow, that is amazing!"
+  },
+  {
+    "question": "Which sentence uses capital letters correctly?",
+    "options": ["My name is Arjun and I live in India.", "my name is arjun and i live in india.", "My Name Is Arjun And I Live In India.", "my Name is arjun and I live in India."],
+    "answer": "My name is Arjun and I live in India."
+  },
+  {
+    "question": "When should a capital letter be used?",
+    "options": ["At the start of a sentence and for proper nouns", "After every comma", "For all nouns", "Only for names of people"],
+    "answer": "At the start of a sentence and for proper nouns"
+  },
+  {
+    "question": "What is a colon (:) used for?",
+    "options": ["To introduce a list or explanation", "To end a sentence", "To show possession", "To join two words"],
+    "answer": "To introduce a list or explanation"
+  },
+  {
+    "question": "What is a semicolon (;) used for?",
+    "options": ["To join two related independent clauses", "To end a sentence", "To show possession", "To introduce a list"],
+    "answer": "To join two related independent clauses"
+  },
+  {
+    "question": "What is the purpose of quotation marks?",
+    "options": ["To show the exact words someone said", "To show possession", "To end a sentence", "To separate items in a list"],
+    "answer": "To show the exact words someone said"
+  },
+  {
+    "question": "What is a hyphen used for?",
+    "options": ["To join parts of a compound word or modifier", "To show possession", "To end a sentence", "To introduce a list"],
+    "answer": "To join parts of a compound word or modifier"
+  },
+  {
+    "question": "What does 'comprehend' mean?",
+    "options": ["To understand", "To write", "To speak", "To read aloud"],
+    "answer": "To understand"
+  },
+  {
+    "question": "What does 'illustrate' mean?",
+    "options": ["To explain or show with pictures or examples", "To write a poem", "To perform a play", "To read a book"],
+    "answer": "To explain or show with pictures or examples"
+  },
+  {
+    "question": "What does 'conclude' mean?",
+    "options": ["To bring to an end or form an opinion", "To start something", "To argue about something", "To describe something"],
+    "answer": "To bring to an end or form an opinion"
+  },
+  {
+    "question": "What is the meaning of 'persuade'?",
+    "options": ["To convince someone to do or believe something", "To describe something", "To explain facts", "To tell a story"],
+    "answer": "To convince someone to do or believe something"
+  },
+  {
+    "question": "Which of these is an example of alliteration?",
+    "options": ["Sally sells seashells by the seashore.", "The dog ate the bone.", "She is very happy.", "He runs every day."],
+    "answer": "Sally sells seashells by the seashore."
+  },
+  {
+    "question": "What is the meaning of 'curious'?",
+    "options": ["Eager to know or learn something", "Afraid of new things", "Not interested", "Very angry"],
+    "answer": "Eager to know or learn something"
+  },
+  {
+    "question": "What is the meaning of 'innocent'?",
+    "options": ["Not guilty; free from wrongdoing", "Very guilty", "Extremely clever", "Very shy"],
+    "answer": "Not guilty; free from wrongdoing"
+  },
+  {
+    "question": "What does 'apologize' mean?",
+    "options": ["To say sorry for something", "To thank someone", "To congratulate someone", "To argue with someone"],
+    "answer": "To say sorry for something"
+  },
+  {
+    "question": "What does 'assist' mean?",
+    "options": ["To help someone", "To stop someone", "To ignore someone", "To argue with someone"],
+    "answer": "To help someone"
+  },
+  {
+    "question": "What is a 'draft' in writing?",
+    "options": ["An early version of a piece of writing", "The final version", "A published piece", "A typed version only"],
+    "answer": "An early version of a piece of writing"
+  },
+  {
+    "question": "What does 'revise' mean in writing?",
+    "options": ["To improve and make changes to a draft", "To read something", "To copy something", "To publish something"],
+    "answer": "To improve and make changes to a draft"
+  },
+  {
+    "question": "What does 'proofread' mean?",
+    "options": ["To check writing for errors before the final version", "To write a first draft", "To publish writing", "To plan writing"],
+    "answer": "To check writing for errors before the final version"
+  },
+  {
+    "question": "What is brainstorming in writing?",
+    "options": ["Coming up with as many ideas as possible before writing", "Writing the final draft", "Proofreading the work", "Publishing the writing"],
+    "answer": "Coming up with as many ideas as possible before writing"
+  },
+  {
     "question": "What is a noun?",
     "options": ["Name of a person, place or thing", "An action word", "A describing word", "A connecting word"],
     "answer": "Name of a person, place or thing"

@@ -195,6 +195,2416 @@
     "answer": "Heart"
   },
   {
+    "question": "What is the full form of UNO?",
+    "options": ["United Nations Organization", "United Nations Office", "Universal Nations Order", "United National Organization"],
+    "answer": "United Nations Organization"
+  },
+  {
+    "question": "Where is the Taj Mahal located?",
+    "options": ["Agra", "Delhi", "Jaipur", "Lucknow"],
+    "answer": "Agra"
+  },
+  {
+    "question": "Who built the Taj Mahal?",
+    "options": ["Shah Jahan", "Akbar", "Aurangzeb", "Humayun"],
+    "answer": "Shah Jahan"
+  },
+  {
+    "question": "Which is the largest mammal in the world?",
+    "options": ["Blue Whale", "Elephant", "Giraffe", "Hippopotamus"],
+    "answer": "Blue Whale"
+  },
+  {
+    "question": "Which animal is known as the Ship of the Desert?",
+    "options": ["Camel", "Horse", "Elephant", "Donkey"],
+    "answer": "Camel"
+  },
+  {
+    "question": "Which is the fastest animal on land?",
+    "options": ["Cheetah", "Lion", "Horse", "Leopard"],
+    "answer": "Cheetah"
+  },
+  {
+    "question": "What is the colour of the sky on a clear day?",
+    "options": ["Blue", "White", "Grey", "Yellow"],
+    "answer": "Blue"
+  },
+  {
+    "question": "How many colours are there in a rainbow?",
+    "options": ["7", "6", "5", "8"],
+    "answer": "7"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["Japan", "China", "South Korea", "Thailand"],
+    "answer": "Japan"
+  },
+  {
+    "question": "Which festival is known as the Festival of Lights in India?",
+    "options": ["Diwali", "Holi", "Eid", "Christmas"],
+    "answer": "Diwali"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": ["Paris", "Rome", "Berlin", "Madrid"],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is the capital of the USA?",
+    "options": ["Washington D.C.", "New York", "Los Angeles", "Chicago"],
+    "answer": "Washington D.C."
+  },
+  {
+    "question": "What is the capital of China?",
+    "options": ["Beijing", "Shanghai", "Hong Kong", "Guangzhou"],
+    "answer": "Beijing"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": ["Tokyo", "Osaka", "Kyoto", "Hiroshima"],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": ["Canberra", "Sydney", "Melbourne", "Brisbane"],
+    "answer": "Canberra"
+  },
+  {
+    "question": "What is the capital of Pakistan?",
+    "options": ["Islamabad", "Karachi", "Lahore", "Peshawar"],
+    "answer": "Islamabad"
+  },
+  {
+    "question": "What is the capital of Sri Lanka?",
+    "options": ["Colombo", "Kandy", "Galle", "Jaffna"],
+    "answer": "Colombo"
+  },
+  {
+    "question": "What is the capital of Nepal?",
+    "options": ["Kathmandu", "Pokhara", "Biratnagar", "Lalitpur"],
+    "answer": "Kathmandu"
+  },
+  {
+    "question": "What is the capital of Bangladesh?",
+    "options": ["Dhaka", "Chittagong", "Sylhet", "Khulna"],
+    "answer": "Dhaka"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": ["Berlin", "Munich", "Hamburg", "Frankfurt"],
+    "answer": "Berlin"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": ["Rome", "Milan", "Venice", "Naples"],
+    "answer": "Rome"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": ["Madrid", "Barcelona", "Seville", "Valencia"],
+    "answer": "Madrid"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": ["Brasilia", "Rio de Janeiro", "São Paulo", "Salvador"],
+    "answer": "Brasilia"
+  },
+  {
+    "question": "What is the capital of South Africa?",
+    "options": ["Pretoria", "Cape Town", "Johannesburg", "Durban"],
+    "answer": "Pretoria"
+  },
+  {
+    "question": "Which is the longest river in India?",
+    "options": ["Ganga", "Yamuna", "Godavari", "Brahmaputra"],
+    "answer": "Ganga"
+  },
+  {
+    "question": "Which is the highest mountain peak in India?",
+    "options": ["Kangchenjunga", "Nanda Devi", "K2", "Mount Everest"],
+    "answer": "Kangchenjunga"
+  },
+  {
+    "question": "Which state in India is known as the 'Land of Five Rivers'?",
+    "options": ["Punjab", "Haryana", "Rajasthan", "Gujarat"],
+    "answer": "Punjab"
+  },
+  {
+    "question": "Which city is known as the Pink City of India?",
+    "options": ["Jaipur", "Jodhpur", "Udaipur", "Agra"],
+    "answer": "Jaipur"
+  },
+  {
+    "question": "Which city is known as the Blue City of India?",
+    "options": ["Jodhpur", "Jaipur", "Udaipur", "Bikaner"],
+    "answer": "Jodhpur"
+  },
+  {
+    "question": "Which city is known as the Golden City of India?",
+    "options": ["Jaisalmer", "Amritsar", "Agra", "Varanasi"],
+    "answer": "Jaisalmer"
+  },
+  {
+    "question": "Which city is known as the City of Lakes in India?",
+    "options": ["Udaipur", "Jaipur", "Jodhpur", "Ajmer"],
+    "answer": "Udaipur"
+  },
+  {
+    "question": "Which city is known as the Silicon Valley of India?",
+    "options": ["Bengaluru", "Hyderabad", "Pune", "Chennai"],
+    "answer": "Bengaluru"
+  },
+  {
+    "question": "Which is the smallest state in India by area?",
+    "options": ["Goa", "Sikkim", "Tripura", "Manipur"],
+    "answer": "Goa"
+  },
+  {
+    "question": "Which is the most populated state in India?",
+    "options": ["Uttar Pradesh", "Maharashtra", "Bihar", "West Bengal"],
+    "answer": "Uttar Pradesh"
+  },
+  {
+    "question": "Which state is known as the 'Spice Garden of India'?",
+    "options": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"],
+    "answer": "Kerala"
+  },
+  {
+    "question": "Which is the national tree of India?",
+    "options": ["Banyan", "Peepal", "Neem", "Teak"],
+    "answer": "Banyan"
+  },
+  {
+    "question": "Which is the national river of India?",
+    "options": ["Ganga", "Yamuna", "Brahmaputra", "Godavari"],
+    "answer": "Ganga"
+  },
+  {
+    "question": "Which is the national currency symbol of India?",
+    "options": ["₹", "$", "£", "€"],
+    "answer": "₹"
+  },
+  {
+    "question": "What is the full form of ISRO?",
+    "options": ["Indian Space Research Organisation", "Indian Space Research Office", "International Space Research Organisation", "Indian Science Research Organisation"],
+    "answer": "Indian Space Research Organisation"
+  },
+  {
+    "question": "Who was the first President of India?",
+    "options": ["Dr. Rajendra Prasad", "Dr. S. Radhakrishnan", "Dr. Zakir Husain", "V.V. Giri"],
+    "answer": "Dr. Rajendra Prasad"
+  },
+  {
+    "question": "Who was the first woman Prime Minister of India?",
+    "options": ["Indira Gandhi", "Pratibha Patil", "Sonia Gandhi", "Sarojini Naidu"],
+    "answer": "Indira Gandhi"
+  },
+  {
+    "question": "Who was the first woman President of India?",
+    "options": ["Pratibha Patil", "Indira Gandhi", "Sarojini Naidu", "Sushma Swaraj"],
+    "answer": "Pratibha Patil"
+  },
+  {
+    "question": "On which date is Children's Day celebrated in India?",
+    "options": ["14th November", "2nd October", "15th August", "26th January"],
+    "answer": "14th November"
+  },
+  {
+    "question": "On which date is Teachers' Day celebrated in India?",
+    "options": ["5th September", "14th November", "2nd October", "26th January"],
+    "answer": "5th September"
+  },
+  {
+    "question": "Which Indian scientist is known as the 'Missile Man of India'?",
+    "options": ["A.P.J. Abdul Kalam", "C.V. Raman", "Homi Bhabha", "Vikram Sarabhai"],
+    "answer": "A.P.J. Abdul Kalam"
+  },
+  {
+    "question": "Who wrote the Indian National Anthem?",
+    "options": ["Rabindranath Tagore", "Bankim Chandra Chatterjee", "Mahatma Gandhi", "Sarojini Naidu"],
+    "answer": "Rabindranath Tagore"
+  },
+  {
+    "question": "What are the words of the Indian National Anthem?",
+    "options": ["Jana Gana Mana", "Vande Mataram", "Saare Jahan Se Achha", "Jai Hind"],
+    "answer": "Jana Gana Mana"
+  },
+  {
+    "question": "Who wrote 'Vande Mataram'?",
+    "options": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Mahatma Gandhi", "Jawaharlal Nehru"],
+    "answer": "Bankim Chandra Chatterjee"
+  },
+  {
+    "question": "How many spokes are there in the Ashoka Chakra on the Indian flag?",
+    "options": ["24", "22", "26", "20"],
+    "answer": "24"
+  },
+  {
+    "question": "What are the three colours of the Indian national flag?",
+    "options": ["Saffron, White, Green", "Red, White, Blue", "Orange, White, Green", "Saffron, Yellow, Green"],
+    "answer": "Saffron, White, Green"
+  },
+  {
+    "question": "Which river flows through the city of Delhi?",
+    "options": ["Yamuna", "Ganga", "Sutlej", "Chambal"],
+    "answer": "Yamuna"
+  },
+  {
+    "question": "Which is the oldest mountain range in India?",
+    "options": ["Aravalli", "Himalayas", "Vindhya", "Satpura"],
+    "answer": "Aravalli"
+  },
+  {
+    "question": "Which is the largest lake in India?",
+    "options": ["Chilika Lake", "Wular Lake", "Dal Lake", "Sambhar Lake"],
+    "answer": "Chilika Lake"
+  },
+  {
+    "question": "Which Indian state shares its borders with the most other states?",
+    "options": ["Uttar Pradesh", "Madhya Pradesh", "Rajasthan", "Bihar"],
+    "answer": "Uttar Pradesh"
+  },
+  {
+    "question": "Which is the capital of Maharashtra?",
+    "options": ["Mumbai", "Pune", "Nagpur", "Nashik"],
+    "answer": "Mumbai"
+  },
+  {
+    "question": "Which is the capital of Tamil Nadu?",
+    "options": ["Chennai", "Coimbatore", "Madurai", "Salem"],
+    "answer": "Chennai"
+  },
+  {
+    "question": "Which is the capital of Kerala?",
+    "options": ["Thiruvananthapuram", "Kochi", "Kozhikode", "Thrissur"],
+    "answer": "Thiruvananthapuram"
+  },
+  {
+    "question": "Which is the capital of West Bengal?",
+    "options": ["Kolkata", "Siliguri", "Asansol", "Durgapur"],
+    "answer": "Kolkata"
+  },
+  {
+    "question": "Which is the capital of Gujarat?",
+    "options": ["Gandhinagar", "Ahmedabad", "Surat", "Vadodara"],
+    "answer": "Gandhinagar"
+  },
+  {
+    "question": "Which is the capital of Rajasthan?",
+    "options": ["Jaipur", "Jodhpur", "Udaipur", "Kota"],
+    "answer": "Jaipur"
+  },
+  {
+    "question": "Which is the capital of Punjab?",
+    "options": ["Chandigarh", "Amritsar", "Ludhiana", "Patiala"],
+    "answer": "Chandigarh"
+  },
+  {
+    "question": "Which is the capital of Haryana?",
+    "options": ["Chandigarh", "Faridabad", "Gurugram", "Hisar"],
+    "answer": "Chandigarh"
+  },
+  {
+    "question": "Which is the capital of Uttarakhand?",
+    "options": ["Dehradun", "Haridwar", "Rishikesh", "Nainital"],
+    "answer": "Dehradun"
+  },
+  {
+    "question": "Which is the capital of Himachal Pradesh?",
+    "options": ["Shimla", "Manali", "Dharamshala", "Kullu"],
+    "answer": "Shimla"
+  },
+  {
+    "question": "What is the highest civilian award in India?",
+    "options": ["Bharat Ratna", "Padma Vibhushan", "Padma Bhushan", "Padma Shri"],
+    "answer": "Bharat Ratna"
+  },
+  {
+    "question": "Who was the first Indian to win the Nobel Prize?",
+    "options": ["Rabindranath Tagore", "C.V. Raman", "Amartya Sen", "Mother Teresa"],
+    "answer": "Rabindranath Tagore"
+  },
+  {
+    "question": "In which year did India gain independence?",
+    "options": ["1947", "1950", "1945", "1952"],
+    "answer": "1947"
+  },
+  {
+    "question": "In which year was the Indian Constitution adopted?",
+    "options": ["1950", "1947", "1952", "1948"],
+    "answer": "1950"
+  },
+  {
+    "question": "Who is known as the 'Iron Man of India'?",
+    "options": ["Sardar Vallabhbhai Patel", "Jawaharlal Nehru", "Subhas Chandra Bose", "Bhagat Singh"],
+    "answer": "Sardar Vallabhbhai Patel"
+  },
+  {
+    "question": "What is the name of India's parliament building?",
+    "options": ["Sansad Bhavan", "Rashtrapati Bhavan", "Vigyan Bhavan", "Bharat Bhavan"],
+    "answer": "Sansad Bhavan"
+  },
+  {
+    "question": "What is the official residence of the President of India?",
+    "options": ["Rashtrapati Bhavan", "Sansad Bhavan", "South Block", "Teen Murti Bhavan"],
+    "answer": "Rashtrapati Bhavan"
+  },
+  {
+    "question": "Which is the largest union territory of India?",
+    "options": ["Ladakh", "Jammu & Kashmir", "Andaman & Nicobar Islands", "Delhi"],
+    "answer": "Ladakh"
+  },
+  {
+    "question": "Which country is known as the Land of the Midnight Sun?",
+    "options": ["Norway", "Finland", "Sweden", "Iceland"],
+    "answer": "Norway"
+  },
+  {
+    "question": "Which country is known as the Land of Kangaroos?",
+    "options": ["Australia", "New Zealand", "South Africa", "Brazil"],
+    "answer": "Australia"
+  },
+  {
+    "question": "Which country is known as the Land of Tulips?",
+    "options": ["Netherlands", "Belgium", "Denmark", "Switzerland"],
+    "answer": "Netherlands"
+  },
+  {
+    "question": "Which country is known as the Emerald Isle?",
+    "options": ["Ireland", "Iceland", "Scotland", "New Zealand"],
+    "answer": "Ireland"
+  },
+  {
+    "question": "Which country is known as the Land of White Elephant?",
+    "options": ["Thailand", "Myanmar", "Cambodia", "Laos"],
+    "answer": "Thailand"
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the USA?",
+    "options": ["France", "England", "Germany", "Italy"],
+    "answer": "France"
+  },
+  {
+    "question": "In which country is the Amazon rainforest located?",
+    "options": ["Brazil", "Argentina", "Peru", "Colombia"],
+    "answer": "Brazil"
+  },
+  {
+    "question": "Which is the largest continent in terms of population?",
+    "options": ["Asia", "Africa", "Europe", "North America"],
+    "answer": "Asia"
+  },
+  {
+    "question": "Which continent is known as the Dark Continent?",
+    "options": ["Africa", "Asia", "South America", "Australia"],
+    "answer": "Africa"
+  },
+  {
+    "question": "Which is the smallest continent in the world?",
+    "options": ["Australia", "Europe", "Antarctica", "South America"],
+    "answer": "Australia"
+  },
+  {
+    "question": "Which ocean is the smallest in the world?",
+    "options": ["Arctic Ocean", "Indian Ocean", "Atlantic Ocean", "Southern Ocean"],
+    "answer": "Arctic Ocean"
+  },
+  {
+    "question": "Which is the deepest ocean in the world?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "What is the name of the deepest point in the ocean?",
+    "options": ["Mariana Trench", "Puerto Rico Trench", "Java Trench", "Tonga Trench"],
+    "answer": "Mariana Trench"
+  },
+  {
+    "question": "Which is the longest mountain range in the world?",
+    "options": ["Andes", "Himalayas", "Rockies", "Alps"],
+    "answer": "Andes"
+  },
+  {
+    "question": "Which is the largest hot desert in the world?",
+    "options": ["Sahara", "Arabian", "Gobi", "Thar"],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Which is the largest cold desert in the world?",
+    "options": ["Antarctica", "Arctic", "Gobi", "Patagonia"],
+    "answer": "Antarctica"
+  },
+  {
+    "question": "Which is the largest lake in the world?",
+    "options": ["Caspian Sea", "Superior", "Victoria", "Huron"],
+    "answer": "Caspian Sea"
+  },
+  {
+    "question": "Which is the deepest lake in the world?",
+    "options": ["Lake Baikal", "Caspian Sea", "Lake Superior", "Lake Titicaca"],
+    "answer": "Lake Baikal"
+  },
+  {
+    "question": "Which is the largest island in the world?",
+    "options": ["Greenland", "Australia", "New Guinea", "Borneo"],
+    "answer": "Greenland"
+  },
+  {
+    "question": "Which is the longest wall in the world?",
+    "options": ["Great Wall of China", "Hadrian's Wall", "Aurelian Wall", "Berlin Wall"],
+    "answer": "Great Wall of China"
+  },
+  {
+    "question": "How many wonders are there in the Seven Wonders of the Ancient World?",
+    "options": ["7", "6", "8", "10"],
+    "answer": "7"
+  },
+  {
+    "question": "Which of these is one of the Seven Wonders of the World?",
+    "options": ["Taj Mahal", "Eiffel Tower", "Colosseum", "Big Ben"],
+    "answer": "Taj Mahal"
+  },
+  {
+    "question": "In which country is the Eiffel Tower located?",
+    "options": ["France", "Italy", "Germany", "Spain"],
+    "answer": "France"
+  },
+  {
+    "question": "In which country is the Great Wall located?",
+    "options": ["China", "Japan", "Korea", "Mongolia"],
+    "answer": "China"
+  },
+  {
+    "question": "In which country is the Colosseum located?",
+    "options": ["Italy", "Greece", "France", "Spain"],
+    "answer": "Italy"
+  },
+  {
+    "question": "Who invented the aeroplane?",
+    "options": ["Wright Brothers", "Thomas Edison", "Isaac Newton", "Albert Einstein"],
+    "answer": "Wright Brothers"
+  },
+  {
+    "question": "Who invented the radio?",
+    "options": ["Guglielmo Marconi", "Alexander Graham Bell", "Thomas Edison", "Nikola Tesla"],
+    "answer": "Guglielmo Marconi"
+  },
+  {
+    "question": "Who invented the television?",
+    "options": ["John Logie Baird", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "answer": "John Logie Baird"
+  },
+  {
+    "question": "Who invented the printing press?",
+    "options": ["Johannes Gutenberg", "Thomas Edison", "Isaac Newton", "Benjamin Franklin"],
+    "answer": "Johannes Gutenberg"
+  },
+  {
+    "question": "Who invented the steam engine?",
+    "options": ["James Watt", "Isaac Newton", "Nikola Tesla", "Thomas Edison"],
+    "answer": "James Watt"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "answer": "Isaac Newton"
+  },
+  {
+    "question": "Who gave the Theory of Relativity?",
+    "options": ["Albert Einstein", "Isaac Newton", "Nikola Tesla", "Galileo Galilei"],
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": ["Alexander Fleming", "Louis Pasteur", "Edward Jenner", "Marie Curie"],
+    "answer": "Alexander Fleming"
+  },
+  {
+    "question": "Who is known as the father of modern science?",
+    "options": ["Galileo Galilei", "Isaac Newton", "Albert Einstein", "Nikola Tesla"],
+    "answer": "Galileo Galilei"
+  },
+  {
+    "question": "Who is known as the father of mathematics?",
+    "options": ["Archimedes", "Pythagoras", "Euclid", "Newton"],
+    "answer": "Archimedes"
+  },
+  {
+    "question": "Who invented the World Wide Web (www)?",
+    "options": ["Tim Berners-Lee", "Bill Gates", "Steve Jobs", "Mark Zuckerberg"],
+    "answer": "Tim Berners-Lee"
+  },
+  {
+    "question": "Which is the first country to send a man to the Moon?",
+    "options": ["USA", "Russia", "China", "India"],
+    "answer": "USA"
+  },
+  {
+    "question": "Who was the first human to walk on the Moon?",
+    "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "John Glenn"],
+    "answer": "Neil Armstrong"
+  },
+  {
+    "question": "Who was the first human to travel to space?",
+    "options": ["Yuri Gagarin", "Neil Armstrong", "Buzz Aldrin", "Rakesh Sharma"],
+    "answer": "Yuri Gagarin"
+  },
+  {
+    "question": "Which country does Yuri Gagarin belong to?",
+    "options": ["Russia", "USA", "Germany", "France"],
+    "answer": "Russia"
+  },
+  {
+    "question": "Who was the first Indian to go to space?",
+    "options": ["Rakesh Sharma", "Kalpana Chawla", "Sunita Williams", "A.P.J. Abdul Kalam"],
+    "answer": "Rakesh Sharma"
+  },
+  {
+    "question": "Which Indian woman astronaut died in the Columbia Space Shuttle disaster?",
+    "options": ["Kalpana Chawla", "Sunita Williams", "Indira Gandhi", "Priyanka Chopra"],
+    "answer": "Kalpana Chawla"
+  },
+  {
+    "question": "Which is the largest planet in the solar system?",
+    "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+    "answer": "Saturn"
+  },
+  {
+    "question": "How many moons does Earth have?",
+    "options": ["1", "2", "0", "3"],
+    "answer": "1"
+  },
+  {
+    "question": "What is the name of Earth's moon?",
+    "options": ["Luna", "Phobos", "Europa", "Titan"],
+    "answer": "Luna"
+  },
+  {
+    "question": "Which planet spins on its side?",
+    "options": ["Uranus", "Neptune", "Saturn", "Jupiter"],
+    "answer": "Uranus"
+  },
+  {
+    "question": "Which planet is known as the Evening Star?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "answer": "Venus"
+  },
+  {
+    "question": "How long does Earth take to revolve around the Sun?",
+    "options": ["365 days", "30 days", "24 hours", "7 days"],
+    "answer": "365 days"
+  },
+  {
+    "question": "How long does Earth take to rotate on its own axis?",
+    "options": ["24 hours", "12 hours", "48 hours", "365 days"],
+    "answer": "24 hours"
+  },
+  {
+    "question": "What causes day and night on Earth?",
+    "options": ["Earth's rotation", "Earth's revolution", "Moon's rotation", "Sun's movement"],
+    "answer": "Earth's rotation"
+  },
+  {
+    "question": "What causes seasons on Earth?",
+    "options": ["Earth's revolution around the Sun", "Earth's rotation", "Moon's revolution", "Sun's movement"],
+    "answer": "Earth's revolution around the Sun"
+  },
+  {
+    "question": "What is a group of stars forming a pattern called?",
+    "options": ["Constellation", "Galaxy", "Solar system", "Nebula"],
+    "answer": "Constellation"
+  },
+  {
+    "question": "What is our galaxy called?",
+    "options": ["Milky Way", "Andromeda", "Triangulum", "Whirlpool"],
+    "answer": "Milky Way"
+  },
+  {
+    "question": "What is a shooting star?",
+    "options": ["A meteor burning in the atmosphere", "A star moving fast", "A comet", "A satellite"],
+    "answer": "A meteor burning in the atmosphere"
+  },
+  {
+    "question": "Which animal is the largest land animal?",
+    "options": ["African Elephant", "Hippopotamus", "Giraffe", "Rhinoceros"],
+    "answer": "African Elephant"
+  },
+  {
+    "question": "Which is the tallest animal in the world?",
+    "options": ["Giraffe", "Elephant", "Camel", "Horse"],
+    "answer": "Giraffe"
+  },
+  {
+    "question": "Which is the smallest bird in the world?",
+    "options": ["Bee Hummingbird", "Sparrow", "Wren", "Finch"],
+    "answer": "Bee Hummingbird"
+  },
+  {
+    "question": "Which is the largest bird in the world?",
+    "options": ["Ostrich", "Emu", "Albatross", "Condor"],
+    "answer": "Ostrich"
+  },
+  {
+    "question": "Which bird cannot fly?",
+    "options": ["Ostrich", "Eagle", "Parrot", "Pigeon"],
+    "answer": "Ostrich"
+  },
+  {
+    "question": "Which animal is known as man's best friend?",
+    "options": ["Dog", "Cat", "Horse", "Dolphin"],
+    "answer": "Dog"
+  },
+  {
+    "question": "Which animal gives us wool?",
+    "options": ["Sheep", "Goat", "Rabbit", "Camel"],
+    "answer": "Sheep"
+  },
+  {
+    "question": "Which animal gives us silk?",
+    "options": ["Silkworm", "Spider", "Bee", "Ant"],
+    "answer": "Silkworm"
+  },
+  {
+    "question": "Which animal gives us honey?",
+    "options": ["Bee", "Butterfly", "Wasp", "Ant"],
+    "answer": "Bee"
+  },
+  {
+    "question": "How many legs does a spider have?",
+    "options": ["8", "6", "10", "12"],
+    "answer": "8"
+  },
+  {
+    "question": "How many legs does an insect have?",
+    "options": ["6", "8", "4", "10"],
+    "answer": "6"
+  },
+  {
+    "question": "Which is the largest reptile in the world?",
+    "options": ["Saltwater Crocodile", "Komodo Dragon", "Anaconda", "Nile Crocodile"],
+    "answer": "Saltwater Crocodile"
+  },
+  {
+    "question": "Which animal can change its colour?",
+    "options": ["Chameleon", "Lizard", "Frog", "Turtle"],
+    "answer": "Chameleon"
+  },
+  {
+    "question": "Which is the most intelligent animal after humans?",
+    "options": ["Chimpanzee", "Dolphin", "Elephant", "Dog"],
+    "answer": "Chimpanzee"
+  },
+  {
+    "question": "Which animal sleeps the most?",
+    "options": ["Koala", "Sloth", "Cat", "Dog"],
+    "answer": "Koala"
+  },
+  {
+    "question": "Which fish is the largest in the world?",
+    "options": ["Whale Shark", "Great White Shark", "Blue Whale", "Giant Squid"],
+    "answer": "Whale Shark"
+  },
+  {
+    "question": "Which is the poisonous snake found in India?",
+    "options": ["Cobra", "Python", "Boa", "King Snake"],
+    "answer": "Cobra"
+  },
+  {
+    "question": "What do you call a baby dog?",
+    "options": ["Puppy", "Kitten", "Cub", "Foal"],
+    "answer": "Puppy"
+  },
+  {
+    "question": "What do you call a baby cat?",
+    "options": ["Kitten", "Puppy", "Cub", "Lamb"],
+    "answer": "Kitten"
+  },
+  {
+    "question": "What do you call a baby cow?",
+    "options": ["Calf", "Foal", "Lamb", "Cub"],
+    "answer": "Calf"
+  },
+  {
+    "question": "What do you call a baby horse?",
+    "options": ["Foal", "Calf", "Cub", "Lamb"],
+    "answer": "Foal"
+  },
+  {
+    "question": "What do you call a baby sheep?",
+    "options": ["Lamb", "Calf", "Kid", "Foal"],
+    "answer": "Lamb"
+  },
+  {
+    "question": "What do you call a baby goat?",
+    "options": ["Kid", "Lamb", "Calf", "Foal"],
+    "answer": "Kid"
+  },
+  {
+    "question": "What do you call a baby lion?",
+    "options": ["Cub", "Pup", "Kit", "Joey"],
+    "answer": "Cub"
+  },
+  {
+    "question": "What do you call a baby kangaroo?",
+    "options": ["Joey", "Cub", "Pup", "Kit"],
+    "answer": "Joey"
+  },
+  {
+    "question": "Which fruit is known as the King of Fruits?",
+    "options": ["Mango", "Apple", "Banana", "Pineapple"],
+    "answer": "Mango"
+  },
+  {
+    "question": "Which fruit is known as the Queen of Fruits?",
+    "options": ["Mangosteen", "Strawberry", "Grape", "Lychee"],
+    "answer": "Mangosteen"
+  },
+  {
+    "question": "Which vegetable is known as the King of Vegetables?",
+    "options": ["Potato", "Tomato", "Carrot", "Brinjal"],
+    "answer": "Potato"
+  },
+  {
+    "question": "What is the main source of Vitamin C?",
+    "options": ["Lemon", "Banana", "Mango", "Apple"],
+    "answer": "Lemon"
+  },
+  {
+    "question": "Which food gives us the most protein?",
+    "options": ["Egg", "Rice", "Potato", "Sugar"],
+    "answer": "Egg"
+  },
+  {
+    "question": "Which food is the main source of carbohydrates?",
+    "options": ["Rice", "Egg", "Milk", "Fish"],
+    "answer": "Rice"
+  },
+  {
+    "question": "Which nutrient helps in building our muscles?",
+    "options": ["Protein", "Carbohydrates", "Fats", "Vitamins"],
+    "answer": "Protein"
+  },
+  {
+    "question": "What is the study of maps called?",
+    "options": ["Cartography", "Geography", "Geology", "Topography"],
+    "answer": "Cartography"
+  },
+  {
+    "question": "What is the study of stars and planets called?",
+    "options": ["Astronomy", "Astrology", "Cosmology", "Geology"],
+    "answer": "Astronomy"
+  },
+  {
+    "question": "What is the study of the Earth called?",
+    "options": ["Geography", "Geology", "Ecology", "Meteorology"],
+    "answer": "Geography"
+  },
+  {
+    "question": "What is the study of weather called?",
+    "options": ["Meteorology", "Climatology", "Geography", "Ecology"],
+    "answer": "Meteorology"
+  },
+  {
+    "question": "What is the study of plants called?",
+    "options": ["Botany", "Zoology", "Biology", "Ecology"],
+    "answer": "Botany"
+  },
+  {
+    "question": "What is the study of animals called?",
+    "options": ["Zoology", "Botany", "Ecology", "Biology"],
+    "answer": "Zoology"
+  },
+  {
+    "question": "What is the study of fossils called?",
+    "options": ["Palaeontology", "Archaeology", "Geology", "Ecology"],
+    "answer": "Palaeontology"
+  },
+  {
+    "question": "Which instrument is used to measure temperature?",
+    "options": ["Thermometer", "Barometer", "Anemometer", "Rain gauge"],
+    "answer": "Thermometer"
+  },
+  {
+    "question": "Which instrument is used to measure blood pressure?",
+    "options": ["Sphygmomanometer", "Thermometer", "Stethoscope", "ECG"],
+    "answer": "Sphygmomanometer"
+  },
+  {
+    "question": "Which instrument is used to measure wind speed?",
+    "options": ["Anemometer", "Barometer", "Thermometer", "Rain gauge"],
+    "answer": "Anemometer"
+  },
+  {
+    "question": "Which instrument is used to measure air pressure?",
+    "options": ["Barometer", "Thermometer", "Anemometer", "Hygrometer"],
+    "answer": "Barometer"
+  },
+  {
+    "question": "Which instrument is used by doctors to hear the heartbeat?",
+    "options": ["Stethoscope", "Thermometer", "Otoscope", "ECG"],
+    "answer": "Stethoscope"
+  },
+  {
+    "question": "What is the full form of DNA?",
+    "options": ["Deoxyribonucleic Acid", "Dynamic Nucleic Acid", "Double Nucleic Acid", "Deoxyribose Natural Acid"],
+    "answer": "Deoxyribonucleic Acid"
+  },
+  {
+    "question": "What is the full form of AIDS?",
+    "options": ["Acquired Immunodeficiency Syndrome", "Acquired Immune Disease Syndrome", "Acquired Immunodeficiency System", "Acquired Immunity Deficiency Syndrome"],
+    "answer": "Acquired Immunodeficiency Syndrome"
+  },
+  {
+    "question": "What is the full form of WHO?",
+    "options": ["World Health Organization", "World Health Office", "World Healthcare Organization", "World Human Organization"],
+    "answer": "World Health Organization"
+  },
+  {
+    "question": "What is the full form of NASA?",
+    "options": ["National Aeronautics and Space Administration", "National Astronomy and Space Agency", "National Aeronautics and Space Agency", "North American Space Administration"],
+    "answer": "National Aeronautics and Space Administration"
+  },
+  {
+    "question": "What is the full form of GDP?",
+    "options": ["Gross Domestic Product", "General Domestic Product", "Gross Domestic Production", "General Development Product"],
+    "answer": "Gross Domestic Product"
+  },
+  {
+    "question": "How many players are there in a football team?",
+    "options": ["11", "10", "12", "9"],
+    "answer": "11"
+  },
+  {
+    "question": "How many players are there in a cricket team?",
+    "options": ["11", "10", "12", "9"],
+    "answer": "11"
+  },
+  {
+    "question": "Which country has won the most FIFA World Cup titles?",
+    "options": ["Brazil", "Germany", "Italy", "Argentina"],
+    "answer": "Brazil"
+  },
+  {
+    "question": "How many Olympic rings are there?",
+    "options": ["5", "4", "6", "7"],
+    "answer": "5"
+  },
+  {
+    "question": "Who is known as the God of Cricket?",
+    "options": ["Sachin Tendulkar", "Virat Kohli", "MS Dhoni", "Ricky Ponting"],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "options": ["Brazil", "China", "UK", "Japan"],
+    "answer": "Brazil"
+  },
+  {
+    "question": "Which country hosted the 2020 Summer Olympics (held in 2021)?",
+    "options": ["Japan", "China", "Brazil", "UK"],
+    "answer": "Japan"
+  },
+  {
+    "question": "Which sport uses the term 'love'?",
+    "options": ["Tennis", "Badminton", "Cricket", "Football"],
+    "answer": "Tennis"
+  },
+  {
+    "question": "Who wrote the famous book 'Romeo and Juliet'?",
+    "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "Who wrote 'Harry Potter'?",
+    "options": ["J.K. Rowling", "Roald Dahl", "C.S. Lewis", "J.R.R. Tolkien"],
+    "answer": "J.K. Rowling"
+  },
+  {
+    "question": "Who wrote 'The Jungle Book'?",
+    "options": ["Rudyard Kipling", "Charles Dickens", "Mark Twain", "R.L. Stevenson"],
+    "answer": "Rudyard Kipling"
+  },
+  {
+    "question": "Who wrote 'Charlie and the Chocolate Factory'?",
+    "options": ["Roald Dahl", "J.K. Rowling", "C.S. Lewis", "Lewis Carroll"],
+    "answer": "Roald Dahl"
+  },
+  {
+    "question": "Who wrote 'Alice in Wonderland'?",
+    "options": ["Lewis Carroll", "J.K. Rowling", "Roald Dahl", "Charles Dickens"],
+    "answer": "Lewis Carroll"
+  },
+  {
+    "question": "What is the name of the famous clock tower in London?",
+    "options": ["Big Ben", "Clock Tower", "Westminster Tower", "Victoria Tower"],
+    "answer": "Big Ben"
+  },
+  {
+    "question": "Which is the longest bridge in the world?",
+    "options": ["Danyang-Kunshan Grand Bridge", "Golden Gate Bridge", "Sydney Harbour Bridge", "Tower Bridge"],
+    "answer": "Danyang-Kunshan Grand Bridge"
+  },
+  {
+    "question": "Which is the tallest building in the world?",
+    "options": ["Burj Khalifa", "Empire State Building", "Shanghai Tower", "Taipei 101"],
+    "answer": "Burj Khalifa"
+  },
+  {
+    "question": "In which country is the Burj Khalifa located?",
+    "options": ["UAE", "Saudi Arabia", "Qatar", "Kuwait"],
+    "answer": "UAE"
+  },
+  {
+    "question": "Which is the largest stadium in the world?",
+    "options": ["Narendra Modi Stadium", "Melbourne Cricket Ground", "Camp Nou", "Wembley Stadium"],
+    "answer": "Narendra Modi Stadium"
+  },
+  {
+    "question": "Which is the oldest civilization in the world?",
+    "options": ["Mesopotamian", "Egyptian", "Indus Valley", "Chinese"],
+    "answer": "Mesopotamian"
+  },
+  {
+    "question": "What is the art of paper folding called?",
+    "options": ["Origami", "Ikebana", "Haiku", "Bonsai"],
+    "answer": "Origami"
+  },
+  {
+    "question": "Which country is famous for the art of origami?",
+    "options": ["Japan", "China", "South Korea", "Thailand"],
+    "answer": "Japan"
+  },
+  {
+    "question": "What is the traditional dress of Japan called?",
+    "options": ["Kimono", "Sari", "Dhoti", "Hanbok"],
+    "answer": "Kimono"
+  },
+  {
+    "question": "What is the traditional dress of India for women called?",
+    "options": ["Sari", "Kimono", "Qipao", "Hanbok"],
+    "answer": "Sari"
+  },
+  {
+    "question": "What is the traditional dance of India from Kerala called?",
+    "options": ["Kathakali", "Bharatanatyam", "Odissi", "Kuchipudi"],
+    "answer": "Kathakali"
+  },
+  {
+    "question": "Which classical dance form originated in Tamil Nadu?",
+    "options": ["Bharatanatyam", "Kathakali", "Odissi", "Manipuri"],
+    "answer": "Bharatanatyam"
+  },
+  {
+    "question": "What is the classical music instrument of India with strings?",
+    "options": ["Sitar", "Tabla", "Harmonium", "Veena"],
+    "answer": "Sitar"
+  },
+  {
+    "question": "What is the main religion of India?",
+    "options": ["Hinduism", "Islam", "Christianity", "Sikhism"],
+    "answer": "Hinduism"
+  },
+  {
+    "question": "Which is the holiest river in India?",
+    "options": ["Ganga", "Yamuna", "Godavari", "Saraswati"],
+    "answer": "Ganga"
+  },
+  {
+    "question": "Which is the most visited monument in India?",
+    "options": ["Taj Mahal", "Red Fort", "Qutub Minar", "India Gate"],
+    "answer": "Taj Mahal"
+  },
+  {
+    "question": "Where is the Golden Temple located?",
+    "options": ["Amritsar", "Delhi", "Varanasi", "Jaipur"],
+    "answer": "Amritsar"
+  },
+  {
+    "question": "Where is the Red Fort located?",
+    "options": ["Delhi", "Agra", "Jaipur", "Lucknow"],
+    "answer": "Delhi"
+  },
+  {
+    "question": "Where is India Gate located?",
+    "options": ["New Delhi", "Mumbai", "Kolkata", "Chennai"],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "Where is Qutub Minar located?",
+    "options": ["Delhi", "Agra", "Jaipur", "Hyderabad"],
+    "answer": "Delhi"
+  },
+  {
+    "question": "Where is Charminar located?",
+    "options": ["Hyderabad", "Chennai", "Bengaluru", "Mysuru"],
+    "answer": "Hyderabad"
+  },
+  {
+    "question": "Where is the Gateway of India located?",
+    "options": ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+    "answer": "Mumbai"
+  },
+  {
+    "question": "Which Indian festival is celebrated with colours?",
+    "options": ["Holi", "Diwali", "Eid", "Christmas"],
+    "answer": "Holi"
+  },
+  {
+    "question": "Which festival is celebrated as the harvest festival in Punjab?",
+    "options": ["Baisakhi", "Pongal", "Bihu", "Onam"],
+    "answer": "Baisakhi"
+  },
+  {
+    "question": "Which festival is celebrated as the harvest festival in Tamil Nadu?",
+    "options": ["Pongal", "Onam", "Baisakhi", "Bihu"],
+    "answer": "Pongal"
+  },
+  {
+    "question": "Which festival is celebrated as the harvest festival in Assam?",
+    "options": ["Bihu", "Pongal", "Onam", "Baisakhi"],
+    "answer": "Bihu"
+  },
+  {
+    "question": "Which festival is celebrated as the harvest festival in Kerala?",
+    "options": ["Onam", "Pongal", "Bihu", "Baisakhi"],
+    "answer": "Onam"
+  },
+  {
+    "question": "What is the full form of BCCI?",
+    "options": ["Board of Control for Cricket in India", "Board of Cricket Control in India", "Bureau of Cricket Control in India", "Board of Control for Cricket of India"],
+    "answer": "Board of Control for Cricket in India"
+  },
+  {
+    "question": "Which famous Indian monument is made entirely of white marble?",
+    "options": ["Taj Mahal", "Red Fort", "Qutub Minar", "India Gate"],
+    "answer": "Taj Mahal"
+  },
+  {
+    "question": "How many languages are officially recognised by the Indian Constitution?",
+    "options": ["22", "18", "15", "26"],
+    "answer": "22"
+  },
+  {
+    "question": "What is the official language of India?",
+    "options": ["Hindi", "English", "Sanskrit", "Urdu"],
+    "answer": "Hindi"
+  },
+  {
+    "question": "Which script is used to write Hindi?",
+    "options": ["Devanagari", "Roman", "Arabic", "Gurmukhi"],
+    "answer": "Devanagari"
+  },
+  {
+    "question": "What does the word 'India' originate from?",
+    "options": ["Indus River", "Hindu religion", "Indigenous people", "Indira Gandhi"],
+    "answer": "Indus River"
+  },
+  {
+    "question": "Who was the first Indian to win an Olympic gold medal?",
+    "options": ["Abhinav Bindra", "Leander Paes", "Sushil Kumar", "P.V. Sindhu"],
+    "answer": "Abhinav Bindra"
+  },
+  {
+    "question": "Which sport did Abhinav Bindra win his Olympic gold medal in?",
+    "options": ["Shooting", "Boxing", "Wrestling", "Badminton"],
+    "answer": "Shooting"
+  },
+  {
+    "question": "Who won gold in javelin throw at the 2020 Tokyo Olympics for India?",
+    "options": ["Neeraj Chopra", "Bajrang Punia", "Ravi Kumar Dahiya", "Mirabai Chanu"],
+    "answer": "Neeraj Chopra"
+  },
+  {
+    "question": "What is the colour of the box in which Nobel Prize is presented?",
+    "options": ["Blue", "Red", "Gold", "Green"],
+    "answer": "Blue"
+  },
+  {
+    "question": "In which year was the Nobel Prize first awarded?",
+    "options": ["1901", "1895", "1910", "1920"],
+    "answer": "1901"
+  },
+  {
+    "question": "Who founded the Nobel Prize?",
+    "options": ["Alfred Nobel", "Isaac Newton", "Albert Einstein", "Thomas Edison"],
+    "answer": "Alfred Nobel"
+  },
+  {
+    "question": "Which famous scientist was born on 14th March 1879?",
+    "options": ["Albert Einstein", "Isaac Newton", "Nikola Tesla", "Charles Darwin"],
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "Which ancient wonder was located in Egypt?",
+    "options": ["Great Pyramid of Giza", "Hanging Gardens of Babylon", "Colossus of Rhodes", "Lighthouse of Alexandria"],
+    "answer": "Great Pyramid of Giza"
+  },
+  {
+    "question": "What does the abbreviation UNESCO stand for?",
+    "options": ["United Nations Educational, Scientific and Cultural Organization", "United Nations Environmental, Scientific and Cultural Organization", "United Nations Education, Science and Culture Organization", "United Nations Educational, Social and Cultural Organization"],
+    "answer": "United Nations Educational, Scientific and Cultural Organization"
+  },
+  {
+    "question": "Which animal is on the emblem of the World Wildlife Fund (WWF)?",
+    "options": ["Giant Panda", "Tiger", "Elephant", "Polar Bear"],
+    "answer": "Giant Panda"
+  },
+  {
+    "question": "What is the international emergency telephone number?",
+    "options": ["911", "112", "999", "100"],
+    "answer": "112"
+  },
+  {
+    "question": "What is India's emergency telephone number for police?",
+    "options": ["100", "101", "102", "108"],
+    "answer": "100"
+  },
+  {
+    "question": "What is India's emergency telephone number for fire?",
+    "options": ["101", "100", "102", "108"],
+    "answer": "101"
+  },
+  {
+    "question": "What is India's emergency telephone number for ambulance?",
+    "options": ["102", "100", "101", "108"],
+    "answer": "102"
+  },
+  {
+    "question": "Which country is the largest producer of milk in the world?",
+    "options": ["India", "USA", "China", "Brazil"],
+    "answer": "India"
+  },
+  {
+    "question": "Which country is the largest producer of tea in the world?",
+    "options": ["China", "India", "Sri Lanka", "Kenya"],
+    "answer": "China"
+  },
+  {
+    "question": "Which state of India is the largest producer of tea?",
+    "options": ["Assam", "West Bengal", "Himachal Pradesh", "Uttarakhand"],
+    "answer": "Assam"
+  },
+  {
+    "question": "Which country is the largest producer of rice in the world?",
+    "options": ["China", "India", "Indonesia", "Bangladesh"],
+    "answer": "China"
+  },
+  {
+    "question": "Which country is the largest producer of wheat in the world?",
+    "options": ["China", "India", "USA", "Russia"],
+    "answer": "China"
+  },
+  {
+    "question": "Which state of India is known as the 'Wheat Bowl'?",
+    "options": ["Punjab", "Haryana", "Uttar Pradesh", "Madhya Pradesh"],
+    "answer": "Punjab"
+  },
+  {
+    "question": "Which country is the largest producer of cotton in the world?",
+    "options": ["China", "India", "USA", "Pakistan"],
+    "answer": "China"
+  },
+  {
+    "question": "What is the number of union territories in India?",
+    "options": ["8", "7", "9", "6"],
+    "answer": "8"
+  },
+  {
+    "question": "Which union territory has the highest literacy rate in India?",
+    "options": ["Lakshadweep", "Puducherry", "Delhi", "Chandigarh"],
+    "answer": "Lakshadweep"
+  },
+  {
+    "question": "Which state of India has the highest literacy rate?",
+    "options": ["Kerala", "Goa", "Mizoram", "Himachal Pradesh"],
+    "answer": "Kerala"
+  },
+  {
+    "question": "Which is the longest national highway in India?",
+    "options": ["NH-44", "NH-27", "NH-48", "NH-52"],
+    "answer": "NH-44"
+  },
+  {
+    "question": "Which is the longest railway platform in India?",
+    "options": ["Hubballi Junction", "Gorakhpur", "Kharagpur", "Kollam"],
+    "answer": "Hubballi Junction"
+  },
+  {
+    "question": "In which year was the first railway line opened in India?",
+    "options": ["1853", "1860", "1850", "1870"],
+    "answer": "1853"
+  },
+  {
+    "question": "Which was the first railway route in India?",
+    "options": ["Mumbai to Thane", "Delhi to Agra", "Kolkata to Howrah", "Chennai to Bangalore"],
+    "answer": "Mumbai to Thane"
+  },
+  {
+    "question": "What is the name of the first satellite launched by India?",
+    "options": ["Aryabhata", "Bhaskara", "INSAT", "Chandrayaan"],
+    "answer": "Aryabhata"
+  },
+  {
+    "question": "What is the name of India's first moon mission?",
+    "options": ["Chandrayaan-1", "Mangalyaan", "Aryabhata", "Chandrayaan-2"],
+    "answer": "Chandrayaan-1"
+  },
+  {
+    "question": "What is the name of India's Mars mission?",
+    "options": ["Mangalyaan", "Chandrayaan", "Gaganyaan", "Aditya"],
+    "answer": "Mangalyaan"
+  },
+  {
+    "question": "Where is ISRO headquartered?",
+    "options": ["Bengaluru", "Chennai", "Hyderabad", "Mumbai"],
+    "answer": "Bengaluru"
+  },
+  {
+    "question": "Who is known as the father of the Indian Space Programme?",
+    "options": ["Vikram Sarabhai", "A.P.J. Abdul Kalam", "Homi Bhabha", "C.V. Raman"],
+    "answer": "Vikram Sarabhai"
+  },
+  {
+    "question": "Who is known as the father of the Indian Nuclear Programme?",
+    "options": ["Homi Bhabha", "Vikram Sarabhai", "A.P.J. Abdul Kalam", "C.V. Raman"],
+    "answer": "Homi Bhabha"
+  },
+  {
+    "question": "Which Indian scientist won the Nobel Prize for Physics in 1930?",
+    "options": ["C.V. Raman", "Homi Bhabha", "A.P.J. Abdul Kalam", "Vikram Sarabhai"],
+    "answer": "C.V. Raman"
+  },
+  {
+    "question": "Which Indian economist won the Nobel Prize in 1998?",
+    "options": ["Amartya Sen", "Raghuram Rajan", "Manmohan Singh", "Kaushik Basu"],
+    "answer": "Amartya Sen"
+  },
+  {
+    "question": "What is the name of India's highest mountain pass?",
+    "options": ["Khardung La", "Rohtang Pass", "Chang La", "Baralacha La"],
+    "answer": "Khardung La"
+  },
+  {
+    "question": "Which is the only floating national park in the world?",
+    "options": ["Keibul Lamjao National Park", "Jim Corbett National Park", "Kaziranga National Park", "Sundarbans National Park"],
+    "answer": "Keibul Lamjao National Park"
+  },
+  {
+    "question": "In which state is Keibul Lamjao National Park located?",
+    "options": ["Manipur", "Assam", "Nagaland", "Meghalaya"],
+    "answer": "Manipur"
+  },
+  {
+    "question": "Which is the largest national park in India?",
+    "options": ["Hemis National Park", "Jim Corbett National Park", "Kaziranga National Park", "Gir National Park"],
+    "answer": "Hemis National Park"
+  },
+  {
+    "question": "In which state is Kaziranga National Park located?",
+    "options": ["Assam", "West Bengal", "Manipur", "Arunachal Pradesh"],
+    "answer": "Assam"
+  },
+  {
+    "question": "Kaziranga National Park is famous for which animal?",
+    "options": ["One-horned Rhinoceros", "Royal Bengal Tiger", "Asiatic Lion", "Snow Leopard"],
+    "answer": "One-horned Rhinoceros"
+  },
+  {
+    "question": "In which state is Gir National Park located?",
+    "options": ["Gujarat", "Rajasthan", "Madhya Pradesh", "Maharashtra"],
+    "answer": "Gujarat"
+  },
+  {
+    "question": "Gir National Park is famous for which animal?",
+    "options": ["Asiatic Lion", "Tiger", "Elephant", "Rhino"],
+    "answer": "Asiatic Lion"
+  },
+  {
+    "question": "In which state is Jim Corbett National Park located?",
+    "options": ["Uttarakhand", "Uttar Pradesh", "Himachal Pradesh", "Haryana"],
+    "answer": "Uttarakhand"
+  },
+  {
+    "question": "Which is the only country in the world with a flag that is not rectangular?",
+    "options": ["Nepal", "Bhutan", "Maldives", "Vatican City"],
+    "answer": "Nepal"
+  },
+  {
+    "question": "Which country has the most number of languages spoken?",
+    "options": ["Papua New Guinea", "India", "Nigeria", "Indonesia"],
+    "answer": "Papua New Guinea"
+  },
+  {
+    "question": "Which country has the most number of natural lakes?",
+    "options": ["Canada", "Russia", "USA", "Finland"],
+    "answer": "Canada"
+  },
+  {
+    "question": "What is the largest rainforest in the world?",
+    "options": ["Amazon Rainforest", "Congo Rainforest", "Borneo Rainforest", "Daintree Rainforest"],
+    "answer": "Amazon Rainforest"
+  },
+  {
+    "question": "Which country is called the 'Roof of the World'?",
+    "options": ["Tibet", "Nepal", "Bhutan", "Afghanistan"],
+    "answer": "Tibet"
+  },
+  {
+    "question": "What is the capital of Tibet?",
+    "options": ["Lhasa", "Kathmandu", "Thimphu", "Kabul"],
+    "answer": "Lhasa"
+  },
+  {
+    "question": "Which river is the longest in Asia?",
+    "options": ["Yangtze", "Ganga", "Indus", "Mekong"],
+    "answer": "Yangtze"
+  },
+  {
+    "question": "Which is the largest freshwater lake in the world?",
+    "options": ["Lake Superior", "Lake Baikal", "Lake Victoria", "Lake Huron"],
+    "answer": "Lake Superior"
+  },
+  {
+    "question": "Which country is the largest producer of oil in the world?",
+    "options": ["USA", "Saudi Arabia", "Russia", "Iraq"],
+    "answer": "USA"
+  },
+  {
+    "question": "Which country has the world's largest oil reserves?",
+    "options": ["Venezuela", "Saudi Arabia", "Iran", "Iraq"],
+    "answer": "Venezuela"
+  },
+  {
+    "question": "What is the currency of the USA?",
+    "options": ["Dollar", "Pound", "Euro", "Yen"],
+    "answer": "Dollar"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "options": ["Yen", "Won", "Yuan", "Dollar"],
+    "answer": "Yen"
+  },
+  {
+    "question": "What is the currency of China?",
+    "options": ["Yuan", "Yen", "Won", "Rupee"],
+    "answer": "Yuan"
+  },
+  {
+    "question": "What is the currency of the UK?",
+    "options": ["Pound", "Euro", "Dollar", "Franc"],
+    "answer": "Pound"
+  },
+  {
+    "question": "What is the currency of Europe (European Union)?",
+    "options": ["Euro", "Pound", "Dollar", "Franc"],
+    "answer": "Euro"
+  },
+  {
+    "question": "Which country uses the Riyal as its currency?",
+    "options": ["Saudi Arabia", "UAE", "Kuwait", "Qatar"],
+    "answer": "Saudi Arabia"
+  },
+  {
+    "question": "What is the SI unit of length?",
+    "options": ["Metre", "Kilometre", "Centimetre", "Foot"],
+    "answer": "Metre"
+  },
+  {
+    "question": "What is the SI unit of mass?",
+    "options": ["Kilogram", "Gram", "Pound", "Ton"],
+    "answer": "Kilogram"
+  },
+  {
+    "question": "What is the SI unit of time?",
+    "options": ["Second", "Minute", "Hour", "Day"],
+    "answer": "Second"
+  },
+  {
+    "question": "What is the SI unit of temperature?",
+    "options": ["Kelvin", "Celsius", "Fahrenheit", "Rankine"],
+    "answer": "Kelvin"
+  },
+  {
+    "question": "What is the speed of sound in air?",
+    "options": ["343 m/s", "300 m/s", "1000 m/s", "500 m/s"],
+    "answer": "343 m/s"
+  },
+  {
+    "question": "What is the boiling point of water in Fahrenheit?",
+    "options": ["212°F", "100°F", "32°F", "98.6°F"],
+    "answer": "212°F"
+  },
+  {
+    "question": "What is the freezing point of water in Fahrenheit?",
+    "options": ["32°F", "0°F", "212°F", "100°F"],
+    "answer": "32°F"
+  },
+  {
+    "question": "Which planet takes the longest to orbit the Sun?",
+    "options": ["Neptune", "Uranus", "Saturn", "Jupiter"],
+    "answer": "Neptune"
+  },
+  {
+    "question": "Which planet takes the shortest time to orbit the Sun?",
+    "options": ["Mercury", "Venus", "Earth", "Mars"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the name of the force that keeps planets in orbit around the Sun?",
+    "options": ["Gravity", "Magnetism", "Friction", "Centripetal force"],
+    "answer": "Gravity"
+  },
+  {
+    "question": "Which planet has the Great Red Spot?",
+    "options": ["Jupiter", "Mars", "Saturn", "Neptune"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is the Great Red Spot on Jupiter?",
+    "options": ["A giant storm", "A volcano", "A crater", "A desert"],
+    "answer": "A giant storm"
+  },
+  {
+    "question": "How many times can Earth fit inside Jupiter?",
+    "options": ["1300", "100", "500", "10000"],
+    "answer": "1300"
+  },
+  {
+    "question": "What is the name of the boundary of the solar system?",
+    "options": ["Heliopause", "Oort Cloud", "Kuiper Belt", "Asteroid Belt"],
+    "answer": "Heliopause"
+  },
+  {
+    "question": "What are the rocks between Mars and Jupiter called?",
+    "options": ["Asteroid Belt", "Kuiper Belt", "Oort Cloud", "Meteorites"],
+    "answer": "Asteroid Belt"
+  },
+  {
+    "question": "What is a comet made of?",
+    "options": ["Ice and dust", "Rock and metal", "Gas and liquid", "Magma and ash"],
+    "answer": "Ice and dust"
+  },
+  {
+    "question": "Which is the most famous comet visible from Earth?",
+    "options": ["Halley's Comet", "Hale-Bopp", "Shoemaker-Levy", "Encke"],
+    "answer": "Halley's Comet"
+  },
+  {
+    "question": "How often does Halley's Comet appear?",
+    "options": ["Every 75–76 years", "Every 10 years", "Every 100 years", "Every 50 years"],
+    "answer": "Every 75–76 years"
+  },
+  {
+    "question": "Which country is the second largest in the world by area?",
+    "options": ["Canada", "USA", "China", "Brazil"],
+    "answer": "Canada"
+  },
+  {
+    "question": "Which is the most spoken language in the world?",
+    "options": ["Mandarin Chinese", "English", "Spanish", "Hindi"],
+    "answer": "Mandarin Chinese"
+  },
+  {
+    "question": "Which is the second most spoken language in the world?",
+    "options": ["English", "Spanish", "Hindi", "French"],
+    "answer": "English"
+  },
+  {
+    "question": "Which is the oldest language in the world?",
+    "options": ["Sanskrit", "Tamil", "Hebrew", "Greek"],
+    "answer": "Sanskrit"
+  },
+  {
+    "question": "Which is the most widely written script in the world?",
+    "options": ["Latin", "Arabic", "Devanagari", "Cyrillic"],
+    "answer": "Latin"
+  },
+  {
+    "question": "Which country has the most coastline?",
+    "options": ["Canada", "Russia", "Indonesia", "Australia"],
+    "answer": "Canada"
+  },
+  {
+    "question": "Which is the hottest place on Earth?",
+    "options": ["Death Valley, USA", "Sahara Desert", "Arabian Desert", "Lut Desert, Iran"],
+    "answer": "Death Valley, USA"
+  },
+  {
+    "question": "Which is the coldest place on Earth?",
+    "options": ["Antarctica", "Arctic", "Siberia", "Greenland"],
+    "answer": "Antarctica"
+  },
+  {
+    "question": "Which is the wettest place on Earth?",
+    "options": ["Mawsynram, India", "Cherrapunji, India", "Hawaii, USA", "Amazon, Brazil"],
+    "answer": "Mawsynram, India"
+  },
+  {
+    "question": "Which is the driest place on Earth?",
+    "options": ["Atacama Desert, Chile", "Sahara Desert", "Arabian Desert", "Death Valley, USA"],
+    "answer": "Atacama Desert, Chile"
+  },
+  {
+    "question": "Which is the highest plateau in the world?",
+    "options": ["Tibetan Plateau", "Deccan Plateau", "Colorado Plateau", "Patagonian Plateau"],
+    "answer": "Tibetan Plateau"
+  },
+  {
+    "question": "Which is the largest plateau in India?",
+    "options": ["Deccan Plateau", "Tibetan Plateau", "Chota Nagpur Plateau", "Malwa Plateau"],
+    "answer": "Deccan Plateau"
+  },
+  {
+    "question": "Which country is called the Land of the Pharaohs?",
+    "options": ["Egypt", "Iraq", "Iran", "Jordan"],
+    "answer": "Egypt"
+  },
+  {
+    "question": "In which country are the Pyramids of Giza located?",
+    "options": ["Egypt", "Libya", "Sudan", "Morocco"],
+    "answer": "Egypt"
+  },
+  {
+    "question": "What is the river that flows through Egypt?",
+    "options": ["Nile", "Tigris", "Euphrates", "Zambezi"],
+    "answer": "Nile"
+  },
+  {
+    "question": "Which is the largest country in Africa?",
+    "options": ["Algeria", "Sudan", "Libya", "Congo"],
+    "answer": "Algeria"
+  },
+  {
+    "question": "Which is the smallest country in Africa?",
+    "options": ["Seychelles", "Swaziland", "Gambia", "Djibouti"],
+    "answer": "Seychelles"
+  },
+  {
+    "question": "Which country is known as the Rainbow Nation?",
+    "options": ["South Africa", "Brazil", "Kenya", "Nigeria"],
+    "answer": "South Africa"
+  },
+  {
+    "question": "Which mountain range separates Europe from Asia?",
+    "options": ["Ural Mountains", "Alps", "Caucasus", "Carpathians"],
+    "answer": "Ural Mountains"
+  },
+  {
+    "question": "Which is the longest river in Europe?",
+    "options": ["Volga", "Rhine", "Danube", "Thames"],
+    "answer": "Volga"
+  },
+  {
+    "question": "Which is the longest river in South America?",
+    "options": ["Amazon", "Orinoco", "Parana", "Sao Francisco"],
+    "answer": "Amazon"
+  },
+  {
+    "question": "Which is the longest river in North America?",
+    "options": ["Missouri", "Mississippi", "Mackenzie", "Yukon"],
+    "answer": "Missouri"
+  },
+  {
+    "question": "What is the capital of Egypt?",
+    "options": ["Cairo", "Alexandria", "Luxor", "Giza"],
+    "answer": "Cairo"
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "options": ["Moscow", "St. Petersburg", "Novosibirsk", "Vladivostok"],
+    "answer": "Moscow"
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "options": ["Seoul", "Busan", "Incheon", "Daegu"],
+    "answer": "Seoul"
+  },
+  {
+    "question": "What is the capital of North Korea?",
+    "options": ["Pyongyang", "Seoul", "Hamhung", "Chongjin"],
+    "answer": "Pyongyang"
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "options": ["Buenos Aires", "Cordoba", "Rosario", "Mendoza"],
+    "answer": "Buenos Aires"
+  },
+  {
+    "question": "What is the capital of Mexico?",
+    "options": ["Mexico City", "Guadalajara", "Monterrey", "Cancun"],
+    "answer": "Mexico City"
+  },
+  {
+    "question": "What is the capital of Indonesia?",
+    "options": ["Jakarta", "Bali", "Surabaya", "Bandung"],
+    "answer": "Jakarta"
+  },
+  {
+    "question": "What is the capital of Thailand?",
+    "options": ["Bangkok", "Chiang Mai", "Pattaya", "Phuket"],
+    "answer": "Bangkok"
+  },
+  {
+    "question": "What is the capital of Saudi Arabia?",
+    "options": ["Riyadh", "Jeddah", "Mecca", "Medina"],
+    "answer": "Riyadh"
+  },
+  {
+    "question": "What is the capital of UAE?",
+    "options": ["Abu Dhabi", "Dubai", "Sharjah", "Ajman"],
+    "answer": "Abu Dhabi"
+  },
+  {
+    "question": "What is the capital of Turkey?",
+    "options": ["Ankara", "Istanbul", "Izmir", "Bursa"],
+    "answer": "Ankara"
+  },
+  {
+    "question": "What is the capital of Iran?",
+    "options": ["Tehran", "Isfahan", "Shiraz", "Mashhad"],
+    "answer": "Tehran"
+  },
+  {
+    "question": "What is the capital of Afghanistan?",
+    "options": ["Kabul", "Kandahar", "Herat", "Mazar-i-Sharif"],
+    "answer": "Kabul"
+  },
+  {
+    "question": "What is the capital of New Zealand?",
+    "options": ["Wellington", "Auckland", "Christchurch", "Hamilton"],
+    "answer": "Wellington"
+  },
+  {
+    "question": "What is the capital of Kenya?",
+    "options": ["Nairobi", "Mombasa", "Kisumu", "Nakuru"],
+    "answer": "Nairobi"
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "options": ["Abuja", "Lagos", "Kano", "Ibadan"],
+    "answer": "Abuja"
+  },
+  {
+    "question": "What is the capital of Ethiopia?",
+    "options": ["Addis Ababa", "Dire Dawa", "Gondar", "Hawassa"],
+    "answer": "Addis Ababa"
+  },
+  {
+    "question": "What is the capital of Ghana?",
+    "options": ["Accra", "Kumasi", "Tamale", "Cape Coast"],
+    "answer": "Accra"
+  },
+  {
+    "question": "What is the capital of Portugal?",
+    "options": ["Lisbon", "Porto", "Braga", "Coimbra"],
+    "answer": "Lisbon"
+  },
+  {
+    "question": "What is the capital of Greece?",
+    "options": ["Athens", "Thessaloniki", "Heraklion", "Patras"],
+    "answer": "Athens"
+  },
+  {
+    "question": "What is the capital of Sweden?",
+    "options": ["Stockholm", "Gothenburg", "Malmo", "Uppsala"],
+    "answer": "Stockholm"
+  },
+  {
+    "question": "What is the capital of Norway?",
+    "options": ["Oslo", "Bergen", "Stavanger", "Trondheim"],
+    "answer": "Oslo"
+  },
+  {
+    "question": "What is the capital of Denmark?",
+    "options": ["Copenhagen", "Aarhus", "Odense", "Aalborg"],
+    "answer": "Copenhagen"
+  },
+  {
+    "question": "What is the capital of Finland?",
+    "options": ["Helsinki", "Tampere", "Turku", "Oulu"],
+    "answer": "Helsinki"
+  },
+  {
+    "question": "What is the capital of Poland?",
+    "options": ["Warsaw", "Krakow", "Lodz", "Wroclaw"],
+    "answer": "Warsaw"
+  },
+  {
+    "question": "What is the capital of Switzerland?",
+    "options": ["Bern", "Zurich", "Geneva", "Basel"],
+    "answer": "Bern"
+  },
+  {
+    "question": "What is the capital of Austria?",
+    "options": ["Vienna", "Salzburg", "Graz", "Innsbruck"],
+    "answer": "Vienna"
+  },
+  {
+    "question": "What is the capital of Belgium?",
+    "options": ["Brussels", "Antwerp", "Ghent", "Bruges"],
+    "answer": "Brussels"
+  },
+  {
+    "question": "What is the capital of the Netherlands?",
+    "options": ["Amsterdam", "Rotterdam", "The Hague", "Utrecht"],
+    "answer": "Amsterdam"
+  },
+  {
+    "question": "What is the capital of Ireland?",
+    "options": ["Dublin", "Cork", "Limerick", "Galway"],
+    "answer": "Dublin"
+  },
+  {
+    "question": "What is the capital of Scotland?",
+    "options": ["Edinburgh", "Glasgow", "Aberdeen", "Dundee"],
+    "answer": "Edinburgh"
+  },
+  {
+    "question": "What is the capital of Wales?",
+    "options": ["Cardiff", "Swansea", "Newport", "Bangor"],
+    "answer": "Cardiff"
+  },
+  {
+    "question": "What is the capital of England?",
+    "options": ["London", "Birmingham", "Manchester", "Liverpool"],
+    "answer": "London"
+  },
+  {
+    "question": "Who wrote 'Ramayana'?",
+    "options": ["Valmiki", "Tulsidas", "Vyasa", "Kalidas"],
+    "answer": "Valmiki"
+  },
+  {
+    "question": "Who wrote 'Mahabharata'?",
+    "options": ["Vyasa", "Valmiki", "Tulsidas", "Kalidas"],
+    "answer": "Vyasa"
+  },
+  {
+    "question": "What is the sacred book of Hindus?",
+    "options": ["Bhagavad Gita", "Quran", "Bible", "Granth Sahib"],
+    "answer": "Bhagavad Gita"
+  },
+  {
+    "question": "What is the sacred book of Muslims?",
+    "options": ["Quran", "Bible", "Bhagavad Gita", "Torah"],
+    "answer": "Quran"
+  },
+  {
+    "question": "What is the sacred book of Christians?",
+    "options": ["Bible", "Quran", "Torah", "Bhagavad Gita"],
+    "answer": "Bible"
+  },
+  {
+    "question": "What is the sacred book of Sikhs?",
+    "options": ["Guru Granth Sahib", "Bhagavad Gita", "Quran", "Bible"],
+    "answer": "Guru Granth Sahib"
+  },
+  {
+    "question": "Who founded the Sikh religion?",
+    "options": ["Guru Nanak Dev", "Guru Gobind Singh", "Guru Arjan Dev", "Guru Tegh Bahadur"],
+    "answer": "Guru Nanak Dev"
+  },
+  {
+    "question": "Who founded Buddhism?",
+    "options": ["Gautama Buddha", "Mahavira", "Guru Nanak", "Jesus Christ"],
+    "answer": "Gautama Buddha"
+  },
+  {
+    "question": "Where was Gautama Buddha born?",
+    "options": ["Lumbini, Nepal", "Bodh Gaya, India", "Sarnath, India", "Kushinagar, India"],
+    "answer": "Lumbini, Nepal"
+  },
+  {
+    "question": "Who founded Jainism?",
+    "options": ["Mahavira", "Gautama Buddha", "Guru Nanak", "Adi Shankaracharya"],
+    "answer": "Mahavira"
+  },
+  {
+    "question": "How many Gurus are there in Sikhism?",
+    "options": ["10", "9", "11", "12"],
+    "answer": "10"
+  },
+  {
+    "question": "What is the symbol of peace?",
+    "options": ["White Dove", "Olive Branch", "White Flag", "Blue Flag"],
+    "answer": "White Dove"
+  },
+  {
+    "question": "What is the symbol of the Red Cross organisation?",
+    "options": ["Red Cross", "Red Crescent", "Red Star", "Red Circle"],
+    "answer": "Red Cross"
+  },
+  {
+    "question": "What does the colour white on the Indian flag represent?",
+    "options": ["Peace and Truth", "Courage and Sacrifice", "Faith and Chivalry", "Prosperity"],
+    "answer": "Peace and Truth"
+  },
+  {
+    "question": "What does the colour saffron on the Indian flag represent?",
+    "options": ["Courage and Sacrifice", "Peace and Truth", "Faith and Prosperity", "Strength"],
+    "answer": "Courage and Sacrifice"
+  },
+  {
+    "question": "What does the colour green on the Indian flag represent?",
+    "options": ["Fertility, Growth and Auspiciousness", "Peace and Truth", "Courage and Sacrifice", "Strength"],
+    "answer": "Fertility, Growth and Auspiciousness"
+  },
+  {
+    "question": "Which is the international language of aviation?",
+    "options": ["English", "French", "Spanish", "Arabic"],
+    "answer": "English"
+  },
+  {
+    "question": "Which is the official language of the United Nations?",
+    "options": ["English and French", "English only", "English, French and Spanish", "English, French, Spanish, Arabic, Russian and Chinese"],
+    "answer": "English, French, Spanish, Arabic, Russian and Chinese"
+  },
+  {
+    "question": "How many permanent members are there in the UN Security Council?",
+    "options": ["5", "10", "15", "7"],
+    "answer": "5"
+  },
+  {
+    "question": "Which country is NOT a permanent member of the UN Security Council?",
+    "options": ["Germany", "USA", "UK", "France"],
+    "answer": "Germany"
+  },
+  {
+    "question": "In which city is the United Nations headquarters located?",
+    "options": ["New York", "Geneva", "Paris", "London"],
+    "answer": "New York"
+  },
+  {
+    "question": "In which year was the United Nations founded?",
+    "options": ["1945", "1950", "1939", "1960"],
+    "answer": "1945"
+  },
+  {
+    "question": "Which day is celebrated as World Environment Day?",
+    "options": ["5th June", "22nd April", "16th September", "21st March"],
+    "answer": "5th June"
+  },
+  {
+    "question": "Which day is celebrated as World Earth Day?",
+    "options": ["22nd April", "5th June", "21st March", "16th September"],
+    "answer": "22nd April"
+  },
+  {
+    "question": "Which day is celebrated as World Water Day?",
+    "options": ["22nd March", "22nd April", "5th June", "21st March"],
+    "answer": "22nd March"
+  },
+  {
+    "question": "Which day is celebrated as International Yoga Day?",
+    "options": ["21st June", "5th June", "22nd April", "21st March"],
+    "answer": "21st June"
+  },
+  {
+    "question": "Who proposed International Yoga Day?",
+    "options": ["Narendra Modi", "Atal Bihari Vajpayee", "Manmohan Singh", "A.P.J. Abdul Kalam"],
+    "answer": "Narendra Modi"
+  },
+  {
+    "question": "Which day is celebrated as World Health Day?",
+    "options": ["7th April", "5th June", "22nd March", "10th October"],
+    "answer": "7th April"
+  },
+  {
+    "question": "Which day is World Teachers' Day celebrated internationally?",
+    "options": ["5th October", "5th September", "14th November", "21st March"],
+    "answer": "5th October"
+  },
+  {
+    "question": "What is the theme colour of the United Nations flag?",
+    "options": ["Light Blue", "Dark Blue", "White", "Green"],
+    "answer": "Light Blue"
+  },
+  {
+    "question": "Which ancient Indian mathematician invented the number zero?",
+    "options": ["Aryabhata", "Brahmagupta", "Bhaskara", "Ramanujan"],
+    "answer": "Aryabhata"
+  },
+  {
+    "question": "Who is known as the 'Prince of Mathematics' of India?",
+    "options": ["Srinivasa Ramanujan", "Aryabhata", "Brahmagupta", "Bhaskara"],
+    "answer": "Srinivasa Ramanujan"
+  },
+  {
+    "question": "Who is known as the 'Father of Geometry'?",
+    "options": ["Euclid", "Pythagoras", "Archimedes", "Newton"],
+    "answer": "Euclid"
+  },
+  {
+    "question": "Which theorem states that 'In a right triangle, the square of the hypotenuse equals the sum of squares of other two sides'?",
+    "options": ["Pythagoras theorem", "Euclid's theorem", "Newton's theorem", "Einstein's theorem"],
+    "answer": "Pythagoras theorem"
+  },
+  {
+    "question": "What is the formula for the area of a circle?",
+    "options": ["πr²", "2πr", "πd", "r²"],
+    "answer": "πr²"
+  },
+  {
+    "question": "What does the abbreviation 'AD' stand for in history?",
+    "options": ["Anno Domini", "After Death", "After Discovery", "Ancient Date"],
+    "answer": "Anno Domini"
+  },
+  {
+    "question": "What does the abbreviation 'BC' stand for in history?",
+    "options": ["Before Christ", "Before Century", "Before Calendar", "Before Culture"],
+    "answer": "Before Christ"
+  },
+  {
+    "question": "Which is the oldest monument in India?",
+    "options": ["Sanchi Stupa", "Taj Mahal", "Red Fort", "Qutub Minar"],
+    "answer": "Sanchi Stupa"
+  },
+  {
+    "question": "Where is Sanchi Stupa located?",
+    "options": ["Madhya Pradesh", "Uttar Pradesh", "Bihar", "Rajasthan"],
+    "answer": "Madhya Pradesh"
+  },
+  {
+    "question": "Which Indian king built Sanchi Stupa?",
+    "options": ["Ashoka", "Chandragupta Maurya", "Akbar", "Shah Jahan"],
+    "answer": "Ashoka"
+  },
+  {
+    "question": "Who was Chanakya?",
+    "options": ["A great teacher and adviser to Chandragupta Maurya", "A great king of Maurya dynasty", "A great poet", "A great mathematician"],
+    "answer": "A great teacher and adviser to Chandragupta Maurya"
+  },
+  {
+    "question": "What is Chanakya's famous book called?",
+    "options": ["Arthashastra", "Mahabharata", "Ramayana", "Upanishad"],
+    "answer": "Arthashastra"
+  },
+  {
+    "question": "Who was the great Mughal emperor who built the Taj Mahal?",
+    "options": ["Shah Jahan", "Akbar", "Aurangzeb", "Babur"],
+    "answer": "Shah Jahan"
+  },
+  {
+    "question": "Who was the founder of the Mughal Empire in India?",
+    "options": ["Babur", "Akbar", "Humayun", "Shah Jahan"],
+    "answer": "Babur"
+  },
+  {
+    "question": "Who is known as 'Akbar the Great'?",
+    "options": ["The third Mughal Emperor", "The first Mughal Emperor", "The last Mughal Emperor", "The founder of Mughal Empire"],
+    "answer": "The third Mughal Emperor"
+  },
+  {
+    "question": "What is the Rashtrapati Bhavan previously known as?",
+    "options": ["Viceroy's House", "Governor General's House", "Imperial Palace", "Crown House"],
+    "answer": "Viceroy's House"
+  },
+  {
+    "question": "Who designed the Rashtrapati Bhavan?",
+    "options": ["Edwin Lutyens", "Herbert Baker", "Charles Correa", "Laurie Baker"],
+    "answer": "Edwin Lutyens"
+  },
+  {
+    "question": "Which Indian city is known as the 'City of Joy'?",
+    "options": ["Kolkata", "Mumbai", "Delhi", "Chennai"],
+    "answer": "Kolkata"
+  },
+  {
+    "question": "Which Indian city is known as the 'City of Nawabs'?",
+    "options": ["Lucknow", "Hyderabad", "Agra", "Bhopal"],
+    "answer": "Lucknow"
+  },
+  {
+    "question": "Which Indian city is known as the 'Garden City' or 'City of Gardens'?",
+    "options": ["Bengaluru", "Mysuru", "Chandigarh", "Bhopal"],
+    "answer": "Bengaluru"
+  },
+  {
+    "question": "Which city is known as the 'Financial Capital' of India?",
+    "options": ["Mumbai", "Delhi", "Bengaluru", "Chennai"],
+    "answer": "Mumbai"
+  },
+  {
+    "question": "Which Indian city is known as the 'City of Pearls'?",
+    "options": ["Hyderabad", "Mumbai", "Surat", "Jaipur"],
+    "answer": "Hyderabad"
+  },
+  {
+    "question": "Which city is known as the 'Manchester of India' for its textile industry?",
+    "options": ["Ahmedabad", "Mumbai", "Surat", "Coimbatore"],
+    "answer": "Ahmedabad"
+  },
+  {
+    "question": "Which state is known as the 'Fruit Bowl of India'?",
+    "options": ["Himachal Pradesh", "Kashmir", "Uttarakhand", "Punjab"],
+    "answer": "Himachal Pradesh"
+  },
+  {
+    "question": "Which state is known as the 'Rice Bowl of India'?",
+    "options": ["Andhra Pradesh", "West Bengal", "Tamil Nadu", "Odisha"],
+    "answer": "Andhra Pradesh"
+  },
+  {
+    "question": "Which is the only state in India with a circular district?",
+    "options": ["Odisha", "Andhra Pradesh", "Tamil Nadu", "Kerala"],
+    "answer": "Odisha"
+  },
+  {
+    "question": "What is the name of India's highest award for bravery in war?",
+    "options": ["Param Vir Chakra", "Vir Chakra", "Ashoka Chakra", "Mahavir Chakra"],
+    "answer": "Param Vir Chakra"
+  },
+  {
+    "question": "What is the name of India's highest award for peacetime bravery?",
+    "options": ["Ashoka Chakra", "Param Vir Chakra", "Vir Chakra", "Shaurya Chakra"],
+    "answer": "Ashoka Chakra"
+  },
+  {
+    "question": "Which is the oldest cricket stadium in India?",
+    "options": ["Eden Gardens, Kolkata", "Wankhede, Mumbai", "Chepauk, Chennai", "Feroz Shah Kotla, Delhi"],
+    "answer": "Eden Gardens, Kolkata"
+  },
+  {
+    "question": "Which cricket team has won the most Test matches in history?",
+    "options": ["Australia", "England", "India", "South Africa"],
+    "answer": "Australia"
+  },
+  {
+    "question": "In which year did India win its first Cricket World Cup?",
+    "options": ["1983", "1975", "1979", "1987"],
+    "answer": "1983"
+  },
+  {
+    "question": "Who captained India in the 1983 Cricket World Cup?",
+    "options": ["Kapil Dev", "Sunil Gavaskar", "Ravi Shastri", "Mohammad Azharuddin"],
+    "answer": "Kapil Dev"
+  },
+  {
+    "question": "Which country invented the game of chess?",
+    "options": ["India", "China", "Persia", "Greece"],
+    "answer": "India"
+  },
+  {
+    "question": "What is the ancient Indian game of chess called?",
+    "options": ["Chaturanga", "Shatranj", "Chess", "Pachisi"],
+    "answer": "Chaturanga"
+  },
+  {
+    "question": "Which country invented the game of Polo?",
+    "options": ["Persia (Iran)", "India", "England", "China"],
+    "answer": "Persia (Iran)"
+  },
+  {
+    "question": "Which game is known as the 'Gentleman's Game'?",
+    "options": ["Cricket", "Tennis", "Golf", "Chess"],
+    "answer": "Cricket"
+  },
+  {
+    "question": "What is the name of the trophy given to the winner of the India-Pakistan cricket series?",
+    "options": ["Kargil Trophy", "Asia Cup", "Border-Gavaskar Trophy", "Pataudi Trophy"],
+    "answer": "Asia Cup"
+  },
+  {
+    "question": "What is the name of the trophy given to the cricket series between India and Australia?",
+    "options": ["Border-Gavaskar Trophy", "Pataudi Trophy", "Asia Cup", "Duleep Trophy"],
+    "answer": "Border-Gavaskar Trophy"
+  },
+  {
+    "question": "What does BODMAS stand for in mathematics?",
+    "options": ["Brackets, Orders, Division, Multiplication, Addition, Subtraction", "Brackets, Of, Division, Multiplication, Addition, Subtraction", "Basic, Order, Division, Multiplication, Addition, Subtraction", "Brackets, Order, Decimal, Multiplication, Addition, Subtraction"],
+    "answer": "Brackets, Of, Division, Multiplication, Addition, Subtraction"
+  },
+  {
+    "question": "Which is the currency of Nepal?",
+    "options": ["Nepalese Rupee", "Indian Rupee", "Taka", "Ngultrum"],
+    "answer": "Nepalese Rupee"
+  },
+  {
+    "question": "Which is the currency of Bhutan?",
+    "options": ["Ngultrum", "Rupee", "Taka", "Kyat"],
+    "answer": "Ngultrum"
+  },
+  {
+    "question": "Which is the currency of Myanmar?",
+    "options": ["Kyat", "Baht", "Ringgit", "Dong"],
+    "answer": "Kyat"
+  },
+  {
+    "question": "Which is the currency of Thailand?",
+    "options": ["Baht", "Kyat", "Ringgit", "Dong"],
+    "answer": "Baht"
+  },
+  {
+    "question": "Which is the currency of South Korea?",
+    "options": ["Won", "Yen", "Yuan", "Ringgit"],
+    "answer": "Won"
+  },
+  {
+    "question": "Which is the currency of Malaysia?",
+    "options": ["Ringgit", "Baht", "Dong", "Peso"],
+    "answer": "Ringgit"
+  },
+  {
+    "question": "Which is the currency of Russia?",
+    "options": ["Ruble", "Euro", "Koruna", "Zloty"],
+    "answer": "Ruble"
+  },
+  {
+    "question": "Which is the currency of Israel?",
+    "options": ["Shekel", "Dinar", "Riyal", "Lira"],
+    "answer": "Shekel"
+  },
+  {
+    "question": "What is the name of the boundary line between India and Pakistan?",
+    "options": ["Radcliffe Line", "McMahon Line", "Durand Line", "LOC"],
+    "answer": "Radcliffe Line"
+  },
+  {
+    "question": "What is the name of the boundary line between India and China?",
+    "options": ["McMahon Line", "Radcliffe Line", "Durand Line", "LOC"],
+    "answer": "McMahon Line"
+  },
+  {
+    "question": "What does LOC stand for in the context of India-Pakistan?",
+    "options": ["Line of Control", "Line of Communication", "Line of Combat", "Line of Conflict"],
+    "answer": "Line of Control"
+  },
+  {
+    "question": "Which is the longest border India shares with another country?",
+    "options": ["Bangladesh", "Pakistan", "China", "Nepal"],
+    "answer": "Bangladesh"
+  },
+  {
+    "question": "How many neighbouring countries does India have?",
+    "options": ["7", "6", "8", "5"],
+    "answer": "7"
+  },
+  {
+    "question": "Which country is surrounded by India on three sides?",
+    "options": ["Bangladesh", "Nepal", "Bhutan", "Sri Lanka"],
+    "answer": "Bangladesh"
+  },
+  {
+    "question": "Which Indian state has the longest coastline?",
+    "options": ["Gujarat", "Andhra Pradesh", "Tamil Nadu", "Maharashtra"],
+    "answer": "Gujarat"
+  },
+  {
+    "question": "Which is the largest port in India?",
+    "options": ["Mumbai Port", "Chennai Port", "Kandla Port", "Jawaharlal Nehru Port"],
+    "answer": "Jawaharlal Nehru Port"
+  },
+  {
+    "question": "Which is the busiest airport in India?",
+    "options": ["Indira Gandhi International Airport, Delhi", "Chhatrapati Shivaji Maharaj International Airport, Mumbai", "Kempegowda International Airport, Bengaluru", "Chennai International Airport"],
+    "answer": "Indira Gandhi International Airport, Delhi"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": ["New Delhi", "Mumbai", "Kolkata", "Chennai"],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "How many states are there in India?",
+    "options": ["28", "29", "30", "27"],
+    "answer": "28"
+  },
+  {
+    "question": "Which is the largest planet in our solar system?",
+    "options": ["Jupiter", "Saturn", "Earth", "Mars"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Which is the smallest planet in our solar system?",
+    "options": ["Mercury", "Mars", "Venus", "Pluto"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "How many planets are there in our solar system?",
+    "options": ["8", "9", "7", "10"],
+    "answer": "8"
+  },
+  {
+    "question": "Which is the longest river in the world?",
+    "options": ["Nile", "Amazon", "Ganga", "Yangtze"],
+    "answer": "Nile"
+  },
+  {
+    "question": "Which is the largest ocean in the world?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "Which is the national animal of India?",
+    "options": ["Bengal Tiger", "Lion", "Elephant", "Leopard"],
+    "answer": "Bengal Tiger"
+  },
+  {
+    "question": "Which is the national bird of India?",
+    "options": ["Peacock", "Sparrow", "Parrot", "Crow"],
+    "answer": "Peacock"
+  },
+  {
+    "question": "Which is the national flower of India?",
+    "options": ["Lotus", "Rose", "Sunflower", "Jasmine"],
+    "answer": "Lotus"
+  },
+  {
+    "question": "Which is the national fruit of India?",
+    "options": ["Mango", "Banana", "Apple", "Guava"],
+    "answer": "Mango"
+  },
+  {
+    "question": "Which is the national game of India?",
+    "options": ["Hockey", "Cricket", "Football", "Kabaddi"],
+    "answer": "Hockey"
+  },
+  {
+    "question": "Who is the first Prime Minister of India?",
+    "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Sardar Patel", "Subhas Chandra Bose"],
+    "answer": "Jawaharlal Nehru"
+  },
+  {
+    "question": "Who is known as the Father of the Nation in India?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Bhagat Singh", "B.R. Ambedkar"],
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "question": "On which date does India celebrate Independence Day?",
+    "options": ["15th August", "26th January", "2nd October", "14th November"],
+    "answer": "15th August"
+  },
+  {
+    "question": "On which date does India celebrate Republic Day?",
+    "options": ["26th January", "15th August", "2nd October", "14th November"],
+    "answer": "26th January"
+  },
+  {
+    "question": "Which is the tallest mountain in the world?",
+    "options": ["Mount Everest", "K2", "Kangchenjunga", "Mount Kilimanjaro"],
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "Which is the largest country in the world by area?",
+    "options": ["Russia", "Canada", "China", "USA"],
+    "answer": "Russia"
+  },
+  {
+    "question": "Which is the smallest country in the world?",
+    "options": ["Vatican City", "Monaco", "San Marino", "Maldives"],
+    "answer": "Vatican City"
+  },
+  {
+    "question": "Which is the most populated country in the world?",
+    "options": ["India", "China", "USA", "Indonesia"],
+    "answer": "India"
+  },
+  {
+    "question": "How many continents are there in the world?",
+    "options": ["7", "6", "5", "8"],
+    "answer": "7"
+  },
+  {
+    "question": "Which continent is the largest in the world?",
+    "options": ["Asia", "Africa", "Europe", "North America"],
+    "answer": "Asia"
+  },
+  {
+    "question": "Which is the largest desert in the world?",
+    "options": ["Sahara Desert", "Thar Desert", "Gobi Desert", "Arabian Desert"],
+    "answer": "Sahara Desert"
+  },
+  {
+    "question": "Which gas do plants absorb from the air?",
+    "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "Which gas do humans breathe in?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "How many days are there in a leap year?",
+    "options": ["366", "365", "364", "367"],
+    "answer": "366"
+  },
+  {
+    "question": "How many months are there in a year?",
+    "options": ["12", "10", "11", "13"],
+    "answer": "12"
+  },
+  {
+    "question": "Which is the hardest natural substance on Earth?",
+    "options": ["Diamond", "Gold", "Iron", "Platinum"],
+    "answer": "Diamond"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "answer": "Mars"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Mercury", "Venus", "Earth", "Mars"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the currency of India?",
+    "options": ["Rupee", "Dollar", "Pound", "Euro"],
+    "answer": "Rupee"
+  },
+  {
+    "question": "Which is the largest state in India by area?",
+    "options": ["Rajasthan", "Madhya Pradesh", "Maharashtra", "Uttar Pradesh"],
+    "answer": "Rajasthan"
+  },
+  {
+    "question": "Which river is known as the 'Ganga of the South'?",
+    "options": ["Godavari", "Krishna", "Kaveri", "Mahanadi"],
+    "answer": "Godavari"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": ["Alexander Graham Bell", "Thomas Edison", "Isaac Newton", "Nikola Tesla"],
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "Who invented the electric bulb?",
+    "options": ["Thomas Edison", "Alexander Graham Bell", "Marie Curie", "Albert Einstein"],
+    "answer": "Thomas Edison"
+  },
+  {
+    "question": "Which is the nearest star to Earth?",
+    "options": ["Sun", "Proxima Centauri", "Sirius", "Polaris"],
+    "answer": "Sun"
+  },
+  {
+    "question": "How many bones are there in the human body?",
+    "options": ["206", "208", "200", "212"],
+    "answer": "206"
+  },
+  {
+    "question": "Which is the largest organ in the human body?",
+    "options": ["Skin", "Liver", "Heart", "Lungs"],
+    "answer": "Skin"
+  },
+  {
+    "question": "Which organ pumps blood in the human body?",
+    "options": ["Heart", "Lungs", "Brain", "Liver"],
+    "answer": "Heart"
+  },
+  {
     "question": "What is the full form of 'UNO'?",
     "options": ["United Nations Organization", "United Nations Office", "Universal Nations Order", "United National Organization"],
     "answer": "United Nations Organization"
