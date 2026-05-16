@@ -3,9 +3,14 @@
 
 <head>
 
-  <title>Class 5 Quiz</title>
+  <title>
+    Class 5 Quiz Portal
+  </title>
 
-  <link rel="stylesheet" href="style.css">
+  <link
+    rel="stylesheet"
+    href="style.css"
+  >
 
 </head>
 
@@ -13,8 +18,14 @@
 
 <div class="quiz-container">
 
+  <!-- =========================
+       PAGE TITLE
+  ========================== -->
+
   <h1>
+
     Class 5 Quiz Portal
+
   </h1>
 
 
@@ -28,7 +39,9 @@
     <!-- Student Name -->
 
     <label>
+
       Student Name:
+
     </label>
 
     <input
@@ -41,33 +54,53 @@
     <!-- Category Selection -->
 
     <label>
+
       Select Category:
+
     </label>
 
     <select id="categorySelect">
 
-      <option value="All">
+      <option value="all">
+
         All Categories
+
       </option>
 
-      <option value="GK">
-        GK
-      </option>
+      <option value="computer/questions.json">
 
-      <option value="Computer">
         Computer
+
       </option>
 
-      <option value="Science">
+      <option value="gk/questions.json">
+
+        GK
+
+      </option>
+
+      <option value="science/questions.json">
+
         Science
+
       </option>
 
-      <option value="Maths">
+      <option value="maths/questions.json">
+
         Maths
+
       </option>
 
-      <option value="Games & Sports">
+      <option value="sports/questions.json">
+
         Games & Sports
+
+      </option>
+
+      <option value="english/questions.json">
+
+        English
+
       </option>
 
     </select>
@@ -76,35 +109,47 @@
     <!-- Question Count -->
 
     <label>
+
       Select Number of Questions:
+
     </label>
 
     <select id="questionLimit">
 
       <option value="10">
+
         10 Questions
+
       </option>
 
       <option value="20">
+
         20 Questions
+
       </option>
 
       <option value="30">
+
         30 Questions
+
       </option>
 
       <option value="40">
+
         40 Questions
+
       </option>
 
       <option value="50">
+
         50 Questions
+
       </option>
 
     </select>
 
 
-    <!-- Start Button -->
+    <!-- Start Quiz Button -->
 
     <button onclick="startQuiz()">
 
@@ -116,16 +161,22 @@
 
 
   <!-- =========================
-       TIMER + QUESTION COUNT
+       TOP BAR
   ========================== -->
 
   <div class="top-bar">
+
+
+    <!-- Timer -->
 
     <div id="timer">
 
       Time Left: 10:00
 
     </div>
+
+
+    <!-- Question Counter -->
 
     <div id="questionCount">
 
@@ -170,7 +221,9 @@
   <hr>
 
   <h2>
+
     Quiz History
+
   </h2>
 
   <div id="history">
@@ -179,7 +232,13 @@
 
 </div>
 
+
+<!-- =========================
+     SCRIPT FILE
+========================== -->
+
 <script src="script.js"></script>
 
 </body>
+
 </html>

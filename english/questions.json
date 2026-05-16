@@ -1,0 +1,252 @@
+[
+  {
+    "question": "What is a noun?",
+    "options": ["Name of a person, place or thing", "An action word", "A describing word", "A connecting word"],
+    "answer": "Name of a person, place or thing"
+  },
+  {
+    "question": "What is a verb?",
+    "options": ["An action word", "A naming word", "A describing word", "A joining word"],
+    "answer": "An action word"
+  },
+  {
+    "question": "What is an adjective?",
+    "options": ["A word that describes a noun", "An action word", "A naming word", "A connecting word"],
+    "answer": "A word that describes a noun"
+  },
+  {
+    "question": "What is an adverb?",
+    "options": ["A word that describes a verb", "A naming word", "A describing word for nouns", "A joining word"],
+    "answer": "A word that describes a verb"
+  },
+  {
+    "question": "How many letters are there in the English alphabet?",
+    "options": ["26", "24", "28", "25"],
+    "answer": "26"
+  },
+  {
+    "question": "How many vowels are there in the English alphabet?",
+    "options": ["5", "6", "4", "7"],
+    "answer": "5"
+  },
+  {
+    "question": "Which of the following is a vowel?",
+    "options": ["E", "B", "C", "D"],
+    "answer": "E"
+  },
+  {
+    "question": "What is the plural of 'child'?",
+    "options": ["Children", "Childs", "Childes", "Childrens"],
+    "answer": "Children"
+  },
+  {
+    "question": "What is the plural of 'tooth'?",
+    "options": ["Teeth", "Tooths", "Toothes", "Teethes"],
+    "answer": "Teeth"
+  },
+  {
+    "question": "What is the plural of 'mouse'?",
+    "options": ["Mice", "Mouses", "Mouse", "Meese"],
+    "answer": "Mice"
+  },
+  {
+    "question": "What is the opposite of 'happy'?",
+    "options": ["Sad", "Angry", "Tired", "Bored"],
+    "answer": "Sad"
+  },
+  {
+    "question": "What is the opposite of 'big'?",
+    "options": ["Small", "Tall", "Short", "Tiny"],
+    "answer": "Small"
+  },
+  {
+    "question": "Which of the following is a proper noun?",
+    "options": ["India", "City", "River", "Mountain"],
+    "answer": "India"
+  },
+  {
+    "question": "What is a pronoun?",
+    "options": ["A word used in place of a noun", "A describing word", "An action word", "A joining word"],
+    "answer": "A word used in place of a noun"
+  },
+  {
+    "question": "Which of the following is a pronoun?",
+    "options": ["He", "Run", "Happy", "Book"],
+    "answer": "He"
+  },
+  {
+    "question": "What punctuation mark is used at the end of a question?",
+    "options": ["Question mark (?)", "Full stop (.)", "Exclamation mark (!)", "Comma (,)"],
+    "answer": "Question mark (?)"
+  },
+  {
+    "question": "What punctuation mark is used at the end of a sentence?",
+    "options": ["Full stop (.)", "Comma (,)", "Question mark (?)", "Colon (:)"],
+    "answer": "Full stop (.)"
+  },
+  {
+    "question": "Which of the following is a conjunction?",
+    "options": ["And", "Run", "Blue", "Quickly"],
+    "answer": "And"
+  },
+  {
+    "question": "What is a synonym for 'happy'?",
+    "options": ["Joyful", "Sad", "Angry", "Tired"],
+    "answer": "Joyful"
+  },
+  {
+    "question": "What is a synonym for 'big'?",
+    "options": ["Large", "Small", "Tiny", "Little"],
+    "answer": "Large"
+  },
+  {
+    "question": "What is an antonym?",
+    "options": ["A word with the opposite meaning", "A word with the same meaning", "A describing word", "A naming word"],
+    "answer": "A word with the opposite meaning"
+  },
+  {
+    "question": "What is the past tense of 'go'?",
+    "options": ["Went", "Goed", "Gone", "Going"],
+    "answer": "Went"
+  },
+  {
+    "question": "What is the past tense of 'eat'?",
+    "options": ["Ate", "Eated", "Eaten", "Eatted"],
+    "answer": "Ate"
+  },
+  {
+    "question": "What is the past tense of 'run'?",
+    "options": ["Ran", "Runned", "Run", "Ranned"],
+    "answer": "Ran"
+  },
+  {
+    "question": "Which of the following is a preposition?",
+    "options": ["Under", "Run", "Happy", "And"],
+    "answer": "Under"
+  },
+  {
+    "question": "What is the correct spelling?",
+    "options": ["Beautiful", "Butiful", "Beautifull", "Beautifal"],
+    "answer": "Beautiful"
+  },
+  {
+    "question": "What is the correct spelling?",
+    "options": ["Necessary", "Neccesary", "Necesary", "Nessecary"],
+    "answer": "Necessary"
+  },
+  {
+    "question": "Which article is used before a vowel sound?",
+    "options": ["An", "A", "The", "One"],
+    "answer": "An"
+  },
+  {
+    "question": "Which sentence is correctly punctuated?",
+    "options": ["She likes apples.", "she likes apples.", "She likes apples", "she likes Apples."],
+    "answer": "She likes apples."
+  },
+  {
+    "question": "What is the feminine form of 'king'?",
+    "options": ["Queen", "Princess", "Duchess", "Lady"],
+    "answer": "Queen"
+  },
+  {
+    "question": "What is the feminine form of 'lion'?",
+    "options": ["Lioness", "Liones", "Lionne", "Liona"],
+    "answer": "Lioness"
+  },
+  {
+    "question": "What is the masculine form of 'hen'?",
+    "options": ["Cock", "Drake", "Gander", "Buck"],
+    "answer": "Cock"
+  },
+  {
+    "question": "Which of the following is a collective noun for fish?",
+    "options": ["Shoal", "Flock", "Herd", "Pack"],
+    "answer": "Shoal"
+  },
+  {
+    "question": "Which of the following is a collective noun for birds?",
+    "options": ["Flock", "Herd", "Pack", "Shoal"],
+    "answer": "Flock"
+  },
+  {
+    "question": "What is the meaning of the idiom 'It's raining cats and dogs'?",
+    "options": ["It is raining very heavily", "Animals are falling", "It is cloudy", "It is very windy"],
+    "answer": "It is raining very heavily"
+  },
+  {
+    "question": "Which word is a homophone of 'sea'?",
+    "options": ["See", "Saw", "She", "Say"],
+    "answer": "See"
+  },
+  {
+    "question": "Which word is a homophone of 'write'?",
+    "options": ["Right", "Ride", "Wrote", "Rite"],
+    "answer": "Right"
+  },
+  {
+    "question": "What type of sentence is: 'Close the door!'?",
+    "options": ["Imperative", "Interrogative", "Declarative", "Exclamatory"],
+    "answer": "Imperative"
+  },
+  {
+    "question": "What type of sentence is: 'What a beautiful day!'?",
+    "options": ["Exclamatory", "Interrogative", "Declarative", "Imperative"],
+    "answer": "Exclamatory"
+  },
+  {
+    "question": "Choose the correct word: 'She ____ to school every day.'",
+    "options": ["Goes", "Go", "Going", "Gone"],
+    "answer": "Goes"
+  },
+  {
+    "question": "Which of the following is an abstract noun?",
+    "options": ["Happiness", "Table", "Dog", "River"],
+    "answer": "Happiness"
+  },
+  {
+    "question": "What is the comparative form of 'good'?",
+    "options": ["Better", "Best", "Gooder", "More good"],
+    "answer": "Better"
+  },
+  {
+    "question": "What is the superlative form of 'good'?",
+    "options": ["Best", "Better", "Most good", "Goodest"],
+    "answer": "Best"
+  },
+  {
+    "question": "What does the prefix 'un-' mean?",
+    "options": ["Not", "Again", "Before", "After"],
+    "answer": "Not"
+  },
+  {
+    "question": "What does the suffix '-ful' mean?",
+    "options": ["Full of", "Without", "Before", "Again"],
+    "answer": "Full of"
+  },
+  {
+    "question": "Which part of speech is the word 'quickly'?",
+    "options": ["Adverb", "Adjective", "Noun", "Verb"],
+    "answer": "Adverb"
+  },
+  {
+    "question": "Which of the following is a compound word?",
+    "options": ["Butterfly", "Happy", "Run", "Blue"],
+    "answer": "Butterfly"
+  },
+  {
+    "question": "What is the contraction of 'do not'?",
+    "options": ["Don't", "Dont", "Do'nt", "D'ont"],
+    "answer": "Don't"
+  },
+  {
+    "question": "What is the contraction of 'I am'?",
+    "options": ["I'm", "Im", "I'am", "Iam"],
+    "answer": "I'm"
+  },
+  {
+    "question": "Which sentence uses the correct form of 'their/there/they're'? 'They are going to ____ house.'",
+    "options": ["Their", "There", "They're", "Ther"],
+    "answer": "Their"
+  }
+]

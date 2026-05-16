@@ -1,0 +1,252 @@
+[
+  {
+    "question": "What is the capital of India?",
+    "options": ["New Delhi", "Mumbai", "Kolkata", "Chennai"],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "How many states are there in India?",
+    "options": ["28", "29", "30", "27"],
+    "answer": "28"
+  },
+  {
+    "question": "Which is the largest planet in our solar system?",
+    "options": ["Jupiter", "Saturn", "Earth", "Mars"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Which is the smallest planet in our solar system?",
+    "options": ["Mercury", "Mars", "Venus", "Pluto"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "How many planets are there in our solar system?",
+    "options": ["8", "9", "7", "10"],
+    "answer": "8"
+  },
+  {
+    "question": "Which is the longest river in the world?",
+    "options": ["Nile", "Amazon", "Ganga", "Yangtze"],
+    "answer": "Nile"
+  },
+  {
+    "question": "Which is the largest ocean in the world?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "Which is the national animal of India?",
+    "options": ["Bengal Tiger", "Lion", "Elephant", "Leopard"],
+    "answer": "Bengal Tiger"
+  },
+  {
+    "question": "Which is the national bird of India?",
+    "options": ["Peacock", "Sparrow", "Parrot", "Crow"],
+    "answer": "Peacock"
+  },
+  {
+    "question": "Which is the national flower of India?",
+    "options": ["Lotus", "Rose", "Sunflower", "Jasmine"],
+    "answer": "Lotus"
+  },
+  {
+    "question": "Which is the national fruit of India?",
+    "options": ["Mango", "Banana", "Apple", "Guava"],
+    "answer": "Mango"
+  },
+  {
+    "question": "Which is the national game of India?",
+    "options": ["Hockey", "Cricket", "Football", "Kabaddi"],
+    "answer": "Hockey"
+  },
+  {
+    "question": "Who is the first Prime Minister of India?",
+    "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Sardar Patel", "Subhas Chandra Bose"],
+    "answer": "Jawaharlal Nehru"
+  },
+  {
+    "question": "Who is known as the Father of the Nation in India?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Bhagat Singh", "B.R. Ambedkar"],
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "question": "On which date does India celebrate Independence Day?",
+    "options": ["15th August", "26th January", "2nd October", "14th November"],
+    "answer": "15th August"
+  },
+  {
+    "question": "On which date does India celebrate Republic Day?",
+    "options": ["26th January", "15th August", "2nd October", "14th November"],
+    "answer": "26th January"
+  },
+  {
+    "question": "Which is the tallest mountain in the world?",
+    "options": ["Mount Everest", "K2", "Kangchenjunga", "Mount Kilimanjaro"],
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "Which is the largest country in the world by area?",
+    "options": ["Russia", "Canada", "China", "USA"],
+    "answer": "Russia"
+  },
+  {
+    "question": "Which is the smallest country in the world?",
+    "options": ["Vatican City", "Monaco", "San Marino", "Maldives"],
+    "answer": "Vatican City"
+  },
+  {
+    "question": "Which is the most populated country in the world?",
+    "options": ["India", "China", "USA", "Indonesia"],
+    "answer": "India"
+  },
+  {
+    "question": "How many continents are there in the world?",
+    "options": ["7", "6", "5", "8"],
+    "answer": "7"
+  },
+  {
+    "question": "Which continent is the largest in the world?",
+    "options": ["Asia", "Africa", "Europe", "North America"],
+    "answer": "Asia"
+  },
+  {
+    "question": "Which is the largest desert in the world?",
+    "options": ["Sahara Desert", "Thar Desert", "Gobi Desert", "Arabian Desert"],
+    "answer": "Sahara Desert"
+  },
+  {
+    "question": "Which gas do plants absorb from the air?",
+    "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "Which gas do humans breathe in?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "How many days are there in a leap year?",
+    "options": ["366", "365", "364", "367"],
+    "answer": "366"
+  },
+  {
+    "question": "How many months are there in a year?",
+    "options": ["12", "10", "11", "13"],
+    "answer": "12"
+  },
+  {
+    "question": "Which is the hardest natural substance on Earth?",
+    "options": ["Diamond", "Gold", "Iron", "Platinum"],
+    "answer": "Diamond"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "answer": "Mars"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Mercury", "Venus", "Earth", "Mars"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the currency of India?",
+    "options": ["Rupee", "Dollar", "Pound", "Euro"],
+    "answer": "Rupee"
+  },
+  {
+    "question": "Which is the largest state in India by area?",
+    "options": ["Rajasthan", "Madhya Pradesh", "Maharashtra", "Uttar Pradesh"],
+    "answer": "Rajasthan"
+  },
+  {
+    "question": "Which river is known as the 'Ganga of the South'?",
+    "options": ["Godavari", "Krishna", "Kaveri", "Mahanadi"],
+    "answer": "Godavari"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": ["Alexander Graham Bell", "Thomas Edison", "Isaac Newton", "Nikola Tesla"],
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "Who invented the electric bulb?",
+    "options": ["Thomas Edison", "Alexander Graham Bell", "Marie Curie", "Albert Einstein"],
+    "answer": "Thomas Edison"
+  },
+  {
+    "question": "Which is the nearest star to Earth?",
+    "options": ["Sun", "Proxima Centauri", "Sirius", "Polaris"],
+    "answer": "Sun"
+  },
+  {
+    "question": "How many bones are there in the human body?",
+    "options": ["206", "208", "200", "212"],
+    "answer": "206"
+  },
+  {
+    "question": "Which is the largest organ in the human body?",
+    "options": ["Skin", "Liver", "Heart", "Lungs"],
+    "answer": "Skin"
+  },
+  {
+    "question": "Which organ pumps blood in the human body?",
+    "options": ["Heart", "Lungs", "Brain", "Liver"],
+    "answer": "Heart"
+  },
+  {
+    "question": "What is the full form of 'UNO'?",
+    "options": ["United Nations Organization", "United Nations Office", "Universal Nations Order", "United National Organization"],
+    "answer": "United Nations Organization"
+  },
+  {
+    "question": "Where is the Taj Mahal located?",
+    "options": ["Agra", "Delhi", "Jaipur", "Lucknow"],
+    "answer": "Agra"
+  },
+  {
+    "question": "Who built the Taj Mahal?",
+    "options": ["Shah Jahan", "Akbar", "Aurangzeb", "Humayun"],
+    "answer": "Shah Jahan"
+  },
+  {
+    "question": "Which is the largest mammal in the world?",
+    "options": ["Blue Whale", "Elephant", "Giraffe", "Hippopotamus"],
+    "answer": "Blue Whale"
+  },
+  {
+    "question": "Which animal is known as the Ship of the Desert?",
+    "options": ["Camel", "Horse", "Elephant", "Donkey"],
+    "answer": "Camel"
+  },
+  {
+    "question": "Which is the fastest animal on land?",
+    "options": ["Cheetah", "Lion", "Horse", "Leopard"],
+    "answer": "Cheetah"
+  },
+  {
+    "question": "What is the colour of the sky on a clear day?",
+    "options": ["Blue", "White", "Grey", "Yellow"],
+    "answer": "Blue"
+  },
+  {
+    "question": "How many colours are there in a rainbow?",
+    "options": ["7", "6", "5", "8"],
+    "answer": "7"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["Japan", "China", "South Korea", "Thailand"],
+    "answer": "Japan"
+  },
+  {
+    "question": "What does 'SOS' stand for in emergency signals?",
+    "options": ["Save Our Souls", "Send Our Signal", "Save Our Ship", "Send Our Support"],
+    "answer": "Save Our Souls"
+  },
+  {
+    "question": "Which festival is known as the Festival of Lights in India?",
+    "options": ["Diwali", "Holi", "Eid", "Christmas"],
+    "answer": "Diwali"
+  }
+]

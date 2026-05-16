@@ -1,5 +1,3 @@
-let allQuestions = [];
-
 let selectedQuestions = [];
 
 let startTime;
@@ -7,22 +5,6 @@ let startTime;
 let totalTime = 10 * 60;
 
 let timerInterval;
-
-
-/* =========================
-   LOAD QUESTIONS
-========================= */
-
-fetch('questions.json')
-
-  .then(response => response.json())
-
-  .then(data => {
-
-    allQuestions = data;
-
-    loadHistory();
-  });
 
 
 /* =========================
@@ -47,7 +29,7 @@ function shuffleArray(array) {
    START QUIZ
 ========================= */
 
-function startQuiz() {
+async function startQuiz() {
 
   const studentName =
     document.getElementById('studentName').value;
@@ -103,31 +85,76 @@ Click OK to start quiz.
 
   startTime = new Date();
 
-  let filteredQuestions =
-    [...allQuestions];
+  let loadedQuestions = [];
 
-  // CATEGORY FILTER
+  /* =========================
+     LOAD QUESTIONS
+  ========================= */
 
-  if (selectedCategory !== "All") {
+  if (selectedCategory === "all") {
 
-    filteredQuestions =
-      filteredQuestions.filter(q =>
-        q.category === selectedCategory
-      );
+    const files = [
+
+      'computer/questions.json',
+
+      'gk/questions.json',
+
+      'science/questions.json',
+
+      'maths/questions.json',
+
+      'sports/questions.json',
+
+      'english/questions.json'
+
+    ];
+
+    for (const file of files) {
+
+      const response =
+        await fetch(file);
+
+      const data =
+        await response.json();
+
+      loadedQuestions =
+        loadedQuestions.concat(data);
+    }
+
   }
 
-  // RANDOMIZE QUESTIONS
+  else {
+
+    const response =
+      await fetch(selectedCategory);
+
+    loadedQuestions =
+      await response.json();
+  }
+
+
+  /* =========================
+     RANDOMIZE QUESTIONS
+  ========================= */
 
   let shuffledQuestions =
-    shuffleArray(filteredQuestions);
+    shuffleArray(loadedQuestions);
 
-  // LIMIT QUESTIONS
+
+  /* =========================
+     LIMIT QUESTIONS
+  ========================= */
 
   selectedQuestions =
     shuffledQuestions.slice(
       0,
       Math.min(limit, shuffledQuestions.length)
     );
+
+
+  /* =========================
+     LOAD QUESTIONS
+  ========================= */
 
   loadQuestions();
 
@@ -326,35 +353,30 @@ function submitQuiz() {
 
     reaction =
       "😢 Fail! Keep practicing and try again.";
-
   }
 
   else if (percentage >= 55 && percentage < 75) {
 
     reaction =
       "🙂 Good Job! You can do even better.";
-
   }
 
   else if (percentage >= 75 && percentage < 90) {
 
     reaction =
       "😃 Very Good Performance!";
-
   }
 
   else if (percentage >= 90 && percentage < 100) {
 
     reaction =
       "🔥 Excellent Work! Outstanding Score!";
-
   }
 
   else if (percentage == 100) {
 
     reaction =
       "🏆 PERFECT SCORE! GENIUS!";
-
   }
 
 

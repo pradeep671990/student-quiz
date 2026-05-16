@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": ["Earth", "Neptune", "Uranus", "Mars"],
+    "answer": "Earth"
+  },
+  {
+    "question": "What do plants need to make their own food?",
+    "options": ["Sunlight, water and CO2", "Water and oxygen", "Soil and sunlight", "Air and water"],
+    "answer": "Sunlight, water and CO2"
+  },
+  {
+    "question": "Which part of the plant absorbs water from the soil?",
+    "options": ["Roots", "Leaves", "Stem", "Flowers"],
+    "answer": "Roots"
+  },
+  {
+    "question": "What is the process by which plants make their food called?",
+    "options": ["Photosynthesis", "Respiration", "Digestion", "Transpiration"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "question": "Which gas is released by plants during photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "What is the unit of measuring temperature?",
+    "options": ["Celsius", "Kilogram", "Metre", "Litre"],
+    "answer": "Celsius"
+  },
+  {
+    "question": "Which state of matter has no fixed shape or volume?",
+    "options": ["Gas", "Solid", "Liquid", "Plasma"],
+    "answer": "Gas"
+  },
+  {
+    "question": "What is the boiling point of water?",
+    "options": ["100°C", "0°C", "50°C", "200°C"],
+    "answer": "100°C"
+  },
+  {
+    "question": "What is the freezing point of water?",
+    "options": ["0°C", "100°C", "-10°C", "32°C"],
+    "answer": "0°C"
+  },
+  {
+    "question": "Which organ is responsible for breathing?",
+    "options": ["Lungs", "Heart", "Liver", "Kidney"],
+    "answer": "Lungs"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Mitochondria", "Nucleus", "Cell Wall", "Vacuole"],
+    "answer": "Mitochondria"
+  },
+  {
+    "question": "Which vitamin is produced when skin is exposed to sunlight?",
+    "options": ["Vitamin D", "Vitamin C", "Vitamin A", "Vitamin B"],
+    "answer": "Vitamin D"
+  },
+  {
+    "question": "What type of animal is a frog?",
+    "options": ["Amphibian", "Reptile", "Mammal", "Bird"],
+    "answer": "Amphibian"
+  },
+  {
+    "question": "Which force pulls objects towards the Earth?",
+    "options": ["Gravity", "Friction", "Magnetism", "Wind"],
+    "answer": "Gravity"
+  },
+  {
+    "question": "What is the centre of an atom called?",
+    "options": ["Nucleus", "Electron", "Proton", "Neutron"],
+    "answer": "Nucleus"
+  },
+  {
+    "question": "Which planet is farthest from the Sun?",
+    "options": ["Neptune", "Uranus", "Saturn", "Jupiter"],
+    "answer": "Neptune"
+  },
+  {
+    "question": "What is the full form of DNA?",
+    "options": ["Deoxyribonucleic Acid", "Dynamic Nucleic Acid", "Double Nucleic Acid", "Deoxyribose Natural Acid"],
+    "answer": "Deoxyribonucleic Acid"
+  },
+  {
+    "question": "Which is the largest organ inside the human body?",
+    "options": ["Liver", "Heart", "Stomach", "Kidney"],
+    "answer": "Liver"
+  },
+  {
+    "question": "Sound travels fastest through which medium?",
+    "options": ["Solid", "Liquid", "Gas", "Vacuum"],
+    "answer": "Solid"
+  },
+  {
+    "question": "Which type of lens is used in a magnifying glass?",
+    "options": ["Convex lens", "Concave lens", "Flat lens", "Bifocal lens"],
+    "answer": "Convex lens"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "CO2", "O2", "H2"],
+    "answer": "H2O"
+  },
+  {
+    "question": "Which part of the plant makes seeds?",
+    "options": ["Flower", "Leaf", "Root", "Stem"],
+    "answer": "Flower"
+  },
+  {
+    "question": "What do we call animals that eat only plants?",
+    "options": ["Herbivores", "Carnivores", "Omnivores", "Decomposers"],
+    "answer": "Herbivores"
+  },
+  {
+    "question": "What do we call animals that eat only meat?",
+    "options": ["Carnivores", "Herbivores", "Omnivores", "Scavengers"],
+    "answer": "Carnivores"
+  },
+  {
+    "question": "Which planet has rings around it?",
+    "options": ["Saturn", "Mars", "Venus", "Mercury"],
+    "answer": "Saturn"
+  },
+  {
+    "question": "What is the basic unit of life?",
+    "options": ["Cell", "Tissue", "Organ", "Atom"],
+    "answer": "Cell"
+  },
+  {
+    "question": "Which sense organ is used for smelling?",
+    "options": ["Nose", "Eyes", "Ears", "Tongue"],
+    "answer": "Nose"
+  },
+  {
+    "question": "What type of rock is formed from cooled lava?",
+    "options": ["Igneous rock", "Sedimentary rock", "Metamorphic rock", "Limestone"],
+    "answer": "Igneous rock"
+  },
+  {
+    "question": "How many teeth does an adult human have?",
+    "options": ["32", "28", "30", "34"],
+    "answer": "32"
+  },
+  {
+    "question": "Which blood group is known as the universal donor?",
+    "options": ["O negative", "A positive", "B positive", "AB positive"],
+    "answer": "O negative"
+  },
+  {
+    "question": "What is the speed of light?",
+    "options": ["3 × 10⁸ m/s", "3 × 10⁶ m/s", "3 × 10⁴ m/s", "3 × 10¹⁰ m/s"],
+    "answer": "3 × 10⁸ m/s"
+  },
+  {
+    "question": "Which planet is known as Earth's twin?",
+    "options": ["Venus", "Mars", "Mercury", "Neptune"],
+    "answer": "Venus"
+  },
+  {
+    "question": "What is the main source of energy for Earth?",
+    "options": ["Sun", "Moon", "Wind", "Water"],
+    "answer": "Sun"
+  },
+  {
+    "question": "Which part of the eye controls the amount of light entering?",
+    "options": ["Pupil", "Iris", "Retina", "Cornea"],
+    "answer": "Pupil"
+  },
+  {
+    "question": "What do we call the change of liquid into gas?",
+    "options": ["Evaporation", "Condensation", "Freezing", "Melting"],
+    "answer": "Evaporation"
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Mercury", "Gold", "Silver", "Copper"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the study of living organisms called?",
+    "options": ["Biology", "Physics", "Chemistry", "Geology"],
+    "answer": "Biology"
+  },
+  {
+    "question": "Which organ controls all the body functions?",
+    "options": ["Brain", "Heart", "Liver", "Lungs"],
+    "answer": "Brain"
+  },
+  {
+    "question": "What is the outer layer of Earth called?",
+    "options": ["Crust", "Mantle", "Core", "Magma"],
+    "answer": "Crust"
+  },
+  {
+    "question": "Which vitamin helps in clotting of blood?",
+    "options": ["Vitamin K", "Vitamin C", "Vitamin A", "Vitamin D"],
+    "answer": "Vitamin K"
+  },
+  {
+    "question": "What type of energy does a moving object have?",
+    "options": ["Kinetic energy", "Potential energy", "Solar energy", "Chemical energy"],
+    "answer": "Kinetic energy"
+  },
+  {
+    "question": "How many chambers does the human heart have?",
+    "options": ["4", "2", "3", "6"],
+    "answer": "4"
+  },
+  {
+    "question": "Which animal is known as the king of the jungle?",
+    "options": ["Lion", "Tiger", "Elephant", "Bear"],
+    "answer": "Lion"
+  },
+  {
+    "question": "What is the natural satellite of Earth?",
+    "options": ["Moon", "Sun", "Mars", "Venus"],
+    "answer": "Moon"
+  },
+  {
+    "question": "Which part of the plant conducts photosynthesis mainly?",
+    "options": ["Leaf", "Root", "Stem", "Flower"],
+    "answer": "Leaf"
+  },
+  {
+    "question": "What do we call a baby frog?",
+    "options": ["Tadpole", "Cub", "Kitten", "Foal"],
+    "answer": "Tadpole"
+  },
+  {
+    "question": "Which nutrient gives us energy quickly?",
+    "options": ["Carbohydrates", "Proteins", "Fats", "Vitamins"],
+    "answer": "Carbohydrates"
+  },
+  {
+    "question": "What is the colour of chlorophyll?",
+    "options": ["Green", "Yellow", "Blue", "Red"],
+    "answer": "Green"
+  },
+  {
+    "question": "Which instrument is used to measure rainfall?",
+    "options": ["Rain gauge", "Thermometer", "Barometer", "Anemometer"],
+    "answer": "Rain gauge"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Fe", "Cu"],
+    "answer": "Au"
+  }
+]

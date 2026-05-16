@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which device is called the brain of the computer?",
+    "options": ["CPU", "Mouse", "Keyboard", "Printer"],
+    "answer": "CPU"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": ["Central Processing Unit", "Computer Personal Unit", "Central Program Utility", "Control Processing Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "Which of the following is an input device?",
+    "options": ["Keyboard", "Monitor", "Printer", "Speaker"],
+    "answer": "Keyboard"
+  },
+  {
+    "question": "Which of the following is an output device?",
+    "options": ["Monitor", "Mouse", "Keyboard", "Scanner"],
+    "answer": "Monitor"
+  },
+  {
+    "question": "What is used to move the cursor on the screen?",
+    "options": ["Mouse", "Keyboard", "Monitor", "CPU"],
+    "answer": "Mouse"
+  },
+  {
+    "question": "Which key is used to delete a character to the left of the cursor?",
+    "options": ["Backspace", "Delete", "Escape", "Enter"],
+    "answer": "Backspace"
+  },
+  {
+    "question": "What does RAM stand for?",
+    "options": ["Random Access Memory", "Read Access Memory", "Run Application Memory", "Remote Access Module"],
+    "answer": "Random Access Memory"
+  },
+  {
+    "question": "Which storage device has the largest capacity today?",
+    "options": ["Hard Disk", "Floppy Disk", "CD", "DVD"],
+    "answer": "Hard Disk"
+  },
+  {
+    "question": "What is the full form of WWW?",
+    "options": ["World Wide Web", "World Wide Window", "Wide World Web", "World Web Window"],
+    "answer": "World Wide Web"
+  },
+  {
+    "question": "Which of the following is NOT an operating system?",
+    "options": ["MS Word", "Windows", "Linux", "macOS"],
+    "answer": "MS Word"
+  },
+  {
+    "question": "Which key is pressed to start a new line in MS Word?",
+    "options": ["Enter", "Shift", "Tab", "Caps Lock"],
+    "answer": "Enter"
+  },
+  {
+    "question": "What does 'Save' do in a computer program?",
+    "options": ["Stores your work", "Prints your work", "Deletes your work", "Closes the program"],
+    "answer": "Stores your work"
+  },
+  {
+    "question": "Which shortcut key is used to copy selected text?",
+    "options": ["Ctrl + C", "Ctrl + V", "Ctrl + X", "Ctrl + Z"],
+    "answer": "Ctrl + C"
+  },
+  {
+    "question": "Which shortcut key is used to paste copied text?",
+    "options": ["Ctrl + V", "Ctrl + C", "Ctrl + X", "Ctrl + P"],
+    "answer": "Ctrl + V"
+  },
+  {
+    "question": "Which shortcut key is used to undo an action?",
+    "options": ["Ctrl + Z", "Ctrl + Y", "Ctrl + U", "Ctrl + A"],
+    "answer": "Ctrl + Z"
+  },
+  {
+    "question": "A computer works on which number system?",
+    "options": ["Binary", "Decimal", "Octal", "Hexadecimal"],
+    "answer": "Binary"
+  },
+  {
+    "question": "Which of the following is a web browser?",
+    "options": ["Google Chrome", "MS Word", "VLC Player", "Notepad"],
+    "answer": "Google Chrome"
+  },
+  {
+    "question": "What is the function of a printer?",
+    "options": ["Prints documents on paper", "Stores data", "Displays images", "Types text"],
+    "answer": "Prints documents on paper"
+  },
+  {
+    "question": "What does the 'Recycle Bin' contain?",
+    "options": ["Deleted files", "Saved files", "New files", "System files"],
+    "answer": "Deleted files"
+  },
+  {
+    "question": "Which part of the computer stores data permanently?",
+    "options": ["Hard Disk", "RAM", "Cache", "Monitor"],
+    "answer": "Hard Disk"
+  },
+  {
+    "question": "What is the screen of a computer called?",
+    "options": ["Monitor", "Keyboard", "CPU", "Scanner"],
+    "answer": "Monitor"
+  },
+  {
+    "question": "Which key is used to select all items on a page?",
+    "options": ["Ctrl + A", "Ctrl + S", "Ctrl + D", "Ctrl + F"],
+    "answer": "Ctrl + A"
+  },
+  {
+    "question": "What is MS Paint used for?",
+    "options": ["Drawing and painting", "Writing documents", "Playing music", "Browsing internet"],
+    "answer": "Drawing and painting"
+  },
+  {
+    "question": "Who is known as the father of computers?",
+    "options": ["Charles Babbage", "Bill Gates", "Steve Jobs", "Alan Turing"],
+    "answer": "Charles Babbage"
+  },
+  {
+    "question": "Which of the following is an example of software?",
+    "options": ["MS Word", "Keyboard", "Monitor", "Mouse"],
+    "answer": "MS Word"
+  },
+  {
+    "question": "What does a scanner do?",
+    "options": ["Converts physical documents to digital form", "Prints documents", "Stores data", "Displays video"],
+    "answer": "Converts physical documents to digital form"
+  },
+  {
+    "question": "What is the shortcut to print a document?",
+    "options": ["Ctrl + P", "Ctrl + S", "Ctrl + O", "Ctrl + N"],
+    "answer": "Ctrl + P"
+  },
+  {
+    "question": "What is the shortcut to save a document?",
+    "options": ["Ctrl + S", "Ctrl + P", "Ctrl + A", "Ctrl + Z"],
+    "answer": "Ctrl + S"
+  },
+  {
+    "question": "Which of the following is an example of an input device?",
+    "options": ["Microphone", "Speaker", "Projector", "Printer"],
+    "answer": "Microphone"
+  },
+  {
+    "question": "What does the 'Escape' (Esc) key do?",
+    "options": ["Cancels an action", "Saves a file", "Deletes text", "Prints a document"],
+    "answer": "Cancels an action"
+  },
+  {
+    "question": "What is a folder in a computer?",
+    "options": ["A place to organize files", "A type of software", "A hardware device", "A computer virus"],
+    "answer": "A place to organize files"
+  },
+  {
+    "question": "What does the 'Caps Lock' key do?",
+    "options": ["Types letters in uppercase", "Locks the computer", "Deletes a file", "Opens a menu"],
+    "answer": "Types letters in uppercase"
+  },
+  {
+    "question": "Which device is used to take photographs and connect to a computer?",
+    "options": ["Digital Camera", "Speaker", "Printer", "Monitor"],
+    "answer": "Digital Camera"
+  },
+  {
+    "question": "What is the Internet?",
+    "options": ["A global network of computers", "A type of software", "A storage device", "A computer game"],
+    "answer": "A global network of computers"
+  },
+  {
+    "question": "What does 'USB' stand for?",
+    "options": ["Universal Serial Bus", "United System Bus", "Universal System Board", "Unified Serial Board"],
+    "answer": "Universal Serial Bus"
+  },
+  {
+    "question": "Which of the following is NOT a storage device?",
+    "options": ["Monitor", "Pen Drive", "Hard Disk", "DVD"],
+    "answer": "Monitor"
+  },
+  {
+    "question": "What is a computer virus?",
+    "options": ["A harmful program that damages computers", "A type of keyboard", "A storage device", "A web browser"],
+    "answer": "A harmful program that damages computers"
+  },
+  {
+    "question": "How many function keys are there on a standard keyboard?",
+    "options": ["12", "10", "8", "14"],
+    "answer": "12"
+  },
+  {
+    "question": "What is the full form of 'E-mail'?",
+    "options": ["Electronic Mail", "Easy Mail", "Express Mail", "External Mail"],
+    "answer": "Electronic Mail"
+  },
+  {
+    "question": "What is Notepad?",
+    "options": ["A simple text editor", "A drawing program", "A music player", "A web browser"],
+    "answer": "A simple text editor"
+  },
+  {
+    "question": "What does the 'Tab' key do?",
+    "options": ["Moves the cursor to the next tab stop", "Deletes a word", "Saves the file", "Opens a new window"],
+    "answer": "Moves the cursor to the next tab stop"
+  },
+  {
+    "question": "Which of the following is a social media website?",
+    "options": ["Facebook", "MS Excel", "Photoshop", "VLC"],
+    "answer": "Facebook"
+  },
+  {
+    "question": "What is the main purpose of an antivirus program?",
+    "options": ["Protects the computer from viruses", "Speeds up the computer", "Stores files", "Prints documents"],
+    "answer": "Protects the computer from viruses"
+  },
+  {
+    "question": "What type of device is a joystick?",
+    "options": ["Input device", "Output device", "Storage device", "Processing device"],
+    "answer": "Input device"
+  },
+  {
+    "question": "What does 'Ctrl + X' do?",
+    "options": ["Cut selected text", "Copy selected text", "Paste text", "Undo action"],
+    "answer": "Cut selected text"
+  },
+  {
+    "question": "Which company made the Windows operating system?",
+    "options": ["Microsoft", "Apple", "Google", "IBM"],
+    "answer": "Microsoft"
+  },
+  {
+    "question": "What is a password used for?",
+    "options": ["To protect your account", "To speed up the computer", "To print documents", "To save files"],
+    "answer": "To protect your account"
+  },
+  {
+    "question": "What does a speaker do?",
+    "options": ["Produces sound", "Stores data", "Displays images", "Types text"],
+    "answer": "Produces sound"
+  },
+  {
+    "question": "What is the desktop?",
+    "options": ["The main screen of a computer", "A type of printer", "A storage device", "A computer game"],
+    "answer": "The main screen of a computer"
+  },
+  {
+    "question": "Which of the following is used to search for information on the internet?",
+    "options": ["Search Engine", "MS Paint", "Notepad", "Calculator"],
+    "answer": "Search Engine"
+  }
+]

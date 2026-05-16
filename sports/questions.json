@@ -1,0 +1,252 @@
+[
+  {
+    "question": "How many players are there in a cricket team?",
+    "options": ["11", "10", "12", "9"],
+    "answer": "11"
+  },
+  {
+    "question": "How many players are there in a football team?",
+    "options": ["11", "10", "9", "12"],
+    "answer": "11"
+  },
+  {
+    "question": "How many players are there in a basketball team?",
+    "options": ["5", "6", "7", "4"],
+    "answer": "5"
+  },
+  {
+    "question": "How many players are there in a volleyball team?",
+    "options": ["6", "5", "7", "8"],
+    "answer": "6"
+  },
+  {
+    "question": "How many players are there in a hockey team?",
+    "options": ["11", "10", "9", "12"],
+    "answer": "11"
+  },
+  {
+    "question": "Which sport is played at Wimbledon?",
+    "options": ["Tennis", "Cricket", "Football", "Golf"],
+    "answer": "Tennis"
+  },
+  {
+    "question": "How many rings are there on the Olympic flag?",
+    "options": ["5", "4", "6", "3"],
+    "answer": "5"
+  },
+  {
+    "question": "Where were the first modern Olympic Games held?",
+    "options": ["Athens, Greece", "Paris, France", "London, England", "Rome, Italy"],
+    "answer": "Athens, Greece"
+  },
+  {
+    "question": "How many points is a touchdown worth in American Football?",
+    "options": ["6", "3", "7", "2"],
+    "answer": "6"
+  },
+  {
+    "question": "What is the length of a standard Olympic swimming pool?",
+    "options": ["50 metres", "25 metres", "100 metres", "75 metres"],
+    "answer": "50 metres"
+  },
+  {
+    "question": "Which country invented cricket?",
+    "options": ["England", "India", "Australia", "South Africa"],
+    "answer": "England"
+  },
+  {
+    "question": "How many holes are played in a standard round of golf?",
+    "options": ["18", "9", "12", "24"],
+    "answer": "18"
+  },
+  {
+    "question": "What is the highest score possible in a single cricket delivery?",
+    "options": ["6", "4", "3", "5"],
+    "answer": "6"
+  },
+  {
+    "question": "Which sport uses a shuttlecock?",
+    "options": ["Badminton", "Tennis", "Squash", "Table Tennis"],
+    "answer": "Badminton"
+  },
+  {
+    "question": "What is the term for scoring three goals in football by the same player?",
+    "options": ["Hat-trick", "Triple", "Three-peat", "Treble"],
+    "answer": "Hat-trick"
+  },
+  {
+    "question": "How many sets are in a standard men's Wimbledon final?",
+    "options": ["5", "3", "4", "6"],
+    "answer": "5"
+  },
+  {
+    "question": "What is the national sport of Japan?",
+    "options": ["Sumo Wrestling", "Judo", "Karate", "Kendo"],
+    "answer": "Sumo Wrestling"
+  },
+  {
+    "question": "In which sport do players score a 'bullseye'?",
+    "options": ["Archery / Darts", "Cricket", "Badminton", "Tennis"],
+    "answer": "Archery / Darts"
+  },
+  {
+    "question": "Which country has won the most FIFA World Cup titles?",
+    "options": ["Brazil", "Germany", "Italy", "Argentina"],
+    "answer": "Brazil"
+  },
+  {
+    "question": "What shape is a cricket pitch?",
+    "options": ["Oval", "Circle", "Rectangle", "Square"],
+    "answer": "Oval"
+  },
+  {
+    "question": "Who is known as the 'God of Cricket'?",
+    "options": ["Sachin Tendulkar", "Virat Kohli", "MS Dhoni", "Brian Lara"],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "question": "How many players are there in a polo team?",
+    "options": ["4", "5", "6", "3"],
+    "answer": "4"
+  },
+  {
+    "question": "Which sport is known as 'the beautiful game'?",
+    "options": ["Football", "Cricket", "Tennis", "Basketball"],
+    "answer": "Football"
+  },
+  {
+    "question": "In swimming, what does the term 'freestyle' mean?",
+    "options": ["Any stroke of the swimmer's choice", "Only backstroke", "Only breaststroke", "Only butterfly"],
+    "answer": "Any stroke of the swimmer's choice"
+  },
+  {
+    "question": "What is the diameter of a basketball hoop in inches?",
+    "options": ["18 inches", "16 inches", "20 inches", "24 inches"],
+    "answer": "18 inches"
+  },
+  {
+    "question": "Which sport has terms like 'love', 'deuce' and 'ace'?",
+    "options": ["Tennis", "Cricket", "Badminton", "Squash"],
+    "answer": "Tennis"
+  },
+  {
+    "question": "What is the full form of IPL?",
+    "options": ["Indian Premier League", "India Premier League", "International Premier League", "Indian Premier Leaderboard"],
+    "answer": "Indian Premier League"
+  },
+  {
+    "question": "How many players play on each side in a Kabaddi match?",
+    "options": ["7", "6", "8", "5"],
+    "answer": "7"
+  },
+  {
+    "question": "Which country hosted the 2020 Summer Olympics?",
+    "options": ["Japan", "China", "Brazil", "UK"],
+    "answer": "Japan"
+  },
+  {
+    "question": "What is the term for a score of zero in tennis?",
+    "options": ["Love", "Zero", "Nil", "Duck"],
+    "answer": "Love"
+  },
+  {
+    "question": "How long is a standard marathon race?",
+    "options": ["42.195 km", "40 km", "50 km", "26 km"],
+    "answer": "42.195 km"
+  },
+  {
+    "question": "Which sport uses a puck?",
+    "options": ["Ice Hockey", "Cricket", "Football", "Baseball"],
+    "answer": "Ice Hockey"
+  },
+  {
+    "question": "In boxing, how many minutes is a standard round?",
+    "options": ["3 minutes", "2 minutes", "5 minutes", "4 minutes"],
+    "answer": "3 minutes"
+  },
+  {
+    "question": "How many gold medals did India win at the 2020 Tokyo Olympics?",
+    "options": ["1", "2", "3", "0"],
+    "answer": "1"
+  },
+  {
+    "question": "Who won India's first individual Olympic gold medal?",
+    "options": ["Abhinav Bindra", "Neeraj Chopra", "Sushil Kumar", "Leander Paes"],
+    "answer": "Abhinav Bindra"
+  },
+  {
+    "question": "What is the term for dismissal in cricket when the ball hits the stumps on a delivery?",
+    "options": ["Bowled", "LBW", "Run out", "Stumped"],
+    "answer": "Bowled"
+  },
+  {
+    "question": "Which sport is played at the Masters Tournament?",
+    "options": ["Golf", "Tennis", "Cricket", "Polo"],
+    "answer": "Golf"
+  },
+  {
+    "question": "What colour is the centre circle of an archery target?",
+    "options": ["Yellow", "Red", "Blue", "Black"],
+    "answer": "Yellow"
+  },
+  {
+    "question": "In which sport would you perform a 'slam dunk'?",
+    "options": ["Basketball", "Volleyball", "Football", "Badminton"],
+    "answer": "Basketball"
+  },
+  {
+    "question": "How many points is a field goal worth in basketball?",
+    "options": ["2", "1", "3", "4"],
+    "answer": "2"
+  },
+  {
+    "question": "What is the highest governing body of world football?",
+    "options": ["FIFA", "ICC", "BWF", "IOC"],
+    "answer": "FIFA"
+  },
+  {
+    "question": "How often are the Summer Olympics held?",
+    "options": ["Every 4 years", "Every 2 years", "Every 3 years", "Every 5 years"],
+    "answer": "Every 4 years"
+  },
+  {
+    "question": "Which sport uses the terms 'strike' and 'spare'?",
+    "options": ["Bowling", "Cricket", "Baseball", "Tennis"],
+    "answer": "Bowling"
+  },
+  {
+    "question": "What is the weight of a standard cricket ball?",
+    "options": ["155.9–163 grams", "100–120 grams", "200–220 grams", "130–145 grams"],
+    "answer": "155.9–163 grams"
+  },
+  {
+    "question": "In which sport is the 'butterfly stroke' used?",
+    "options": ["Swimming", "Rowing", "Diving", "Water polo"],
+    "answer": "Swimming"
+  },
+  {
+    "question": "How many players are there on a baseball team?",
+    "options": ["9", "11", "7", "10"],
+    "answer": "9"
+  },
+  {
+    "question": "Which country is the birthplace of the Olympic Games?",
+    "options": ["Greece", "Italy", "France", "England"],
+    "answer": "Greece"
+  },
+  {
+    "question": "What is the term for a batsman scoring 100 runs in cricket?",
+    "options": ["Century", "Half-century", "Double century", "Triple century"],
+    "answer": "Century"
+  },
+  {
+    "question": "Which sport has the 'Ashes' series?",
+    "options": ["Cricket", "Football", "Rugby", "Tennis"],
+    "answer": "Cricket"
+  },
+  {
+    "question": "What is the governing body of cricket?",
+    "options": ["ICC", "FIFA", "BWF", "IOC"],
+    "answer": "ICC"
+  }
+]
