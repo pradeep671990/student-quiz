@@ -163,7 +163,7 @@ function submitQuiz() {
         resultHTML += `
           <p class="correct">
 
-            Q${index + 1}: Correct
+            ✅ Q${index + 1}: Correct
 
           </p>
         `;
@@ -173,7 +173,7 @@ function submitQuiz() {
         resultHTML += `
           <p class="wrong">
 
-            Q${index + 1}: Wrong
+            ❌ Q${index + 1}: Wrong
 
             <br>
 
@@ -189,7 +189,7 @@ function submitQuiz() {
       resultHTML += `
         <p class="wrong">
 
-          Q${index + 1}: Not Attempted
+          ⚠️ Q${index + 1}: Not Attempted
 
           <br>
 
@@ -202,6 +202,62 @@ function submitQuiz() {
 
   });
 
+
+  /* =========================
+     PERCENTAGE
+  ========================= */
+
+  const percentage =
+    ((score / selectedQuestions.length) * 100)
+    .toFixed(2);
+
+
+  /* =========================
+     REACTIONS
+  ========================= */
+
+  let reaction = "";
+
+  if (percentage < 55) {
+
+    reaction =
+      "😢 Fail! Keep practicing and try again.";
+
+  }
+
+  else if (percentage >= 55 && percentage < 75) {
+
+    reaction =
+      "🙂 Good Job! You can do even better.";
+
+  }
+
+  else if (percentage >= 75 && percentage < 90) {
+
+    reaction =
+      "😃 Very Good Performance!";
+
+  }
+
+  else if (percentage >= 90 && percentage < 100) {
+
+    reaction =
+      "🔥 Excellent Work! Outstanding Score!";
+
+  }
+
+  else if (percentage == 100) {
+
+    reaction =
+      "🏆 PERFECT SCORE! GENIUS!";
+
+  }
+
+
+  /* =========================
+     RESULT DISPLAY
+  ========================= */
+
   document.getElementById('result').innerHTML = `
 
     <h2>
@@ -209,11 +265,22 @@ function submitQuiz() {
       ${score}/${selectedQuestions.length}
     </h2>
 
+    <h2>
+      Percentage:
+      ${percentage}%
+    </h2>
+
+    <h2>
+      ${reaction}
+    </h2>
+
     <h3>
       Time Taken:
       ${Math.floor(timeTaken / 60)}m
       ${timeTaken % 60}s
     </h3>
+
+    <hr>
 
     ${resultHTML}
   `;
