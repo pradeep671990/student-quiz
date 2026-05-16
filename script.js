@@ -1,17 +1,33 @@
 let allQuestions = [];
+
 let selectedQuestions = [];
 
 let startTime;
+
 let totalTime = 10 * 60;
 
 let timerInterval;
 
+
+/* =========================
+   LOAD QUESTIONS
+========================= */
+
 fetch('questions.json')
+
   .then(response => response.json())
+
   .then(data => {
 
     allQuestions = data;
+
+    loadHistory();
   });
+
+
+/* =========================
+   SHUFFLE ARRAY
+========================= */
 
 function shuffleArray(array) {
 
@@ -26,9 +42,25 @@ function shuffleArray(array) {
   return array;
 }
 
+
+/* =========================
+   START QUIZ
+========================= */
+
 function startQuiz() {
 
+  const studentName =
+    document.getElementById('studentName').value;
+
+  if (studentName.trim() === "") {
+
+    alert("Please enter student name");
+
+    return;
+  }
+
   document.getElementById('quiz').innerHTML = "";
+
   document.getElementById('result').innerHTML = "";
 
   clearInterval(timerInterval);
@@ -38,23 +70,81 @@ function startQuiz() {
       document.getElementById('questionLimit').value
     );
 
+  const selectedCategory =
+    document.getElementById('categorySelect').value;
+
+  // 1 MINUTE PER QUESTION
+
+  totalTime = limit * 60;
+
+  const totalMinutes = limit;
+
+  // WARNING MESSAGE
+
+  const warningMessage = `
+
+You will get:
+
+✔ 1 minute for each question
+✔ Total Time: ${totalMinutes} Minutes
+✔ No negative marking
+
+Click OK to start quiz.
+
+`;
+
+  const confirmStart =
+    confirm(warningMessage);
+
+  if (!confirmStart) {
+
+    return;
+  }
+
   startTime = new Date();
 
+  let filteredQuestions =
+    [...allQuestions];
+
+  // CATEGORY FILTER
+
+  if (selectedCategory !== "All") {
+
+    filteredQuestions =
+      filteredQuestions.filter(q =>
+        q.category === selectedCategory
+      );
+  }
+
+  // RANDOMIZE QUESTIONS
+
   let shuffledQuestions =
-    shuffleArray([...allQuestions]);
+    shuffleArray(filteredQuestions);
+
+  // LIMIT QUESTIONS
 
   selectedQuestions =
-    shuffledQuestions.slice(0, limit);
+    shuffledQuestions.slice(
+      0,
+      Math.min(limit, shuffledQuestions.length)
+    );
 
   loadQuestions();
 
   startTimer();
 }
 
+
+/* =========================
+   LOAD QUESTIONS
+========================= */
+
 function loadQuestions() {
 
   const quizDiv =
     document.getElementById('quiz');
+
+  quizDiv.innerHTML = "";
 
   document.getElementById('questionCount').innerHTML =
     `Questions: ${selectedQuestions.length}`;
@@ -100,9 +190,12 @@ function loadQuestions() {
   });
 }
 
-function startTimer() {
 
-  totalTime = 10 * 60;
+/* =========================
+   TIMER
+========================= */
+
+function startTimer() {
 
   timerInterval = setInterval(() => {
 
@@ -122,15 +215,26 @@ function startTimer() {
 
     totalTime--;
 
+    // AUTO SUBMIT
+
     if (totalTime < 0) {
 
       clearInterval(timerInterval);
+
+      alert(
+        "Time is over! Quiz will be submitted automatically."
+      );
 
       submitQuiz();
     }
 
   }, 1000);
 }
+
+
+/* =========================
+   SUBMIT QUIZ
+========================= */
 
 function submitQuiz() {
 
@@ -255,6 +359,37 @@ function submitQuiz() {
 
 
   /* =========================
+     SAVE HISTORY
+  ========================= */
+
+  const studentName =
+    document.getElementById('studentName').value;
+
+  const selectedCategory =
+    document.getElementById('categorySelect').value;
+
+  saveHistory({
+
+    studentName: studentName,
+
+    category: selectedCategory,
+
+    score: score,
+
+    total: selectedQuestions.length,
+
+    percentage: percentage,
+
+    timeTaken:
+      `${Math.floor(timeTaken / 60)}m ${timeTaken % 60}s`,
+
+    date:
+      new Date().toLocaleString()
+
+  });
+
+
+  /* =========================
      RESULT DISPLAY
   ========================= */
 
@@ -284,4 +419,88 @@ function submitQuiz() {
 
     ${resultHTML}
   `;
+}
+
+
+/* =========================
+   SAVE HISTORY
+========================= */
+
+function saveHistory(data) {
+
+  let history =
+    JSON.parse(
+      localStorage.getItem('quizHistory')
+    ) || [];
+
+  history.push(data);
+
+  localStorage.setItem(
+    'quizHistory',
+    JSON.stringify(history)
+  );
+
+  loadHistory();
+}
+
+
+/* =========================
+   LOAD HISTORY
+========================= */
+
+function loadHistory() {
+
+  let history =
+    JSON.parse(
+      localStorage.getItem('quizHistory')
+    ) || [];
+
+  let html = "";
+
+  history.reverse().forEach((item, index) => {
+
+    html += `
+
+      <div class="question">
+
+        <p>
+          <b>Attempt ${index + 1}</b>
+        </p>
+
+        <p>
+          Student:
+          <b>${item.studentName}</b>
+        </p>
+
+        <p>
+          Category:
+          ${item.category}
+        </p>
+
+        <p>
+          Score:
+          ${item.score}/${item.total}
+        </p>
+
+        <p>
+          Percentage:
+          ${item.percentage}%
+        </p>
+
+        <p>
+          Time Taken:
+          ${item.timeTaken}
+        </p>
+
+        <p>
+          Date:
+          ${item.date}
+        </p>
+
+      </div>
+    `;
+  });
+
+  document.getElementById('history').innerHTML =
+    html;
 }
