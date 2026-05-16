@@ -13,11 +13,67 @@
 
 <div class="quiz-container">
 
-  <h1>Class 5 GK & Computer Quiz</h1>
+  <h1>
+    Class 5 Quiz Portal
+  </h1>
 
-  <!-- Quiz Controls -->
+
+  <!-- =========================
+       QUIZ CONTROLS
+  ========================== -->
 
   <div class="controls">
+
+
+    <!-- Student Name -->
+
+    <label>
+      Student Name:
+    </label>
+
+    <input
+      type="text"
+      id="studentName"
+      placeholder="Enter your name"
+    >
+
+
+    <!-- Category Selection -->
+
+    <label>
+      Select Category:
+    </label>
+
+    <select id="categorySelect">
+
+      <option value="All">
+        All Categories
+      </option>
+
+      <option value="GK">
+        GK
+      </option>
+
+      <option value="Computer">
+        Computer
+      </option>
+
+      <option value="Science">
+        Science
+      </option>
+
+      <option value="Maths">
+        Maths
+      </option>
+
+      <option value="Games & Sports">
+        Games & Sports
+      </option>
+
+    </select>
+
+
+    <!-- Question Count -->
 
     <label>
       Select Number of Questions:
@@ -25,30 +81,50 @@
 
     <select id="questionLimit">
 
-      <option value="10">10</option>
+      <option value="10">
+        10 Questions
+      </option>
 
-      <option value="20">20</option>
+      <option value="20">
+        20 Questions
+      </option>
 
-      <option value="30">30</option>
+      <option value="30">
+        30 Questions
+      </option>
 
-      <option value="40">40</option>
+      <option value="40">
+        40 Questions
+      </option>
 
-      <option value="50">50</option>
+      <option value="50">
+        50 Questions
+      </option>
 
     </select>
 
+
+    <!-- Start Button -->
+
     <button onclick="startQuiz()">
+
       Start Quiz
+
     </button>
 
   </div>
 
-  <!-- Timer + Question Count -->
+
+  <!-- =========================
+       TIMER + QUESTION COUNT
+  ========================== -->
 
   <div class="top-bar">
 
     <div id="timer">
+
       Time Left: 10:00
+
     </div>
 
     <div id="questionCount">
@@ -57,21 +133,47 @@
 
   </div>
 
-  <!-- Quiz Questions -->
+
+  <!-- =========================
+       QUIZ QUESTIONS
+  ========================== -->
 
   <div id="quiz">
 
   </div>
 
-  <!-- Submit Button -->
+
+  <!-- =========================
+       SUBMIT BUTTON
+  ========================== -->
 
   <button onclick="submitQuiz()">
+
     Submit Quiz
+
   </button>
 
-  <!-- Final Result -->
+
+  <!-- =========================
+       RESULT SECTION
+  ========================== -->
 
   <div id="result">
+
+  </div>
+
+
+  <!-- =========================
+       QUIZ HISTORY
+  ========================== -->
+
+  <hr>
+
+  <h2>
+    Quiz History
+  </h2>
+
+  <div id="history">
 
   </div>
 

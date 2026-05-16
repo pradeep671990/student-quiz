@@ -1,252 +1,241 @@
 [
   {
+    "category": "GK",
     "question": "What is the capital of India?",
-    "options": ["Mumbai", "Delhi", "Chennai", "Kolkata"],
+    "options": [
+      "Mumbai",
+      "Delhi",
+      "Chennai",
+      "Kolkata"
+    ],
     "answer": "Delhi"
   },
+
   {
+    "category": "Computer",
     "question": "Which device is called the brain of a computer?",
-    "options": ["CPU", "Mouse", "Keyboard", "Printer"],
+    "options": [
+      "CPU",
+      "Mouse",
+      "Keyboard",
+      "Printer"
+    ],
     "answer": "CPU"
   },
+
   {
+    "category": "Science",
     "question": "Which planet is called the Red Planet?",
-    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+    "options": [
+      "Earth",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
     "answer": "Mars"
   },
+
   {
+    "category": "Computer",
     "question": "Which is an input device?",
-    "options": ["Monitor", "Keyboard", "Speaker", "Printer"],
+    "options": [
+      "Monitor",
+      "Keyboard",
+      "Speaker",
+      "Printer"
+    ],
     "answer": "Keyboard"
   },
+
   {
+    "category": "GK",
     "question": "How many states are there in India?",
-    "options": ["28", "29", "30", "27"],
+    "options": [
+      "28",
+      "29",
+      "30",
+      "27"
+    ],
     "answer": "28"
   },
+
   {
+    "category": "Science",
     "question": "What is the largest ocean in the world?",
-    "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Arctic",
+      "Pacific"
+    ],
     "answer": "Pacific"
   },
+
   {
+    "category": "Science",
     "question": "Which gas do plants absorb from the atmosphere?",
-    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
     "answer": "Carbon Dioxide"
   },
+
   {
+    "category": "Maths",
     "question": "How many days are there in a leap year?",
-    "options": ["365", "366", "364", "367"],
+    "options": [
+      "365",
+      "366",
+      "364",
+      "367"
+    ],
     "answer": "366"
   },
+
   {
+    "category": "GK",
     "question": "What is the national animal of India?",
-    "options": ["Lion", "Elephant", "Tiger", "Peacock"],
+    "options": [
+      "Lion",
+      "Elephant",
+      "Tiger",
+      "Peacock"
+    ],
     "answer": "Tiger"
   },
+
   {
+    "category": "GK",
     "question": "Which is the longest river in India?",
-    "options": ["Yamuna", "Ganga", "Godavari", "Brahmaputra"],
+    "options": [
+      "Yamuna",
+      "Ganga",
+      "Godavari",
+      "Brahmaputra"
+    ],
     "answer": "Ganga"
   },
+
   {
+    "category": "Maths",
     "question": "What is 12 × 12?",
-    "options": ["124", "144", "132", "148"],
+    "options": [
+      "124",
+      "144",
+      "132",
+      "148"
+    ],
     "answer": "144"
   },
+
   {
+    "category": "Science",
     "question": "Which organ pumps blood in the human body?",
-    "options": ["Liver", "Lungs", "Heart", "Kidney"],
+    "options": [
+      "Liver",
+      "Lungs",
+      "Heart",
+      "Kidney"
+    ],
     "answer": "Heart"
   },
+
   {
+    "category": "Computer",
     "question": "What is the full form of CPU?",
-    "options": ["Central Processing Unit", "Computer Personal Unit", "Central Program Unit", "Core Processing Unit"],
+    "options": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Program Unit",
+      "Core Processing Unit"
+    ],
     "answer": "Central Processing Unit"
   },
+
   {
+    "category": "Science",
     "question": "Which is the smallest planet in the solar system?",
-    "options": ["Earth", "Mars", "Mercury", "Venus"],
+    "options": [
+      "Earth",
+      "Mars",
+      "Mercury",
+      "Venus"
+    ],
     "answer": "Mercury"
   },
+
   {
+    "category": "Science",
     "question": "How many bones are in the adult human body?",
-    "options": ["206", "208", "200", "212"],
+    "options": [
+      "206",
+      "208",
+      "200",
+      "212"
+    ],
     "answer": "206"
   },
+
   {
+    "category": "GK",
     "question": "What is the national bird of India?",
-    "options": ["Sparrow", "Parrot", "Peacock", "Eagle"],
+    "options": [
+      "Sparrow",
+      "Parrot",
+      "Peacock",
+      "Eagle"
+    ],
     "answer": "Peacock"
   },
+
   {
-    "question": "Which planet is the largest in the solar system?",
-    "options": ["Saturn", "Neptune", "Jupiter", "Uranus"],
-    "answer": "Jupiter"
-  },
-  {
-    "question": "What is the chemical symbol for water?",
-    "options": ["CO2", "H2O", "O2", "HO"],
-    "answer": "H2O"
-  },
-  {
-    "question": "How many continents are there on Earth?",
-    "options": ["5", "6", "7", "8"],
-    "answer": "7"
-  },
-  {
-    "question": "Which is the hardest natural substance on Earth?",
-    "options": ["Gold", "Iron", "Diamond", "Platinum"],
-    "answer": "Diamond"
-  },
-  {
-    "question": "What is the value of PI (π) up to 2 decimal places?",
-    "options": ["3.12", "3.14", "3.16", "3.41"],
-    "answer": "3.14"
-  },
-  {
-    "question": "Which is the national flower of India?",
-    "options": ["Rose", "Lotus", "Sunflower", "Jasmine"],
-    "answer": "Lotus"
-  },
-  {
-    "question": "Who invented the telephone?",
-    "options": ["Thomas Edison", "Alexander Graham Bell", "Isaac Newton", "Albert Einstein"],
-    "answer": "Alexander Graham Bell"
-  },
-  {
+    "category": "Games & Sports",
     "question": "How many players are there in a cricket team?",
-    "options": ["10", "12", "11", "9"],
+    "options": [
+      "10",
+      "12",
+      "11",
+      "9"
+    ],
     "answer": "11"
   },
+
   {
-    "question": "Which is the largest continent in the world?",
-    "options": ["Africa", "Europe", "Asia", "Australia"],
-    "answer": "Asia"
-  },
-  {
-    "question": "What is the boiling point of water?",
-    "options": ["90°C", "95°C", "100°C", "110°C"],
-    "answer": "100°C"
-  },
-  {
-    "question": "Which festival is known as the festival of lights?",
-    "options": ["Holi", "Eid", "Diwali", "Christmas"],
-    "answer": "Diwali"
-  },
-  {
-    "question": "How many zeros are in one million?",
-    "options": ["5", "6", "7", "4"],
-    "answer": "6"
-  },
-  {
-    "question": "Which is the fastest land animal?",
-    "options": ["Lion", "Horse", "Cheetah", "Leopard"],
-    "answer": "Cheetah"
-  },
-  {
-    "question": "What does a plant need to make its own food?",
-    "options": ["Moonlight", "Sunlight", "Starlight", "Firelight"],
-    "answer": "Sunlight"
-  },
-  {
-    "question": "Who was the first Prime Minister of India?",
-    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "Lal Bahadur Shastri"],
-    "answer": "Jawaharlal Nehru"
-  },
-  {
-    "question": "Which shape has 4 equal sides?",
-    "options": ["Rectangle", "Triangle", "Square", "Circle"],
-    "answer": "Square"
-  },
-  {
-    "question": "Which organ is responsible for filtering blood in the body?",
-    "options": ["Liver", "Kidney", "Lungs", "Stomach"],
-    "answer": "Kidney"
-  },
-  {
-    "question": "What is the currency of India?",
-    "options": ["Dollar", "Pound", "Rupee", "Euro"],
-    "answer": "Rupee"
-  },
-  {
-    "question": "Which planet is closest to the Sun?",
-    "options": ["Venus", "Earth", "Mars", "Mercury"],
-    "answer": "Mercury"
-  },
-  {
-    "question": "How many sides does a hexagon have?",
-    "options": ["5", "6", "7", "8"],
-    "answer": "6"
-  },
-  {
-    "question": "What is the process by which plants make their food?",
-    "options": ["Respiration", "Digestion", "Photosynthesis", "Transpiration"],
-    "answer": "Photosynthesis"
-  },
-  {
-    "question": "Which is the tallest mountain in the world?",
-    "options": ["K2", "Mount Everest", "Kangchenjunga", "Makalu"],
-    "answer": "Mount Everest"
-  },
-  {
-    "question": "How many months have 31 days?",
-    "options": ["5", "6", "7", "8"],
-    "answer": "7"
-  },
-  {
-    "question": "What is the opposite of 'Export'?",
-    "options": ["Transport", "Import", "Report", "Support"],
-    "answer": "Import"
-  },
-  {
-    "question": "Which animal is known as the Ship of the Desert?",
-    "options": ["Horse", "Camel", "Elephant", "Donkey"],
-    "answer": "Camel"
-  },
-  {
-    "question": "What is 25% of 200?",
-    "options": ["25", "40", "50", "75"],
-    "answer": "50"
-  },
-  {
-    "question": "Which vitamin is produced when skin is exposed to sunlight?",
-    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
-    "answer": "Vitamin D"
-  },
-  {
-    "question": "What is the full form of WWW?",
-    "options": ["World Wide Web", "World Wide Window", "Wide World Web", "World Web Wide"],
-    "answer": "World Wide Web"
-  },
-  {
-    "question": "Which gas is essential for human breathing?",
-    "options": ["Carbon Dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
-    "answer": "Oxygen"
-  },
-  {
-    "question": "How many primary colours are there?",
-    "options": ["2", "3", "4", "5"],
-    "answer": "3"
-  },
-  {
-    "question": "Which country is known as the Land of the Rising Sun?",
-    "options": ["China", "Japan", "Korea", "Thailand"],
-    "answer": "Japan"
-  },
-  {
+    "category": "Maths",
     "question": "What is the square root of 81?",
-    "options": ["7", "8", "9", "10"],
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
     "answer": "9"
   },
+
   {
-    "question": "Who wrote the Indian National Anthem?",
-    "options": ["Bankim Chandra", "Rabindranath Tagore", "Mahatma Gandhi", "Sarojini Naidu"],
-    "answer": "Rabindranath Tagore"
+    "category": "Computer",
+    "question": "What is the full form of WWW?",
+    "options": [
+      "World Wide Web",
+      "World Wide Window",
+      "Wide World Web",
+      "World Web Wide"
+    ],
+    "answer": "World Wide Web"
   },
+
   {
-    "question": "Which blood group is known as the universal donor?",
-    "options": ["A", "B", "AB", "O"],
-    "answer": "O"
+    "category": "Science",
+    "question": "Which gas is essential for human breathing?",
+    "options": [
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Oxygen",
+      "Hydrogen"
+    ],
+    "answer": "Oxygen"
   }
 ]
