@@ -1,61 +1,2144 @@
 [
     {
       "question": "What is 25 × 4?",
-      "options": [
-        "100",
-        "90",
-        "110",
-        "80"
-      ],
+      "options": ["100", "90", "110", "80"],
       "answer": "100",
       "explanation": "25 × 4 means adding 25 four times: 25 + 25 + 25 + 25 = 100."
     },
-  
     {
-      "question": "What is the square root of 81?",
-      "options": [
-        "7",
-        "8",
-        "9",
-        "10"
-      ],
-      "answer": "9",
-      "explanation": "9 × 9 = 81, so the square root of 81 is 9."
+      "question": "What is 345 + 278?",
+      "options": ["623", "613", "633", "603"],
+      "answer": "623",
+      "explanation": "Add ones: 5+8=13, write 3 carry 1. Add tens: 4+7+1=12, write 2 carry 1. Add hundreds: 3+2+1=6. Answer = 623."
     },
-  
     {
-      "question": "What is 15 + 27?",
-      "options": [
-        "32",
-        "42",
-        "52",
-        "38"
-      ],
-      "answer": "42",
-      "explanation": "Add tens and ones separately: 15 + 27 = 42."
+      "question": "What is 500 − 237?",
+      "options": ["263", "273", "253", "243"],
+      "answer": "263",
+      "explanation": "500 − 237: borrow from hundreds. 10−7=3, 9−3=6, 4−2=2. Answer = 263."
     },
-  
+    {
+      "question": "What is 36 × 12?",
+      "options": ["432", "422", "442", "412"],
+      "answer": "432",
+      "explanation": "36 × 12 = 36 × 10 + 36 × 2 = 360 + 72 = 432."
+    },
+    {
+      "question": "What is 144 ÷ 12?",
+      "options": ["12", "11", "13", "14"],
+      "answer": "12",
+      "explanation": "12 × 12 = 144, so 144 ÷ 12 = 12."
+    },
+    {
+      "question": "What is the place value of 7 in 4,738?",
+      "options": ["Hundreds", "Tens", "Thousands", "Ones"],
+      "answer": "Hundreds",
+      "explanation": "In 4,738 the digits from right are ones(8), tens(3), hundreds(7), thousands(4). So 7 is in the hundreds place."
+    },
+    {
+      "question": "What is 1,000 × 5?",
+      "options": ["5,000", "500", "50,000", "50"],
+      "answer": "5,000",
+      "explanation": "Multiplying by 1,000 adds three zeros: 5 × 1,000 = 5,000."
+    },
+    {
+      "question": "What is the value of 6 in 56,342?",
+      "options": ["6,000", "600", "60,000", "60"],
+      "answer": "6,000",
+      "explanation": "In 56,342: ones=2, tens=4, hundreds=3, thousands=6. The value of 6 is 6 × 1,000 = 6,000."
+    },
+    {
+      "question": "Which of these numbers is the largest?",
+      "options": ["72,341", "72,431", "72,134", "72,314"],
+      "answer": "72,431",
+      "explanation": "Compare digit by digit from left: all start with 72. Next digit: 4 > 3 > 1 > 3. 72,431 has 4 in the hundreds place, which is the largest."
+    },
+    {
+      "question": "Round 4,567 to the nearest hundred.",
+      "options": ["4,600", "4,500", "4,000", "5,000"],
+      "answer": "4,600",
+      "explanation": "Look at the tens digit: 6 ≥ 5, so round up. 4,567 rounded to the nearest hundred = 4,600."
+    },
+    {
+      "question": "Round 3,249 to the nearest thousand.",
+      "options": ["3,000", "4,000", "3,200", "3,300"],
+      "answer": "3,000",
+      "explanation": "Look at the hundreds digit: 2 < 5, so round down. 3,249 rounded to the nearest thousand = 3,000."
+    },
+    {
+      "question": "What is 999 + 1?",
+      "options": ["1,000", "1,001", "999", "900"],
+      "answer": "1,000",
+      "explanation": "9+1=10, write 0 carry 1. 9+1=10, write 0 carry 1. 9+1=10, write 0 carry 1. Result = 1,000."
+    },
+    {
+      "question": "What is 8,000 − 3,456?",
+      "options": ["4,544", "4,444", "4,644", "4,554"],
+      "answer": "4,544",
+      "explanation": "8,000 − 3,456: borrow carefully through zeros. 8,000 − 3,456 = 4,544."
+    },
+    {
+      "question": "What is 23 × 23?",
+      "options": ["529", "519", "539", "469"],
+      "answer": "529",
+      "explanation": "23 × 23 = 23 × 20 + 23 × 3 = 460 + 69 = 529."
+    },
+    {
+      "question": "What is 250 ÷ 5?",
+      "options": ["50", "45", "55", "40"],
+      "answer": "50",
+      "explanation": "250 ÷ 5 = 50 because 5 × 50 = 250."
+    },
+    {
+      "question": "What is 1/2 of 80?",
+      "options": ["40", "30", "50", "20"],
+      "answer": "40",
+      "explanation": "1/2 of 80 = 80 ÷ 2 = 40."
+    },
+    {
+      "question": "What is 1/4 of 100?",
+      "options": ["25", "20", "30", "40"],
+      "answer": "25",
+      "explanation": "1/4 of 100 = 100 ÷ 4 = 25."
+    },
+    {
+      "question": "What fraction of a pizza is left if you eat 3 out of 8 slices?",
+      "options": ["5/8", "3/8", "2/8", "4/8"],
+      "answer": "5/8",
+      "explanation": "Total slices = 8. Eaten = 3. Left = 8 − 3 = 5. So 5/8 of the pizza is left."
+    },
+    {
+      "question": "Which fraction is the largest: 1/2, 1/3, or 1/4?",
+      "options": ["1/2", "1/3", "1/4", "They are equal"],
+      "answer": "1/2",
+      "explanation": "With fractions of the same numerator, the smaller the denominator the larger the fraction. So 1/2 > 1/3 > 1/4."
+    },
+    {
+      "question": "What is 3/4 + 1/4?",
+      "options": ["1", "4/4", "Both 1 and 4/4", "1/2"],
+      "answer": "Both 1 and 4/4",
+      "explanation": "3/4 + 1/4 = 4/4 = 1 whole."
+    },
+    {
+      "question": "What is 5/6 − 2/6?",
+      "options": ["3/6", "1/2", "Both 3/6 and 1/2", "7/6"],
+      "answer": "Both 3/6 and 1/2",
+      "explanation": "5/6 − 2/6 = 3/6 = 1/2 (simplified)."
+    },
+    {
+      "question": "What is an equivalent fraction of 1/2?",
+      "options": ["2/4", "2/3", "3/4", "1/3"],
+      "answer": "2/4",
+      "explanation": "Multiply numerator and denominator by 2: 1×2 / 2×2 = 2/4. So 2/4 = 1/2."
+    },
+    {
+      "question": "Simplify the fraction 6/8.",
+      "options": ["3/4", "2/3", "1/2", "4/6"],
+      "answer": "3/4",
+      "explanation": "GCF of 6 and 8 is 2. 6÷2 = 3, 8÷2 = 4. So 6/8 = 3/4."
+    },
+    {
+      "question": "What is 0.5 as a fraction?",
+      "options": ["1/2", "1/5", "5/10 only", "1/4"],
+      "answer": "1/2",
+      "explanation": "0.5 = 5/10 = 1/2 when simplified."
+    },
+    {
+      "question": "What is 0.25 as a fraction?",
+      "options": ["1/4", "1/5", "2/5", "1/2"],
+      "answer": "1/4",
+      "explanation": "0.25 = 25/100 = 1/4 when simplified."
+    },
+    {
+      "question": "What is 0.75 as a fraction?",
+      "options": ["3/4", "7/5", "1/4", "2/3"],
+      "answer": "3/4",
+      "explanation": "0.75 = 75/100 = 3/4 when simplified."
+    },
+    {
+      "question": "What is 1.5 as a fraction?",
+      "options": ["3/2", "1/5", "15/10 only", "5/3"],
+      "answer": "3/2",
+      "explanation": "1.5 = 15/10 = 3/2 as an improper fraction."
+    },
+    {
+      "question": "What is 3/4 as a decimal?",
+      "options": ["0.75", "0.34", "0.25", "0.50"],
+      "answer": "0.75",
+      "explanation": "3 ÷ 4 = 0.75."
+    },
+    {
+      "question": "What is 1/5 as a decimal?",
+      "options": ["0.2", "0.5", "0.15", "0.25"],
+      "answer": "0.2",
+      "explanation": "1 ÷ 5 = 0.2."
+    },
+    {
+      "question": "What is 2.3 + 1.5?",
+      "options": ["3.8", "3.9", "4.0", "3.7"],
+      "answer": "3.8",
+      "explanation": "Line up decimals and add: 2.3 + 1.5 = 3.8."
+    },
+    {
+      "question": "What is 5.6 − 2.3?",
+      "options": ["3.3", "3.0", "2.3", "3.6"],
+      "answer": "3.3",
+      "explanation": "5.6 − 2.3 = 3.3 (subtract tenths: 6−3=3, subtract ones: 5−2=3)."
+    },
+    {
+      "question": "What is 4.5 × 2?",
+      "options": ["9.0", "8.0", "9.5", "8.5"],
+      "answer": "9.0",
+      "explanation": "4.5 × 2 = 9.0 (multiply as whole number: 45 × 2 = 90, then place decimal: 9.0)."
+    },
+    {
+      "question": "What is 7.2 ÷ 2?",
+      "options": ["3.6", "3.2", "4.2", "3.0"],
+      "answer": "3.6",
+      "explanation": "7.2 ÷ 2 = 3.6 (72 ÷ 2 = 36, place decimal = 3.6)."
+    },
+    {
+      "question": "What is 25% of 200?",
+      "options": ["50", "40", "25", "75"],
+      "answer": "50",
+      "explanation": "25% = 25/100 = 1/4. So 1/4 of 200 = 50."
+    },
+    {
+      "question": "What is 50% of 80?",
+      "options": ["40", "50", "30", "20"],
+      "answer": "40",
+      "explanation": "50% = half. Half of 80 = 80 ÷ 2 = 40."
+    },
+    {
+      "question": "What is 10% of 150?",
+      "options": ["15", "10", "20", "25"],
+      "answer": "15",
+      "explanation": "10% means divide by 10. 150 ÷ 10 = 15."
+    },
+    {
+      "question": "What percent is 30 out of 100?",
+      "options": ["30%", "3%", "300%", "0.30%"],
+      "answer": "30%",
+      "explanation": "Percent means out of 100. 30 out of 100 = 30%."
+    },
+    {
+      "question": "What percent is 1/4?",
+      "options": ["25%", "40%", "50%", "20%"],
+      "answer": "25%",
+      "explanation": "1/4 = 0.25 = 25%."
+    },
+    {
+      "question": "What percent is 1/2?",
+      "options": ["50%", "25%", "75%", "20%"],
+      "answer": "50%",
+      "explanation": "1/2 = 0.50 = 50%."
+    },
+    {
+      "question": "What is the perimeter of a square with side 7 cm?",
+      "options": ["28 cm", "21 cm", "14 cm", "49 cm"],
+      "answer": "28 cm",
+      "explanation": "Perimeter of square = 4 × side = 4 × 7 = 28 cm."
+    },
+    {
+      "question": "What is the area of a square with side 6 cm?",
+      "options": ["36 cm²", "24 cm²", "12 cm²", "18 cm²"],
+      "answer": "36 cm²",
+      "explanation": "Area of square = side × side = 6 × 6 = 36 cm²."
+    },
+    {
+      "question": "What is the perimeter of a rectangle with length 8 cm and width 5 cm?",
+      "options": ["26 cm", "40 cm", "13 cm", "24 cm"],
+      "answer": "26 cm",
+      "explanation": "Perimeter of rectangle = 2 × (length + width) = 2 × (8 + 5) = 2 × 13 = 26 cm."
+    },
+    {
+      "question": "What is the area of a rectangle with length 9 cm and width 4 cm?",
+      "options": ["36 cm²", "26 cm²", "13 cm²", "45 cm²"],
+      "answer": "36 cm²",
+      "explanation": "Area of rectangle = length × width = 9 × 4 = 36 cm²."
+    },
+    {
+      "question": "How many sides does a triangle have?",
+      "options": ["3", "4", "5", "6"],
+      "answer": "3",
+      "explanation": "A triangle is a polygon with exactly 3 sides and 3 angles."
+    },
+    {
+      "question": "What is the sum of angles in a triangle?",
+      "options": ["180°", "360°", "90°", "270°"],
+      "answer": "180°",
+      "explanation": "The three interior angles of any triangle always add up to 180°."
+    },
+    {
+      "question": "What is the sum of angles in a quadrilateral?",
+      "options": ["360°", "180°", "270°", "90°"],
+      "answer": "360°",
+      "explanation": "Any quadrilateral (4-sided shape) has interior angles summing to 360°."
+    },
+    {
+      "question": "How many sides does a pentagon have?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "5",
+      "explanation": "Pentagon comes from the Greek 'penta' meaning 5. A pentagon has 5 sides."
+    },
     {
       "question": "How many sides does a hexagon have?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
+      "options": ["6", "5", "7", "8"],
       "answer": "6",
-      "explanation": "A hexagon is a shape that has 6 sides and 6 corners."
+      "explanation": "Hexagon comes from 'hexa' meaning 6. A hexagon has 6 sides."
     },
-  
     {
-      "question": "What is 50% of 200?",
-      "options": [
-        "50",
-        "75",
-        "100",
-        "150"
-      ],
+      "question": "How many sides does an octagon have?",
+      "options": ["8", "6", "7", "9"],
+      "answer": "8",
+      "explanation": "'Octa' means 8. An octagon has 8 sides."
+    },
+    {
+      "question": "What is a right angle?",
+      "options": ["An angle of exactly 90°", "An angle of 180°", "An angle less than 90°", "An angle more than 90°"],
+      "answer": "An angle of exactly 90°",
+      "explanation": "A right angle is exactly 90°, like the corner of a square or the letter L."
+    },
+    {
+      "question": "What is an acute angle?",
+      "options": ["An angle less than 90°", "An angle exactly 90°", "An angle more than 90°", "An angle of 180°"],
+      "answer": "An angle less than 90°",
+      "explanation": "An acute angle is any angle that is less than 90°."
+    },
+    {
+      "question": "What is an obtuse angle?",
+      "options": ["An angle greater than 90° but less than 180°", "An angle of exactly 90°", "An angle less than 90°", "An angle of 180°"],
+      "answer": "An angle greater than 90° but less than 180°",
+      "explanation": "An obtuse angle is between 90° and 180°."
+    },
+    {
+      "question": "What is a straight angle?",
+      "options": ["An angle of 180°", "An angle of 90°", "An angle of 360°", "An angle of 45°"],
+      "answer": "An angle of 180°",
+      "explanation": "A straight angle forms a straight line and measures exactly 180°."
+    },
+    {
+      "question": "What is the formula for area of a triangle?",
+      "options": ["½ × base × height", "base × height", "base + height", "2 × (base + height)"],
+      "answer": "½ × base × height",
+      "explanation": "Area of triangle = ½ × base × height. This is half the area of the corresponding rectangle."
+    },
+    {
+      "question": "What is the area of a triangle with base 10 cm and height 6 cm?",
+      "options": ["30 cm²", "60 cm²", "15 cm²", "16 cm²"],
+      "answer": "30 cm²",
+      "explanation": "Area = ½ × base × height = ½ × 10 × 6 = 30 cm²."
+    },
+    {
+      "question": "What is the circumference of a circle with radius 7 cm? (use π = 22/7)",
+      "options": ["44 cm", "22 cm", "154 cm", "88 cm"],
+      "answer": "44 cm",
+      "explanation": "Circumference = 2πr = 2 × 22/7 × 7 = 2 × 22 = 44 cm."
+    },
+    {
+      "question": "What is the area of a circle with radius 7 cm? (use π = 22/7)",
+      "options": ["154 cm²", "44 cm²", "49 cm²", "22 cm²"],
+      "answer": "154 cm²",
+      "explanation": "Area = πr² = 22/7 × 7 × 7 = 22 × 7 = 154 cm²."
+    },
+    {
+      "question": "What is the diameter of a circle with radius 5 cm?",
+      "options": ["10 cm", "5 cm", "15 cm", "25 cm"],
+      "answer": "10 cm",
+      "explanation": "Diameter = 2 × radius = 2 × 5 = 10 cm."
+    },
+    {
+      "question": "What is the radius of a circle with diameter 18 cm?",
+      "options": ["9 cm", "18 cm", "36 cm", "6 cm"],
+      "answer": "9 cm",
+      "explanation": "Radius = diameter ÷ 2 = 18 ÷ 2 = 9 cm."
+    },
+    {
+      "question": "What is 1 kilometre equal to?",
+      "options": ["1,000 metres", "100 metres", "10 metres", "500 metres"],
+      "answer": "1,000 metres",
+      "explanation": "The prefix 'kilo' means 1,000. So 1 km = 1,000 m."
+    },
+    {
+      "question": "What is 1 metre equal to?",
+      "options": ["100 centimetres", "10 centimetres", "1,000 centimetres", "50 centimetres"],
+      "answer": "100 centimetres",
+      "explanation": "1 metre = 100 centimetres (1 m = 100 cm)."
+    },
+    {
+      "question": "What is 1 centimetre equal to?",
+      "options": ["10 millimetres", "100 millimetres", "1,000 millimetres", "5 millimetres"],
+      "answer": "10 millimetres",
+      "explanation": "1 cm = 10 mm."
+    },
+    {
+      "question": "Convert 3.5 km to metres.",
+      "options": ["3,500 m", "350 m", "35,000 m", "3,050 m"],
+      "answer": "3,500 m",
+      "explanation": "1 km = 1,000 m. So 3.5 km = 3.5 × 1,000 = 3,500 m."
+    },
+    {
+      "question": "Convert 250 cm to metres.",
+      "options": ["2.5 m", "25 m", "0.25 m", "250 m"],
+      "answer": "2.5 m",
+      "explanation": "1 m = 100 cm. So 250 cm ÷ 100 = 2.5 m."
+    },
+    {
+      "question": "What is 1 kilogram equal to?",
+      "options": ["1,000 grams", "100 grams", "500 grams", "10 grams"],
+      "answer": "1,000 grams",
+      "explanation": "1 kg = 1,000 g."
+    },
+    {
+      "question": "Convert 4.5 kg to grams.",
+      "options": ["4,500 g", "450 g", "45,000 g", "400 g"],
+      "answer": "4,500 g",
+      "explanation": "1 kg = 1,000 g. So 4.5 kg = 4.5 × 1,000 = 4,500 g."
+    },
+    {
+      "question": "What is 1 litre equal to?",
+      "options": ["1,000 millilitres", "100 millilitres", "500 millilitres", "10 millilitres"],
+      "answer": "1,000 millilitres",
+      "explanation": "1 litre = 1,000 millilitres (1 L = 1,000 mL)."
+    },
+    {
+      "question": "Convert 2,500 mL to litres.",
+      "options": ["2.5 L", "25 L", "0.25 L", "250 L"],
+      "answer": "2.5 L",
+      "explanation": "1 L = 1,000 mL. So 2,500 mL ÷ 1,000 = 2.5 L."
+    },
+    {
+      "question": "How many minutes are in 1 hour?",
+      "options": ["60", "30", "100", "24"],
+      "answer": "60",
+      "explanation": "There are 60 minutes in 1 hour."
+    },
+    {
+      "question": "How many seconds are in 1 minute?",
+      "options": ["60", "100", "30", "120"],
+      "answer": "60",
+      "explanation": "There are 60 seconds in 1 minute."
+    },
+    {
+      "question": "How many hours are in 1 day?",
+      "options": ["24", "12", "48", "60"],
+      "answer": "24",
+      "explanation": "There are 24 hours in 1 day."
+    },
+    {
+      "question": "How many days are in a non-leap year?",
+      "options": ["365", "366", "364", "360"],
+      "answer": "365",
+      "explanation": "A regular (non-leap) year has 365 days."
+    },
+    {
+      "question": "How many days are in a leap year?",
+      "options": ["366", "365", "367", "364"],
+      "answer": "366",
+      "explanation": "A leap year has 366 days because February has 29 days instead of 28."
+    },
+    {
+      "question": "How many weeks are in a year?",
+      "options": ["52", "48", "54", "56"],
+      "answer": "52",
+      "explanation": "365 ÷ 7 = 52 weeks and 1 day. So a year has 52 complete weeks."
+    },
+    {
+      "question": "What time is 2:30 PM in 24-hour format?",
+      "options": ["14:30", "02:30", "12:30", "16:30"],
+      "answer": "14:30",
+      "explanation": "Add 12 to PM hours (for hours after noon): 2 + 12 = 14. So 2:30 PM = 14:30."
+    },
+    {
+      "question": "What time is 15:00 in 12-hour format?",
+      "options": ["3:00 PM", "3:00 AM", "5:00 PM", "1:00 PM"],
+      "answer": "3:00 PM",
+      "explanation": "15:00 − 12 = 3:00 PM."
+    },
+    {
+      "question": "If a train departs at 10:15 AM and arrives at 1:45 PM, how long is the journey?",
+      "options": ["3 hours 30 minutes", "3 hours", "4 hours", "2 hours 30 minutes"],
+      "answer": "3 hours 30 minutes",
+      "explanation": "From 10:15 AM to 1:15 PM = 3 hours. Then 1:15 PM to 1:45 PM = 30 more minutes. Total = 3 hours 30 minutes."
+    },
+    {
+      "question": "What is the LCM of 4 and 6?",
+      "options": ["12", "24", "6", "8"],
+      "answer": "12",
+      "explanation": "Multiples of 4: 4, 8, 12... Multiples of 6: 6, 12... The smallest common multiple is 12."
+    },
+    {
+      "question": "What is the LCM of 3 and 5?",
+      "options": ["15", "8", "10", "30"],
+      "answer": "15",
+      "explanation": "Multiples of 3: 3,6,9,12,15. Multiples of 5: 5,10,15. LCM = 15."
+    },
+    {
+      "question": "What is the HCF of 12 and 18?",
+      "options": ["6", "3", "9", "12"],
+      "answer": "6",
+      "explanation": "Factors of 12: 1,2,3,4,6,12. Factors of 18: 1,2,3,6,9,18. HCF (highest common factor) = 6."
+    },
+    {
+      "question": "What is the HCF of 20 and 30?",
+      "options": ["10", "5", "15", "20"],
+      "answer": "10",
+      "explanation": "Factors of 20: 1,2,4,5,10,20. Factors of 30: 1,2,3,5,6,10,15,30. HCF = 10."
+    },
+    {
+      "question": "Which of these numbers is a prime number?",
+      "options": ["7", "9", "15", "21"],
+      "answer": "7",
+      "explanation": "7 has only 2 factors: 1 and 7. That makes it prime. 9=3×3, 15=3×5, 21=3×7 are all composite."
+    },
+    {
+      "question": "Which of these is NOT a prime number?",
+      "options": ["9", "7", "11", "13"],
+      "answer": "9",
+      "explanation": "9 = 3 × 3, so it has more than 2 factors. Therefore 9 is not prime."
+    },
+    {
+      "question": "What are the factors of 24?",
+      "options": ["1,2,3,4,6,8,12,24", "1,2,3,4,6,24", "1,2,4,8,24", "1,3,8,24"],
+      "answer": "1,2,3,4,6,8,12,24",
+      "explanation": "24 = 1×24 = 2×12 = 3×8 = 4×6. All factors: 1, 2, 3, 4, 6, 8, 12, 24."
+    },
+    {
+      "question": "What is a composite number?",
+      "options": ["A number with more than 2 factors", "A number with exactly 2 factors", "A number with only 1 factor", "A number that is even"],
+      "answer": "A number with more than 2 factors",
+      "explanation": "A composite number has more than 2 factors. Example: 6 has factors 1, 2, 3, 6."
+    },
+    {
+      "question": "What is 2³ (2 to the power 3)?",
+      "options": ["8", "6", "9", "16"],
+      "answer": "8",
+      "explanation": "2³ = 2 × 2 × 2 = 8."
+    },
+    {
+      "question": "What is 5² (5 squared)?",
+      "options": ["25", "10", "15", "20"],
+      "answer": "25",
+      "explanation": "5² = 5 × 5 = 25."
+    },
+    {
+      "question": "What is 3³ (3 to the power 3)?",
+      "options": ["27", "9", "18", "81"],
+      "answer": "27",
+      "explanation": "3³ = 3 × 3 × 3 = 9 × 3 = 27."
+    },
+    {
+      "question": "What is √25 (square root of 25)?",
+      "options": ["5", "6", "4", "7"],
+      "answer": "5",
+      "explanation": "√25 = 5 because 5 × 5 = 25."
+    },
+    {
+      "question": "What is √49?",
+      "options": ["7", "6", "8", "9"],
+      "answer": "7",
+      "explanation": "√49 = 7 because 7 × 7 = 49."
+    },
+    {
+      "question": "What is √64?",
+      "options": ["8", "7", "9", "6"],
+      "answer": "8",
+      "explanation": "√64 = 8 because 8 × 8 = 64."
+    },
+    {
+      "question": "What is √100?",
+      "options": ["10", "50", "20", "25"],
+      "answer": "10",
+      "explanation": "√100 = 10 because 10 × 10 = 100."
+    },
+    {
+      "question": "What is 45 ÷ 9?",
+      "options": ["5", "6", "4", "7"],
+      "answer": "5",
+      "explanation": "9 × 5 = 45, so 45 ÷ 9 = 5."
+    },
+    {
+      "question": "What is 63 ÷ 7?",
+      "options": ["9", "8", "7", "6"],
+      "answer": "9",
+      "explanation": "7 × 9 = 63, so 63 ÷ 7 = 9."
+    },
+    {
+      "question": "What is the remainder when 17 is divided by 5?",
+      "options": ["2", "1", "3", "0"],
+      "answer": "2",
+      "explanation": "17 ÷ 5 = 3 with remainder 2. (5 × 3 = 15, 17 − 15 = 2)"
+    },
+    {
+      "question": "What is the remainder when 25 is divided by 4?",
+      "options": ["1", "2", "3", "0"],
+      "answer": "1",
+      "explanation": "25 ÷ 4 = 6 remainder 1. (4 × 6 = 24, 25 − 24 = 1)"
+    },
+    {
+      "question": "Which of these is divisible by 3?",
+      "options": ["123", "124", "125", "127"],
+      "answer": "123",
+      "explanation": "A number is divisible by 3 if its digit sum is divisible by 3. 1+2+3=6, which is divisible by 3."
+    },
+    {
+      "question": "Which of these is divisible by 5?",
+      "options": ["135", "133", "137", "131"],
+      "answer": "135",
+      "explanation": "A number is divisible by 5 if it ends in 0 or 5. Only 135 ends in 5."
+    },
+    {
+      "question": "Which of these is divisible by 2?",
+      "options": ["248", "247", "249", "251"],
+      "answer": "248",
+      "explanation": "A number is divisible by 2 if it ends in an even digit (0,2,4,6,8). 248 ends in 8."
+    },
+    {
+      "question": "Which of these is divisible by 10?",
+      "options": ["230", "231", "235", "237"],
+      "answer": "230",
+      "explanation": "A number is divisible by 10 if it ends in 0. Only 230 ends in 0."
+    },
+    {
+      "question": "What is the next number in the pattern: 2, 4, 8, 16, ___?",
+      "options": ["32", "24", "20", "18"],
+      "answer": "32",
+      "explanation": "Each number is multiplied by 2: 2×2=4, 4×2=8, 8×2=16, 16×2=32."
+    },
+    {
+      "question": "What is the next number in the pattern: 5, 10, 15, 20, ___?",
+      "options": ["25", "24", "30", "22"],
+      "answer": "25",
+      "explanation": "This is the 5 times table. Each number increases by 5. 20 + 5 = 25."
+    },
+    {
+      "question": "What is the next number in the pattern: 1, 4, 9, 16, ___?",
+      "options": ["25", "20", "24", "36"],
+      "answer": "25",
+      "explanation": "These are perfect squares: 1²=1, 2²=4, 3²=9, 4²=16, 5²=25."
+    },
+    {
+      "question": "What is the missing number: 3, 6, ___, 12, 15?",
+      "options": ["9", "8", "10", "11"],
+      "answer": "9",
+      "explanation": "Pattern increases by 3 each time: 3,6,9,12,15. Missing number = 9."
+    },
+    {
+      "question": "What is the value of n: n + 15 = 30?",
+      "options": ["15", "45", "20", "10"],
+      "answer": "15",
+      "explanation": "n + 15 = 30. Subtract 15 from both sides: n = 30 − 15 = 15."
+    },
+    {
+      "question": "What is the value of x: x − 8 = 12?",
+      "options": ["20", "4", "6", "16"],
+      "answer": "20",
+      "explanation": "x − 8 = 12. Add 8 to both sides: x = 12 + 8 = 20."
+    },
+    {
+      "question": "What is the value of y: 4y = 28?",
+      "options": ["7", "8", "6", "9"],
+      "answer": "7",
+      "explanation": "4y = 28. Divide both sides by 4: y = 28 ÷ 4 = 7."
+    },
+    {
+      "question": "What is the value of m: m ÷ 5 = 9?",
+      "options": ["45", "14", "4", "54"],
+      "answer": "45",
+      "explanation": "m ÷ 5 = 9. Multiply both sides by 5: m = 9 × 5 = 45."
+    },
+    {
+      "question": "Ravi has 48 chocolates. He shares them equally among 6 friends. How many does each friend get?",
+      "options": ["8", "7", "9", "6"],
+      "answer": "8",
+      "explanation": "48 ÷ 6 = 8. Each friend gets 8 chocolates."
+    },
+    {
+      "question": "A book costs ₹75. How much do 8 books cost?",
+      "options": ["₹600", "₹575", "₹680", "₹650"],
+      "answer": "₹600",
+      "explanation": "Cost = 75 × 8 = ₹600."
+    },
+    {
+      "question": "Priya had ₹500. She spent ₹185 on a bag. How much is left?",
+      "options": ["₹315", "₹285", "₹325", "₹385"],
+      "answer": "₹315",
+      "explanation": "₹500 − ₹185 = ₹315."
+    },
+    {
+      "question": "A train travels 90 km per hour. How far will it travel in 4 hours?",
+      "options": ["360 km", "300 km", "400 km", "380 km"],
+      "answer": "360 km",
+      "explanation": "Distance = speed × time = 90 × 4 = 360 km."
+    },
+    {
+      "question": "If 1 dozen = 12, how many eggs are in 5 dozen?",
+      "options": ["60", "50", "72", "48"],
+      "answer": "60",
+      "explanation": "5 dozen = 5 × 12 = 60 eggs."
+    },
+    {
+      "question": "A rectangular garden is 15 m long and 10 m wide. What is its area?",
+      "options": ["150 m²", "50 m²", "25 m²", "100 m²"],
+      "answer": "150 m²",
+      "explanation": "Area = length × width = 15 × 10 = 150 m²."
+    },
+    {
+      "question": "A shopkeeper buys a toy for ₹120 and sells it for ₹150. What is the profit?",
+      "options": ["₹30", "₹20", "₹40", "₹50"],
+      "answer": "₹30",
+      "explanation": "Profit = Selling Price − Cost Price = ₹150 − ₹120 = ₹30."
+    },
+    {
+      "question": "A shopkeeper buys an item for ₹200 and sells it for ₹180. What is the loss?",
+      "options": ["₹20", "₹30", "₹10", "₹40"],
+      "answer": "₹20",
+      "explanation": "Loss = Cost Price − Selling Price = ₹200 − ₹180 = ₹20."
+    },
+    {
+      "question": "What is simple interest if Principal = ₹1,000, Rate = 5%, Time = 2 years?",
+      "options": ["₹100", "₹50", "₹150", "₹200"],
+      "answer": "₹100",
+      "explanation": "Simple Interest = (P × R × T) / 100 = (1000 × 5 × 2) / 100 = 10,000 / 100 = ₹100."
+    },
+    {
+      "question": "What is simple interest if P = ₹500, R = 4%, T = 3 years?",
+      "options": ["₹60", "₹40", "₹80", "₹50"],
+      "answer": "₹60",
+      "explanation": "SI = (500 × 4 × 3) / 100 = 6,000 / 100 = ₹60."
+    },
+    {
+      "question": "What is 15% of 60?",
+      "options": ["9", "6", "12", "15"],
+      "answer": "9",
+      "explanation": "15% of 60 = (15/100) × 60 = 15 × 0.6 = 9."
+    },
+    {
+      "question": "What is 20% of 150?",
+      "options": ["30", "20", "25", "35"],
+      "answer": "30",
+      "explanation": "20% of 150 = (20/100) × 150 = 0.20 × 150 = 30."
+    },
+    {
+      "question": "What fraction of 60 is 15?",
+      "options": ["1/4", "1/3", "1/5", "1/6"],
+      "answer": "1/4",
+      "explanation": "15 out of 60 = 15/60 = 1/4."
+    },
+    {
+      "question": "What is the ratio of 4 to 8?",
+      "options": ["1:2", "2:1", "4:8", "1:4"],
+      "answer": "1:2",
+      "explanation": "Ratio 4:8 simplified by dividing both by 4 = 1:2."
+    },
+    {
+      "question": "What is the ratio of 15 to 25?",
+      "options": ["3:5", "5:3", "1:2", "2:3"],
+      "answer": "3:5",
+      "explanation": "15:25 — GCF is 5. 15÷5 = 3, 25÷5 = 5. Ratio = 3:5."
+    },
+    {
+      "question": "If the ratio of boys to girls in a class is 3:2 and there are 30 boys, how many girls are there?",
+      "options": ["20", "25", "15", "18"],
+      "answer": "20",
+      "explanation": "Boys:Girls = 3:2. If boys = 30 (3 parts), then 1 part = 10. Girls = 2 × 10 = 20."
+    },
+    {
+      "question": "What is the proportion: 2/3 = ?/12?",
+      "options": ["8", "6", "4", "9"],
+      "answer": "8",
+      "explanation": "3 × 4 = 12, so multiply numerator by 4: 2 × 4 = 8. Answer is 8."
+    },
+    {
+      "question": "If 5 pens cost ₹35, how much do 8 pens cost?",
+      "options": ["₹56", "₹60", "₹48", "₹64"],
+      "answer": "₹56",
+      "explanation": "Cost of 1 pen = 35 ÷ 5 = ₹7. Cost of 8 pens = 7 × 8 = ₹56."
+    },
+    {
+      "question": "A car travels 240 km in 4 hours. What is its speed?",
+      "options": ["60 km/h", "80 km/h", "50 km/h", "70 km/h"],
+      "answer": "60 km/h",
+      "explanation": "Speed = Distance ÷ Time = 240 ÷ 4 = 60 km/h."
+    },
+    {
+      "question": "How long will it take to travel 150 km at a speed of 50 km/h?",
+      "options": ["3 hours", "2 hours", "4 hours", "5 hours"],
+      "answer": "3 hours",
+      "explanation": "Time = Distance ÷ Speed = 150 ÷ 50 = 3 hours."
+    },
+    {
+      "question": "A tap fills a tank in 6 hours. How much of the tank is filled in 1 hour?",
+      "options": ["1/6", "1/3", "1/4", "1/2"],
+      "answer": "1/6",
+      "explanation": "In 6 hours the full tank is filled. So in 1 hour, 1/6 of the tank is filled."
+    },
+    {
+      "question": "What is the mean of 4, 8, 6, 10, 2?",
+      "options": ["6", "5", "7", "8"],
+      "answer": "6",
+      "explanation": "Mean = Sum ÷ Count = (4+8+6+10+2) ÷ 5 = 30 ÷ 5 = 6."
+    },
+    {
+      "question": "What is the mode of: 3, 5, 3, 7, 5, 3, 9?",
+      "options": ["3", "5", "7", "9"],
+      "answer": "3",
+      "explanation": "Mode is the most frequently occurring value. 3 appears 3 times, 5 appears 2 times. Mode = 3."
+    },
+    {
+      "question": "What is the median of: 2, 5, 7, 9, 11?",
+      "options": ["7", "5", "9", "6"],
+      "answer": "7",
+      "explanation": "Median is the middle value when arranged in order. 2,5,7,9,11 — middle value = 7."
+    },
+    {
+      "question": "What is the range of: 4, 9, 2, 15, 6?",
+      "options": ["13", "11", "15", "9"],
+      "answer": "13",
+      "explanation": "Range = Maximum − Minimum = 15 − 2 = 13."
+    },
+    {
+      "question": "What is the mean of 10, 20, 30?",
+      "options": ["20", "25", "15", "30"],
+      "answer": "20",
+      "explanation": "Mean = (10 + 20 + 30) ÷ 3 = 60 ÷ 3 = 20."
+    },
+    {
+      "question": "In a pie chart, if a section represents 90°, what percentage does it represent?",
+      "options": ["25%", "50%", "30%", "20%"],
+      "answer": "25%",
+      "explanation": "Full circle = 360°. 90/360 = 1/4 = 25%."
+    },
+    {
+      "question": "A bar graph shows 40 students like cricket and 20 like football. What fraction likes cricket?",
+      "options": ["2/3", "1/2", "3/4", "1/3"],
+      "answer": "2/3",
+      "explanation": "Total = 40 + 20 = 60. Fraction liking cricket = 40/60 = 2/3."
+    },
+    {
+      "question": "What is the probability of getting heads when flipping a coin?",
+      "options": ["1/2", "1/4", "1/3", "2/3"],
+      "answer": "1/2",
+      "explanation": "A coin has 2 equally likely outcomes (heads or tails). Probability of heads = 1/2."
+    },
+    {
+      "question": "What is the probability of rolling a 4 on a standard die?",
+      "options": ["1/6", "1/4", "1/3", "4/6"],
+      "answer": "1/6",
+      "explanation": "A die has 6 faces (1–6), each equally likely. Probability of rolling 4 = 1/6."
+    },
+    {
+      "question": "What is the probability of rolling an even number on a die?",
+      "options": ["1/2", "1/6", "1/3", "2/6"],
+      "answer": "1/2",
+      "explanation": "Even numbers on a die: 2, 4, 6 (3 out of 6). Probability = 3/6 = 1/2."
+    },
+    {
+      "question": "What is the volume of a cube with side 3 cm?",
+      "options": ["27 cm³", "9 cm³", "18 cm³", "6 cm³"],
+      "answer": "27 cm³",
+      "explanation": "Volume of cube = side³ = 3 × 3 × 3 = 27 cm³."
+    },
+    {
+      "question": "What is the volume of a cuboid with length 4 cm, width 3 cm, height 2 cm?",
+      "options": ["24 cm³", "18 cm³", "20 cm³", "12 cm³"],
+      "answer": "24 cm³",
+      "explanation": "Volume = length × width × height = 4 × 3 × 2 = 24 cm³."
+    },
+    {
+      "question": "How many faces does a cube have?",
+      "options": ["6", "4", "8", "12"],
+      "answer": "6",
+      "explanation": "A cube has 6 square faces (top, bottom, front, back, left, right)."
+    },
+    {
+      "question": "How many edges does a cube have?",
+      "options": ["12", "6", "8", "10"],
+      "answer": "12",
+      "explanation": "A cube has 12 edges."
+    },
+    {
+      "question": "How many vertices does a cube have?",
+      "options": ["8", "6", "12", "4"],
+      "answer": "8",
+      "explanation": "A cube has 8 vertices (corners)."
+    },
+    {
+      "question": "What is a parallel line?",
+      "options": ["Lines that never meet and are always the same distance apart", "Lines that cross each other", "Lines that meet at a point", "Lines that curve"],
+      "answer": "Lines that never meet and are always the same distance apart",
+      "explanation": "Parallel lines run side by side and never intersect, like railway tracks."
+    },
+    {
+      "question": "What is a perpendicular line?",
+      "options": ["Lines that meet at a right angle (90°)", "Lines that never meet", "Lines that run side by side", "Lines that curve"],
+      "answer": "Lines that meet at a right angle (90°)",
+      "explanation": "Perpendicular lines intersect to form a 90° angle."
+    },
+    {
+      "question": "What is a line segment?",
+      "options": ["A part of a line with two endpoints", "A line that goes on forever", "A line with one endpoint", "A curved line"],
+      "answer": "A part of a line with two endpoints",
+      "explanation": "A line segment is a finite portion of a line with definite start and end points."
+    },
+    {
+      "question": "What is a ray?",
+      "options": ["A line that starts from a point and goes on forever in one direction", "A line segment", "A full line", "A curved line"],
+      "answer": "A line that starts from a point and goes on forever in one direction",
+      "explanation": "A ray has one endpoint and extends infinitely in one direction, like a ray of light."
+    },
+    {
+      "question": "What is an isosceles triangle?",
+      "options": ["A triangle with exactly two equal sides", "A triangle with all equal sides", "A triangle with no equal sides", "A triangle with a right angle"],
+      "answer": "A triangle with exactly two equal sides",
+      "explanation": "An isosceles triangle has two sides of equal length and the two base angles are also equal."
+    },
+    {
+      "question": "What is an equilateral triangle?",
+      "options": ["A triangle with all three sides equal", "A triangle with two equal sides", "A triangle with no equal sides", "A triangle with a right angle"],
+      "answer": "A triangle with all three sides equal",
+      "explanation": "An equilateral triangle has all sides equal and all angles equal to 60°."
+    },
+    {
+      "question": "What is a scalene triangle?",
+      "options": ["A triangle with all three sides different", "A triangle with two equal sides", "A triangle with all sides equal", "A triangle with one right angle"],
+      "answer": "A triangle with all three sides different",
+      "explanation": "A scalene triangle has three sides of different lengths and three different angles."
+    },
+    {
+      "question": "What is a right-angled triangle?",
+      "options": ["A triangle with one angle of 90°", "A triangle with two 90° angles", "A triangle with all equal angles", "A triangle with no right angles"],
+      "answer": "A triangle with one angle of 90°",
+      "explanation": "A right-angled triangle has one interior angle that measures exactly 90°."
+    },
+    {
+      "question": "How many lines of symmetry does a circle have?",
+      "options": ["Infinite", "1", "2", "4"],
+      "answer": "Infinite",
+      "explanation": "A circle has infinite lines of symmetry — any diameter divides it into two equal halves."
+    },
+    {
+      "question": "How many lines of symmetry does a square have?",
+      "options": ["4", "2", "1", "8"],
+      "answer": "4",
+      "explanation": "A square has 4 lines of symmetry: 2 along diagonals and 2 along midpoints of opposite sides."
+    },
+    {
+      "question": "How many lines of symmetry does an equilateral triangle have?",
+      "options": ["3", "1", "2", "6"],
+      "answer": "3",
+      "explanation": "An equilateral triangle has 3 lines of symmetry, one from each vertex to the midpoint of the opposite side."
+    },
+    {
+      "question": "What is a number line?",
+      "options": ["A line showing numbers at equal intervals", "A list of numbers", "A type of graph", "A ruler"],
+      "answer": "A line showing numbers at equal intervals",
+      "explanation": "A number line is a straight line with numbers placed at equal distances along its length."
+    },
+    {
+      "question": "What number is 4 units to the right of 3 on a number line?",
+      "options": ["7", "1", "8", "6"],
+      "answer": "7",
+      "explanation": "Moving right means adding: 3 + 4 = 7."
+    },
+    {
+      "question": "What number is 5 units to the left of 9 on a number line?",
+      "options": ["4", "5", "14", "3"],
+      "answer": "4",
+      "explanation": "Moving left means subtracting: 9 − 5 = 4."
+    },
+    {
+      "question": "What is a negative number?",
+      "options": ["A number less than zero", "A number greater than zero", "The number zero", "A fraction"],
+      "answer": "A number less than zero",
+      "explanation": "Negative numbers are less than 0 and are written with a minus sign (e.g., −1, −5, −100)."
+    },
+    {
+      "question": "Which is greater: −3 or −7?",
+      "options": ["−3", "−7", "They are equal", "Cannot be determined"],
+      "answer": "−3",
+      "explanation": "On a number line, −3 is to the right of −7, so −3 > −7."
+    },
+    {
+      "question": "What is (−5) + 3?",
+      "options": ["−2", "2", "8", "−8"],
+      "answer": "−2",
+      "explanation": "Start at −5, move 3 places right: −5 + 3 = −2."
+    },
+    {
+      "question": "What is 5 + (−3)?",
+      "options": ["2", "8", "−2", "−8"],
+      "answer": "2",
+      "explanation": "5 + (−3) = 5 − 3 = 2."
+    },
+    {
+      "question": "What is the product of 0 and any number?",
+      "options": ["0", "1", "The number itself", "Undefined"],
+      "answer": "0",
+      "explanation": "Any number multiplied by 0 equals 0. This is the Zero Property of Multiplication."
+    },
+    {
+      "question": "What is the product of 1 and any number?",
+      "options": ["The number itself", "0", "1", "2"],
+      "answer": "The number itself",
+      "explanation": "1 × n = n. Multiplying by 1 does not change the number. This is the Identity Property."
+    },
+    {
+      "question": "What is the commutative property of addition?",
+      "options": ["a + b = b + a", "a + (b + c) = (a + b) + c", "a + 0 = a", "a × b = b × a"],
+      "answer": "a + b = b + a",
+      "explanation": "Commutative means order doesn't matter: 3+5 = 5+3 = 8."
+    },
+    {
+      "question": "What is the associative property of multiplication?",
+      "options": ["(a × b) × c = a × (b × c)", "a × b = b × a", "a × 1 = a", "a × 0 = 0"],
+      "answer": "(a × b) × c = a × (b × c)",
+      "explanation": "Associative property: grouping doesn't change the result. (2×3)×4 = 2×(3×4) = 24."
+    },
+    {
+      "question": "What is the distributive property?",
+      "options": ["a × (b + c) = a×b + a×c", "a + b = b + a", "(a+b)+c = a+(b+c)", "a × 1 = a"],
+      "answer": "a × (b + c) = a×b + a×c",
+      "explanation": "Distributive property: 3 × (4+5) = 3×4 + 3×5 = 12 + 15 = 27."
+    },
+    {
+      "question": "Use the distributive property to solve: 7 × 13.",
+      "options": ["91", "81", "101", "71"],
+      "answer": "91",
+      "explanation": "7 × 13 = 7 × (10+3) = 7×10 + 7×3 = 70 + 21 = 91."
+    },
+    {
+      "question": "What is 100 × 100?",
+      "options": ["10,000", "1,000", "100,000", "1,00,000"],
+      "answer": "10,000",
+      "explanation": "100 × 100 = 10,000. (Multiply 1×1=1, then add 2+2=4 zeros.)"
+    },
+    {
+      "question": "What is 1/3 + 1/3?",
+      "options": ["2/3", "2/6", "1/6", "3/6"],
+      "answer": "2/3",
+      "explanation": "Same denominator: add numerators. 1/3 + 1/3 = 2/3."
+    },
+    {
+      "question": "What is 1/2 + 1/4?",
+      "options": ["3/4", "2/6", "1/4", "2/4"],
+      "answer": "3/4",
+      "explanation": "Make same denominator: 1/2 = 2/4. So 2/4 + 1/4 = 3/4."
+    },
+    {
+      "question": "What is 3/5 + 1/10?",
+      "options": ["7/10", "4/15", "4/10", "1/2"],
+      "answer": "7/10",
+      "explanation": "Convert: 3/5 = 6/10. Then 6/10 + 1/10 = 7/10."
+    },
+    {
+      "question": "What is 2/3 − 1/6?",
+      "options": ["1/2", "1/3", "3/6", "1/6"],
+      "answer": "1/2",
+      "explanation": "Convert: 2/3 = 4/6. Then 4/6 − 1/6 = 3/6 = 1/2."
+    },
+    {
+      "question": "What is 1/2 × 1/3?",
+      "options": ["1/6", "2/3", "1/5", "2/6"],
+      "answer": "1/6",
+      "explanation": "Multiply numerators and denominators: 1×1 / 2×3 = 1/6."
+    },
+    {
+      "question": "What is 3/4 × 2/5?",
+      "options": ["6/20 = 3/10", "5/9", "6/9", "1/5"],
+      "answer": "6/20 = 3/10",
+      "explanation": "3×2 / 4×5 = 6/20. Simplify: GCF=2, so 6/20 = 3/10."
+    },
+    {
+      "question": "What is 2/3 ÷ 1/3?",
+      "options": ["2", "1/2", "3/2", "6"],
+      "answer": "2",
+      "explanation": "Dividing fractions: flip the second and multiply. 2/3 × 3/1 = 6/3 = 2."
+    },
+    {
+      "question": "What is 1 1/2 as an improper fraction?",
+      "options": ["3/2", "2/1", "4/3", "5/2"],
+      "answer": "3/2",
+      "explanation": "1 1/2 = (1×2 + 1)/2 = 3/2."
+    },
+    {
+      "question": "What is 7/4 as a mixed number?",
+      "options": ["1 3/4", "2 1/4", "1 1/4", "3 1/4"],
+      "answer": "1 3/4",
+      "explanation": "7 ÷ 4 = 1 remainder 3. So 7/4 = 1 3/4."
+    },
+    {
+      "question": "What is 2 2/5 as an improper fraction?",
+      "options": ["12/5", "7/5", "10/5", "14/5"],
+      "answer": "12/5",
+      "explanation": "2 2/5 = (2×5 + 2)/5 = 12/5."
+    },
+    {
+      "question": "What is the place value of 3 in 0.345?",
+      "options": ["Tenths", "Hundredths", "Thousandths", "Ones"],
+      "answer": "Tenths",
+      "explanation": "In 0.345: 3 is in the tenths place, 4 in hundredths, 5 in thousandths."
+    },
+    {
+      "question": "What is 0.6 + 0.04?",
+      "options": ["0.64", "0.10", "1.0", "0.604"],
+      "answer": "0.64",
+      "explanation": "Line up decimals: 0.60 + 0.04 = 0.64."
+    },
+    {
+      "question": "Which decimal is the largest: 0.3, 0.30, 0.03?",
+      "options": ["0.3 and 0.30 are equal and largest", "0.03", "0.3", "0.30"],
+      "answer": "0.3 and 0.30 are equal and largest",
+      "explanation": "0.3 = 0.30 = 0.300. They are the same value. 0.03 = 0.030 which is smaller."
+    },
+    {
+      "question": "What is 1.00 − 0.35?",
+      "options": ["0.65", "0.75", "0.55", "0.45"],
+      "answer": "0.65",
+      "explanation": "1.00 − 0.35 = 0.65. (100 − 35 = 65, then place decimal = 0.65)"
+    },
+    {
+      "question": "What is 3.6 + 4.75?",
+      "options": ["8.35", "8.11", "7.35", "8.75"],
+      "answer": "8.35",
+      "explanation": "Line up decimals: 3.60 + 4.75 = 8.35."
+    },
+    {
+      "question": "What is 12.5 − 8.3?",
+      "options": ["4.2", "4.8", "3.2", "5.2"],
+      "answer": "4.2",
+      "explanation": "12.5 − 8.3 = 4.2."
+    },
+    {
+      "question": "What is 2.5 × 4?",
+      "options": ["10", "8", "12", "9"],
+      "answer": "10",
+      "explanation": "2.5 × 4 = 10.0. (25 × 4 = 100, place decimal = 10.0)"
+    },
+    {
+      "question": "What is 6.4 ÷ 8?",
+      "options": ["0.8", "0.6", "8", "0.08"],
+      "answer": "0.8",
+      "explanation": "6.4 ÷ 8 = 0.8. (64 ÷ 8 = 8, then place decimal = 0.8)"
+    },
+    {
+      "question": "Which of these is the smallest fraction: 2/3, 3/4, 1/2?",
+      "options": ["1/2", "2/3", "3/4", "They are equal"],
+      "answer": "1/2",
+      "explanation": "Convert to same denominator (12): 1/2=6/12, 2/3=8/12, 3/4=9/12. Smallest = 6/12 = 1/2."
+    },
+    {
+      "question": "Arrange in ascending order: 1/4, 1/2, 1/3.",
+      "options": ["1/4, 1/3, 1/2", "1/2, 1/3, 1/4", "1/3, 1/4, 1/2", "1/4, 1/2, 1/3"],
+      "answer": "1/4, 1/3, 1/2",
+      "explanation": "Same numerator: larger denominator = smaller fraction. So 1/4 < 1/3 < 1/2."
+    },
+    {
+      "question": "What is 72 ÷ 8?",
+      "options": ["9", "8", "7", "10"],
+      "answer": "9",
+      "explanation": "8 × 9 = 72, so 72 ÷ 8 = 9."
+    },
+    {
+      "question": "What is 56 ÷ 7?",
+      "options": ["8", "9", "7", "6"],
+      "answer": "8",
+      "explanation": "7 × 8 = 56, so 56 ÷ 7 = 8."
+    },
+    {
+      "question": "What is 125 × 8?",
+      "options": ["1,000", "900", "1,200", "800"],
+      "answer": "1,000",
+      "explanation": "125 × 8 = 1,000. (125 × 8: 5×8=40, write 0 carry 4; 2×8+4=20, write 0 carry 2; 1×8+2=10)"
+    },
+    {
+      "question": "What is 132 × 11?",
+      "options": ["1,452", "1,442", "1,352", "1,462"],
+      "answer": "1,452",
+      "explanation": "132 × 11 = 132 × 10 + 132 × 1 = 1,320 + 132 = 1,452."
+    },
+    {
+      "question": "What is 345 × 100?",
+      "options": ["34,500", "3,450", "345,000", "3,450,000"],
+      "answer": "34,500",
+      "explanation": "Multiplying by 100 adds two zeros: 345 × 100 = 34,500."
+    },
+    {
+      "question": "What is 6,000 ÷ 100?",
+      "options": ["60", "600", "6", "0.6"],
+      "answer": "60",
+      "explanation": "Dividing by 100 removes two zeros: 6,000 ÷ 100 = 60."
+    },
+    {
+      "question": "A box holds 24 oranges. How many boxes are needed for 192 oranges?",
+      "options": ["8", "6", "10", "9"],
+      "answer": "8",
+      "explanation": "Number of boxes = 192 ÷ 24 = 8."
+    },
+    {
+      "question": "A farmer has 450 kg of rice. He sells 125 kg. How much is left?",
+      "options": ["325 kg", "350 kg", "300 kg", "275 kg"],
+      "answer": "325 kg",
+      "explanation": "450 − 125 = 325 kg."
+    },
+    {
+      "question": "There are 36 students in each class and 12 classes. How many students in total?",
+      "options": ["432", "396", "480", "360"],
+      "answer": "432",
+      "explanation": "Total = 36 × 12 = 432 students."
+    },
+    {
+      "question": "A ribbon is 9.6 m long. It is cut into 8 equal pieces. How long is each piece?",
+      "options": ["1.2 m", "1.5 m", "0.8 m", "2.0 m"],
+      "answer": "1.2 m",
+      "explanation": "9.6 ÷ 8 = 1.2 m."
+    },
+    {
+      "question": "What is the perimeter of a triangle with sides 5 cm, 7 cm, and 9 cm?",
+      "options": ["21 cm", "20 cm", "18 cm", "22 cm"],
+      "answer": "21 cm",
+      "explanation": "Perimeter of triangle = sum of all sides = 5 + 7 + 9 = 21 cm."
+    },
+    {
+      "question": "A rectangle has perimeter 28 cm and length 9 cm. What is its width?",
+      "options": ["5 cm", "6 cm", "7 cm", "4 cm"],
+      "answer": "5 cm",
+      "explanation": "P = 2(l+w). 28 = 2(9+w). 14 = 9+w. w = 5 cm."
+    },
+    {
+      "question": "What is the area of a square with perimeter 20 cm?",
+      "options": ["25 cm²", "100 cm²", "20 cm²", "16 cm²"],
+      "answer": "25 cm²",
+      "explanation": "Perimeter = 4 × side, so side = 20÷4 = 5 cm. Area = 5 × 5 = 25 cm²."
+    },
+    {
+      "question": "Find the area: a room is 6 m long and 4 m wide. What is the floor area?",
+      "options": ["24 m²", "20 m²", "10 m²", "48 m²"],
+      "answer": "24 m²",
+      "explanation": "Area = length × width = 6 × 4 = 24 m²."
+    },
+    {
+      "question": "What is the difference between 10,000 and 9,999?",
+      "options": ["1", "11", "101", "10"],
+      "answer": "1",
+      "explanation": "10,000 − 9,999 = 1."
+    },
+    {
+      "question": "What is the smallest 5-digit number?",
+      "options": ["10,000", "9,999", "11,111", "10,001"],
+      "answer": "10,000",
+      "explanation": "The smallest 5-digit number is 10,000."
+    },
+    {
+      "question": "What is the largest 4-digit number?",
+      "options": ["9,999", "9,000", "10,000", "9,990"],
+      "answer": "9,999",
+      "explanation": "The largest 4-digit number is 9,999."
+    },
+    {
+      "question": "What is 50,000 + 3,000 + 200 + 40 + 7?",
+      "options": ["53,247", "53,274", "53,427", "52,347"],
+      "answer": "53,247",
+      "explanation": "Add each place value: 50,000 + 3,000 + 200 + 40 + 7 = 53,247."
+    },
+    {
+      "question": "What is the expanded form of 74,836?",
+      "options": ["70,000 + 4,000 + 800 + 30 + 6", "70,000 + 4,000 + 800 + 36", "74,000 + 836", "70,000 + 4,836"],
+      "answer": "70,000 + 4,000 + 800 + 30 + 6",
+      "explanation": "Each digit in its place: 7×10,000 + 4×1,000 + 8×100 + 3×10 + 6×1."
+    },
+    {
+      "question": "What is the face value of 5 in 35,678?",
+      "options": ["5", "5,000", "500", "50"],
+      "answer": "5",
+      "explanation": "Face value is simply the digit itself, regardless of position. The face value of 5 is always 5."
+    },
+    {
+      "question": "How many thousands are in 1,00,000 (one lakh)?",
+      "options": ["100", "10", "1,000", "1"],
       "answer": "100",
-      "explanation": "50% means half. Half of 200 is 100."
+      "explanation": "1,00,000 ÷ 1,000 = 100. So there are 100 thousands in one lakh."
+    },
+    {
+      "question": "What is the numeral for 'two lakh fifty thousand three hundred twenty-one'?",
+      "options": ["2,50,321", "2,50,231", "25,0321", "2,5,0321"],
+      "answer": "2,50,321",
+      "explanation": "Two lakh = 2,00,000. Fifty thousand = 50,000. Three hundred twenty-one = 321. Total = 2,50,321."
+    },
+    {
+      "question": "Express in words: 3,07,050.",
+      "options": ["Three lakh seven thousand fifty", "Three lakh seventy thousand fifty", "Thirty lakh seven thousand fifty", "Three lakh seven hundred fifty"],
+      "answer": "Three lakh seven thousand fifty",
+      "explanation": "3,07,050 = 3 lakh + 07 thousand + 050 = Three lakh seven thousand fifty."
+    },
+    {
+      "question": "What is the successor of 99,999?",
+      "options": ["1,00,000", "99,998", "1,00,001", "99,990"],
+      "answer": "1,00,000",
+      "explanation": "Successor means the next number. 99,999 + 1 = 1,00,000."
+    },
+    {
+      "question": "What is the predecessor of 10,000?",
+      "options": ["9,999", "10,001", "10,010", "9,990"],
+      "answer": "9,999",
+      "explanation": "Predecessor means the previous number. 10,000 − 1 = 9,999."
+    },
+    {
+      "question": "What is the Roman numeral for 9?",
+      "options": ["IX", "XI", "VII", "IV"],
+      "answer": "IX",
+      "explanation": "IX = 10 − 1 = 9 in Roman numerals (I before X means subtract)."
+    },
+    {
+      "question": "What is the Roman numeral for 40?",
+      "options": ["XL", "XXXX", "LX", "XD"],
+      "answer": "XL",
+      "explanation": "XL = 50 − 10 = 40 (X before L means subtract)."
+    },
+    {
+      "question": "What is the Roman numeral for 50?",
+      "options": ["L", "LX", "XL", "LL"],
+      "answer": "L",
+      "explanation": "L is the Roman numeral for 50."
+    },
+    {
+      "question": "What is the Hindu-Arabic numeral for XLVII?",
+      "options": ["47", "37", "57", "44"],
+      "answer": "47",
+      "explanation": "XLVII = XL + V + II = 40 + 5 + 2 = 47."
+    },
+    {
+      "question": "What is the Roman numeral for 100?",
+      "options": ["C", "D", "L", "M"],
+      "answer": "C",
+      "explanation": "C is the Roman numeral for 100."
+    },
+    {
+      "question": "What is the Roman numeral for 1,000?",
+      "options": ["M", "D", "C", "CM"],
+      "answer": "M",
+      "explanation": "M is the Roman numeral for 1,000."
+    },
+    {
+      "question": "A shopkeeper sells 325 items on Monday, 418 on Tuesday, and 203 on Wednesday. What is the total?",
+      "options": ["946", "936", "956", "926"],
+      "answer": "946",
+      "explanation": "325 + 418 + 203 = 946."
+    },
+    {
+      "question": "A tank holds 5,000 litres. It is 3/5 full. How many litres are in the tank?",
+      "options": ["3,000 L", "2,000 L", "2,500 L", "4,000 L"],
+      "answer": "3,000 L",
+      "explanation": "3/5 of 5,000 = 5,000 × 3/5 = 3,000 litres."
+    },
+    {
+      "question": "The temperature is 35°C in the afternoon and drops by 8°C in the evening. What is the evening temperature?",
+      "options": ["27°C", "43°C", "25°C", "28°C"],
+      "answer": "27°C",
+      "explanation": "35 − 8 = 27°C."
+    },
+    {
+      "question": "A class has 32 students. 3/8 are girls. How many are boys?",
+      "options": ["20", "12", "24", "16"],
+      "answer": "20",
+      "explanation": "Girls = 3/8 × 32 = 12. Boys = 32 − 12 = 20."
+    },
+    {
+      "question": "What is 400 × 25?",
+      "options": ["10,000", "1,000", "8,000", "12,000"],
+      "answer": "10,000",
+      "explanation": "400 × 25 = 4 × 100 × 25 = 4 × 2,500 = 10,000."
+    },
+    {
+      "question": "What is 9 × 9?",
+      "options": ["81", "72", "90", "79"],
+      "answer": "81",
+      "explanation": "9 × 9 = 81. (9 times table: 9,18,27,36,45,54,63,72,81)"
+    },
+    {
+      "question": "What is 11 × 11?",
+      "options": ["121", "111", "131", "112"],
+      "answer": "121",
+      "explanation": "11 × 11 = 121. (11 × 10 + 11 × 1 = 110 + 11 = 121)"
+    },
+    {
+      "question": "What is 12 × 12?",
+      "options": ["144", "124", "148", "142"],
+      "answer": "144",
+      "explanation": "12 × 12 = 144. (12 × 10 + 12 × 2 = 120 + 24 = 144)"
+    },
+    {
+      "question": "What is 15 × 15?",
+      "options": ["225", "215", "220", "230"],
+      "answer": "225",
+      "explanation": "15 × 15 = 225. (15 × 10 + 15 × 5 = 150 + 75 = 225)"
+    },
+    {
+      "question": "What is 20 × 20?",
+      "options": ["400", "200", "4,000", "40"],
+      "answer": "400",
+      "explanation": "20 × 20 = 400. (2 × 2 = 4, then add 2+2=4 zeros... wait: 20×20 = 400, two zeros total)"
+    },
+    {
+      "question": "Which is larger: 5/8 or 3/4?",
+      "options": ["3/4", "5/8", "They are equal", "Cannot be compared"],
+      "answer": "3/4",
+      "explanation": "Convert to same denominator: 5/8 and 3/4 = 6/8. Since 6/8 > 5/8, so 3/4 is larger."
+    },
+    {
+      "question": "What is 2/5 of 50?",
+      "options": ["20", "10", "25", "15"],
+      "answer": "20",
+      "explanation": "2/5 of 50 = 50 × 2/5 = 100/5 = 20."
+    },
+    {
+      "question": "A number is multiplied by 6 and the result is 54. What is the number?",
+      "options": ["9", "8", "10", "6"],
+      "answer": "9",
+      "explanation": "Let the number be n. 6n = 54. n = 54 ÷ 6 = 9."
+    },
+    {
+      "question": "The sum of two numbers is 75. One number is 32. What is the other?",
+      "options": ["43", "47", "42", "53"],
+      "answer": "43",
+      "explanation": "Other number = 75 − 32 = 43."
+    },
+    {
+      "question": "What is the product of the smallest 2-digit number and 5?",
+      "options": ["50", "55", "100", "45"],
+      "answer": "50",
+      "explanation": "Smallest 2-digit number = 10. 10 × 5 = 50."
+    },
+    {
+      "question": "How many sides does a rhombus have?",
+      "options": ["4", "3", "5", "6"],
+      "answer": "4",
+      "explanation": "A rhombus is a quadrilateral (4 sides) with all sides equal."
+    },
+    {
+      "question": "What is special about a rhombus?",
+      "options": ["All four sides are equal", "All angles are 90°", "Only two sides are equal", "It has 3 sides"],
+      "answer": "All four sides are equal",
+      "explanation": "A rhombus has 4 equal sides. Its angles may not be 90° (unlike a square)."
+    },
+    {
+      "question": "What is a parallelogram?",
+      "options": ["A quadrilateral with two pairs of parallel sides", "A triangle with equal sides", "A shape with 5 sides", "A shape with all angles 90°"],
+      "answer": "A quadrilateral with two pairs of parallel sides",
+      "explanation": "A parallelogram has opposite sides that are parallel and equal."
+    },
+    {
+      "question": "What is a trapezium?",
+      "options": ["A quadrilateral with exactly one pair of parallel sides", "A shape with all equal sides", "A rectangle", "A pentagon"],
+      "answer": "A quadrilateral with exactly one pair of parallel sides",
+      "explanation": "A trapezium has one pair of opposite sides that are parallel."
+    },
+    {
+      "question": "What is a diagonal?",
+      "options": ["A line joining two non-adjacent vertices of a polygon", "A side of a polygon", "The height of a shape", "A line of symmetry"],
+      "answer": "A line joining two non-adjacent vertices of a polygon",
+      "explanation": "A diagonal goes from one corner to another non-neighbouring corner inside a polygon."
+    },
+    {
+      "question": "How many diagonals does a rectangle have?",
+      "options": ["2", "4", "1", "3"],
+      "answer": "2",
+      "explanation": "A rectangle has 2 diagonals, connecting opposite corners."
+    },
+    {
+      "question": "What is the formula for the volume of a cube?",
+      "options": ["Side³", "Side²", "6 × Side²", "4 × Side"],
+      "answer": "Side³",
+      "explanation": "Volume of cube = side × side × side = side³."
+    },
+    {
+      "question": "A cube has a volume of 125 cm³. What is its side length?",
+      "options": ["5 cm", "10 cm", "15 cm", "25 cm"],
+      "answer": "5 cm",
+      "explanation": "Volume = side³ = 125. So side = ∛125 = 5 cm (5×5×5=125)."
+    },
+    {
+      "question": "What is the surface area of a cube with side 4 cm?",
+      "options": ["96 cm²", "48 cm²", "64 cm²", "16 cm²"],
+      "answer": "96 cm²",
+      "explanation": "Surface area of cube = 6 × side² = 6 × 4² = 6 × 16 = 96 cm²."
+    },
+    {
+      "question": "A cuboid has length 5 cm, width 3 cm, height 2 cm. What is its volume?",
+      "options": ["30 cm³", "25 cm³", "15 cm³", "10 cm³"],
+      "answer": "30 cm³",
+      "explanation": "Volume = l × w × h = 5 × 3 × 2 = 30 cm³."
+    },
+    {
+      "question": "What is 40% as a decimal?",
+      "options": ["0.4", "4", "0.04", "0.40"],
+      "answer": "0.4",
+      "explanation": "40% = 40/100 = 0.40 = 0.4."
+    },
+    {
+      "question": "What is 0.8 as a percentage?",
+      "options": ["80%", "8%", "0.8%", "800%"],
+      "answer": "80%",
+      "explanation": "Multiply by 100: 0.8 × 100 = 80%."
+    },
+    {
+      "question": "A shirt costs ₹400. A 10% discount is given. What is the new price?",
+      "options": ["₹360", "₹380", "₹340", "₹350"],
+      "answer": "₹360",
+      "explanation": "Discount = 10% of 400 = ₹40. New price = 400 − 40 = ₹360."
+    },
+    {
+      "question": "A bag is sold for ₹540 at a profit of ₹90. What was the cost price?",
+      "options": ["₹450", "₹630", "₹500", "₹480"],
+      "answer": "₹450",
+      "explanation": "Cost Price = Selling Price − Profit = 540 − 90 = ₹450."
+    },
+    {
+      "question": "An item costs ₹250 and is sold at a 20% profit. Find the selling price.",
+      "options": ["₹300", "₹275", "₹320", "₹350"],
+      "answer": "₹300",
+      "explanation": "Profit = 20% of 250 = ₹50. Selling Price = 250 + 50 = ₹300."
+    },
+    {
+      "question": "What is the next prime number after 11?",
+      "options": ["13", "12", "14", "15"],
+      "answer": "13",
+      "explanation": "12 = 4×3, so not prime. 13 has only factors 1 and 13, so it is prime."
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "options": ["2", "1", "3", "0"],
+      "answer": "2",
+      "explanation": "2 is the smallest prime number. It is also the only even prime number."
+    },
+    {
+      "question": "Is 1 a prime number?",
+      "options": ["No, it has only 1 factor", "Yes", "Yes, if it's odd", "No, it is composite"],
+      "answer": "No, it has only 1 factor",
+      "explanation": "1 is neither prime nor composite because it has only one factor (itself). Prime numbers must have exactly 2 factors."
+    },
+    {
+      "question": "What is the prime factorisation of 12?",
+      "options": ["2² × 3", "2 × 6", "3 × 4", "2 × 3 × 3"],
+      "answer": "2² × 3",
+      "explanation": "12 = 2 × 6 = 2 × 2 × 3 = 2² × 3."
+    },
+    {
+      "question": "What is the prime factorisation of 30?",
+      "options": ["2 × 3 × 5", "2 × 15", "3 × 10", "5 × 6"],
+      "answer": "2 × 3 × 5",
+      "explanation": "30 = 2 × 15 = 2 × 3 × 5."
+    },
+    {
+      "question": "Using BODMAS, solve: 6 + 4 × 3.",
+      "options": ["18", "30", "14", "36"],
+      "answer": "18",
+      "explanation": "BODMAS: multiplication before addition. 6 + (4 × 3) = 6 + 12 = 18."
+    },
+    {
+      "question": "Using BODMAS, solve: (5 + 3) × 2.",
+      "options": ["16", "11", "13", "18"],
+      "answer": "16",
+      "explanation": "Brackets first: (5+3) = 8. Then 8 × 2 = 16."
+    },
+    {
+      "question": "Using BODMAS, solve: 20 ÷ 4 + 3 × 2.",
+      "options": ["11", "13", "16", "20"],
+      "answer": "11",
+      "explanation": "Division and multiplication first: 20÷4=5 and 3×2=6. Then 5 + 6 = 11."
+    },
+    {
+      "question": "Using BODMAS, solve: 15 − 3 × 4 + 2.",
+      "options": ["5", "47", "50", "3"],
+      "answer": "5",
+      "explanation": "Multiplication first: 3×4=12. Then 15 − 12 + 2 = 3 + 2 = 5."
+    },
+    {
+      "question": "What is the value of 10² − 10?",
+      "options": ["90", "80", "100", "70"],
+      "answer": "90",
+      "explanation": "10² = 100. 100 − 10 = 90."
+    },
+    {
+      "question": "What is 999 × 9?",
+      "options": ["8,991", "8,901", "9,091", "8,981"],
+      "answer": "8,991",
+      "explanation": "999 × 9 = (1000 − 1) × 9 = 9,000 − 9 = 8,991."
+    },
+    {
+      "question": "What is 1001 × 5?",
+      "options": ["5,005", "5,050", "5,500", "5,001"],
+      "answer": "5,005",
+      "explanation": "1001 × 5 = (1000 + 1) × 5 = 5,000 + 5 = 5,005."
+    },
+    {
+      "question": "A man walks 2.5 km each morning. How far does he walk in 6 days?",
+      "options": ["15 km", "12 km", "10 km", "18 km"],
+      "answer": "15 km",
+      "explanation": "Distance = 2.5 × 6 = 15 km."
+    },
+    {
+      "question": "A school has 24 classrooms. Each room has 36 desks. How many desks in total?",
+      "options": ["864", "844", "884", "824"],
+      "answer": "864",
+      "explanation": "Total desks = 24 × 36 = 864."
+    },
+    {
+      "question": "What is 3/10 as a percentage?",
+      "options": ["30%", "3%", "0.3%", "300%"],
+      "answer": "30%",
+      "explanation": "3/10 = 0.30 = 30%."
+    },
+    {
+      "question": "What percentage of 200 is 50?",
+      "options": ["25%", "50%", "20%", "30%"],
+      "answer": "25%",
+      "explanation": "Percentage = (50/200) × 100 = 25%."
+    },
+    {
+      "question": "What percentage of 50 is 10?",
+      "options": ["20%", "25%", "10%", "50%"],
+      "answer": "20%",
+      "explanation": "Percentage = (10/50) × 100 = 20%."
+    },
+    {
+      "question": "An angle is 135°. What type of angle is it?",
+      "options": ["Obtuse", "Acute", "Right", "Straight"],
+      "answer": "Obtuse",
+      "explanation": "An obtuse angle is between 90° and 180°. 135° is between 90° and 180°, so it is obtuse."
+    },
+    {
+      "question": "An angle is 45°. What type of angle is it?",
+      "options": ["Acute", "Obtuse", "Right", "Straight"],
+      "answer": "Acute",
+      "explanation": "An acute angle is less than 90°. 45° < 90°, so it is acute."
+    },
+    {
+      "question": "Two angles of a triangle are 60° and 80°. What is the third angle?",
+      "options": ["40°", "50°", "30°", "20°"],
+      "answer": "40°",
+      "explanation": "Sum of angles in triangle = 180°. Third angle = 180 − 60 − 80 = 40°."
+    },
+    {
+      "question": "Two angles of a triangle are 90° and 45°. What is the third angle?",
+      "options": ["45°", "55°", "35°", "90°"],
+      "answer": "45°",
+      "explanation": "Third angle = 180 − 90 − 45 = 45°."
+    },
+    {
+      "question": "What is an exterior angle of a triangle?",
+      "options": ["An angle formed outside the triangle at a vertex", "An interior angle", "The largest angle", "A right angle"],
+      "answer": "An angle formed outside the triangle at a vertex",
+      "explanation": "An exterior angle is formed by extending one side of the triangle. It equals the sum of the two non-adjacent interior angles."
+    },
+    {
+      "question": "What is the exterior angle if the two remote interior angles are 50° and 60°?",
+      "options": ["110°", "70°", "180°", "120°"],
+      "answer": "110°",
+      "explanation": "Exterior angle = sum of the two non-adjacent interior angles = 50° + 60° = 110°."
+    },
+    {
+      "question": "Which unit is used to measure angles?",
+      "options": ["Degrees (°)", "Centimetres", "Kilograms", "Litres"],
+      "answer": "Degrees (°)",
+      "explanation": "Angles are measured in degrees (°) using a protractor."
+    },
+    {
+      "question": "What instrument is used to measure angles?",
+      "options": ["Protractor", "Ruler", "Scale", "Compass"],
+      "answer": "Protractor",
+      "explanation": "A protractor is a semicircular tool used to measure angles in degrees."
+    },
+    {
+      "question": "What is a reflex angle?",
+      "options": ["An angle greater than 180° but less than 360°", "An angle less than 90°", "An angle of exactly 180°", "An angle between 90° and 180°"],
+      "answer": "An angle greater than 180° but less than 360°",
+      "explanation": "A reflex angle is more than 180° but less than 360°."
+    },
+    {
+      "question": "What is the complement of 30°?",
+      "options": ["60°", "150°", "70°", "90°"],
+      "answer": "60°",
+      "explanation": "Complementary angles add up to 90°. 90° − 30° = 60°."
+    },
+    {
+      "question": "What is the supplement of 70°?",
+      "options": ["110°", "20°", "90°", "180°"],
+      "answer": "110°",
+      "explanation": "Supplementary angles add up to 180°. 180° − 70° = 110°."
+    },
+    {
+      "question": "What does the median represent in a data set?",
+      "options": ["The middle value when data is arranged in order", "The average value", "The most frequent value", "The difference between max and min"],
+      "answer": "The middle value when data is arranged in order",
+      "explanation": "The median is the middle number in an ordered list. If even number of values, it's the average of the two middle values."
+    },
+    {
+      "question": "Find the median of: 3, 8, 5, 10, 6.",
+      "options": ["6", "5", "8", "7"],
+      "answer": "6",
+      "explanation": "Arrange in order: 3, 5, 6, 8, 10. Middle value (3rd of 5) = 6."
+    },
+    {
+      "question": "Find the mode of: 4, 4, 5, 6, 5, 4, 3.",
+      "options": ["4", "5", "6", "3"],
+      "answer": "4",
+      "explanation": "4 appears 3 times, 5 appears 2 times, others once. Mode = 4."
+    },
+    {
+      "question": "A bag has 5 red, 3 blue, and 2 green balls. What is the probability of picking red?",
+      "options": ["1/2", "3/10", "2/5", "1/5"],
+      "answer": "1/2",
+      "explanation": "Total balls = 10. P(red) = 5/10 = 1/2."
+    },
+    {
+      "question": "A bag has 4 red and 6 blue balls. What is the probability of picking blue?",
+      "options": ["3/5", "2/5", "1/2", "4/10"],
+      "answer": "3/5",
+      "explanation": "Total = 10. P(blue) = 6/10 = 3/5."
+    },
+    {
+      "question": "What is the formula for speed?",
+      "options": ["Distance ÷ Time", "Distance × Time", "Time ÷ Distance", "Distance + Time"],
+      "answer": "Distance ÷ Time",
+      "explanation": "Speed = Distance ÷ Time. This is the basic speed formula."
+    },
+    {
+      "question": "A cyclist travels 36 km in 3 hours. Find the speed.",
+      "options": ["12 km/h", "10 km/h", "9 km/h", "15 km/h"],
+      "answer": "12 km/h",
+      "explanation": "Speed = 36 ÷ 3 = 12 km/h."
+    },
+    {
+      "question": "How far will a car travel in 5 hours at 80 km/h?",
+      "options": ["400 km", "350 km", "450 km", "500 km"],
+      "answer": "400 km",
+      "explanation": "Distance = Speed × Time = 80 × 5 = 400 km."
+    },
+    {
+      "question": "At 60 km/h, how long does it take to travel 180 km?",
+      "options": ["3 hours", "2 hours", "4 hours", "6 hours"],
+      "answer": "3 hours",
+      "explanation": "Time = Distance ÷ Speed = 180 ÷ 60 = 3 hours."
+    },
+    {
+      "question": "What is the cost of 15 notebooks at ₹12 each?",
+      "options": ["₹180", "₹150", "₹200", "₹160"],
+      "answer": "₹180",
+      "explanation": "Cost = 15 × 12 = ₹180."
+    },
+    {
+      "question": "A jug holds 2.5 litres. How much water do 8 jugs hold?",
+      "options": ["20 litres", "18 litres", "16 litres", "22 litres"],
+      "answer": "20 litres",
+      "explanation": "Total water = 2.5 × 8 = 20 litres."
+    },
+    {
+      "question": "What is the value of n in: 3n + 5 = 20?",
+      "options": ["5", "6", "7", "4"],
+      "answer": "5",
+      "explanation": "3n + 5 = 20. Subtract 5: 3n = 15. Divide by 3: n = 5."
+    },
+    {
+      "question": "What is the value of x in: 2x − 3 = 11?",
+      "options": ["7", "8", "6", "4"],
+      "answer": "7",
+      "explanation": "2x − 3 = 11. Add 3: 2x = 14. Divide by 2: x = 7."
+    },
+    {
+      "question": "If a + 2b = 14 and b = 4, what is a?",
+      "options": ["6", "4", "8", "10"],
+      "answer": "6",
+      "explanation": "a + 2(4) = 14. a + 8 = 14. a = 14 − 8 = 6."
+    },
+    {
+      "question": "What is the next term: 100, 90, 80, 70, ___?",
+      "options": ["60", "65", "50", "55"],
+      "answer": "60",
+      "explanation": "Pattern decreases by 10 each time. 70 − 10 = 60."
+    },
+    {
+      "question": "What is the next term: 1, 1, 2, 3, 5, 8, ___?",
+      "options": ["13", "11", "10", "12"],
+      "answer": "13",
+      "explanation": "This is the Fibonacci sequence: each term = sum of previous two. 5+8=13."
+    },
+    {
+      "question": "What is 6! (6 factorial)? (hint: 6! = 6×5×4×3×2×1)",
+      "options": ["720", "360", "120", "24"],
+      "answer": "720",
+      "explanation": "6! = 6×5×4×3×2×1 = 720."
+    },
+    {
+      "question": "What is 6² + 8²?",
+      "options": ["100", "98", "102", "64"],
+      "answer": "100",
+      "explanation": "6² = 36, 8² = 64. 36 + 64 = 100."
+    },
+    {
+      "question": "A garden is in the shape of a square with area 81 m². What is the length of one side?",
+      "options": ["9 m", "8 m", "10 m", "7 m"],
+      "answer": "9 m",
+      "explanation": "Area = side². So side = √81 = 9 m."
+    },
+    {
+      "question": "What is the ratio of the diameter to the radius of a circle?",
+      "options": ["2:1", "1:2", "1:1", "3:1"],
+      "answer": "2:1",
+      "explanation": "Diameter = 2 × radius. So diameter : radius = 2 : 1."
+    },
+    {
+      "question": "Meena scored 75 out of 100 in a test. What percent did she score?",
+      "options": ["75%", "70%", "80%", "25%"],
+      "answer": "75%",
+      "explanation": "Percentage = (75/100) × 100 = 75%."
+    },
+    {
+      "question": "A bag of 40 marbles has 10 green ones. What percent are green?",
+      "options": ["25%", "20%", "30%", "40%"],
+      "answer": "25%",
+      "explanation": "Percentage = (10/40) × 100 = 25%."
+    },
+    {
+      "question": "What is 5/8 as a percentage?",
+      "options": ["62.5%", "58%", "50%", "60%"],
+      "answer": "62.5%",
+      "explanation": "5/8 = 5 ÷ 8 = 0.625 = 62.5%."
+    },
+    {
+      "question": "In a school of 500 students, 60% are girls. How many boys are there?",
+      "options": ["200", "300", "250", "150"],
+      "answer": "200",
+      "explanation": "Girls = 60% of 500 = 300. Boys = 500 − 300 = 200."
+    },
+    {
+      "question": "What is the cost price if selling price is ₹880 and profit is ₹80?",
+      "options": ["₹800", "₹960", "₹900", "₹780"],
+      "answer": "₹800",
+      "explanation": "Cost Price = Selling Price − Profit = ₹880 − ₹80 = ₹800."
+    },
+    {
+      "question": "Find the loss percent if cost price = ₹500 and selling price = ₹400.",
+      "options": ["20%", "25%", "10%", "15%"],
+      "answer": "20%",
+      "explanation": "Loss = 500 − 400 = ₹100. Loss% = (100/500) × 100 = 20%."
+    },
+    {
+      "question": "What is the profit percent if cost price = ₹200 and profit = ₹50?",
+      "options": ["25%", "20%", "30%", "10%"],
+      "answer": "25%",
+      "explanation": "Profit% = (Profit/Cost Price) × 100 = (50/200) × 100 = 25%."
+    },
+    {
+      "question": "What is the sum: 1/6 + 2/6 + 3/6?",
+      "options": ["1", "6/6", "Both 1 and 6/6", "3/6"],
+      "answer": "Both 1 and 6/6",
+      "explanation": "1/6 + 2/6 + 3/6 = 6/6 = 1."
+    },
+    {
+      "question": "What is 4 2/3 − 1 1/3?",
+      "options": ["3 1/3", "3 2/3", "2 2/3", "2 1/3"],
+      "answer": "3 1/3",
+      "explanation": "4 2/3 − 1 1/3 = (4−1) + (2/3 − 1/3) = 3 + 1/3 = 3 1/3."
+    },
+    {
+      "question": "What is 2 3/4 + 1 1/4?",
+      "options": ["4", "3 1/2", "4 1/4", "3 3/4"],
+      "answer": "4",
+      "explanation": "2 3/4 + 1 1/4 = (2+1) + (3/4+1/4) = 3 + 4/4 = 3 + 1 = 4."
+    },
+    {
+      "question": "How many quarters (1/4) are in 3 wholes?",
+      "options": ["12", "8", "9", "6"],
+      "answer": "12",
+      "explanation": "Each whole has 4 quarters. 3 wholes = 3 × 4 = 12 quarters."
+    },
+    {
+      "question": "How many thirds (1/3) are in 2 wholes?",
+      "options": ["6", "4", "8", "3"],
+      "answer": "6",
+      "explanation": "Each whole has 3 thirds. 2 wholes = 2 × 3 = 6 thirds."
+    },
+    {
+      "question": "A recipe needs 3/4 cup of flour per batch. How much flour for 4 batches?",
+      "options": ["3 cups", "4 cups", "2 cups", "3 1/4 cups"],
+      "answer": "3 cups",
+      "explanation": "3/4 × 4 = 12/4 = 3 cups."
+    },
+    {
+      "question": "Which of these fractions is greater than 1?",
+      "options": ["7/5", "4/7", "3/8", "1/2"],
+      "answer": "7/5",
+      "explanation": "A fraction greater than 1 has numerator > denominator. Only 7/5 has 7 > 5."
+    },
+    {
+      "question": "How much is 3/8 of 24?",
+      "options": ["9", "8", "12", "6"],
+      "answer": "9",
+      "explanation": "3/8 of 24 = 24 × 3/8 = 72/8 = 9."
+    },
+    {
+      "question": "What number when divided by 7 gives 8 remainder 3?",
+      "options": ["59", "56", "61", "53"],
+      "answer": "59",
+      "explanation": "Number = Divisor × Quotient + Remainder = 7 × 8 + 3 = 56 + 3 = 59."
+    },
+    {
+      "question": "What is 1,00,000 − 56,789?",
+      "options": ["43,211", "44,211", "43,111", "42,211"],
+      "answer": "43,211",
+      "explanation": "1,00,000 − 56,789 = 43,211."
+    },
+    {
+      "question": "What is the sum of the first 10 natural numbers?",
+      "options": ["55", "50", "45", "60"],
+      "answer": "55",
+      "explanation": "1+2+3+4+5+6+7+8+9+10 = 55. (Formula: n(n+1)/2 = 10×11/2 = 55)"
+    },
+    {
+      "question": "What is the sum of the first 5 odd numbers?",
+      "options": ["25", "15", "20", "30"],
+      "answer": "25",
+      "explanation": "First 5 odd numbers: 1+3+5+7+9 = 25. (Also = 5² = 25)"
+    },
+    {
+      "question": "What is the sum of the first 5 even numbers?",
+      "options": ["30", "25", "20", "15"],
+      "answer": "30",
+      "explanation": "First 5 even numbers: 2+4+6+8+10 = 30."
+    },
+    {
+      "question": "Which digit is in the ten-thousandths place in 2.3456?",
+      "options": ["6", "5", "4", "3"],
+      "answer": "6",
+      "explanation": "2.3456 — tenths=3, hundredths=4, thousandths=5, ten-thousandths=6."
+    },
+    {
+      "question": "What is 0.001 × 100?",
+      "options": ["0.1", "1", "0.01", "10"],
+      "answer": "0.1",
+      "explanation": "0.001 × 100 = 0.1 (move decimal 2 places right)."
+    },
+    {
+      "question": "What is 4.08 rounded to one decimal place?",
+      "options": ["4.1", "4.0", "4.08", "4.09"],
+      "answer": "4.1",
+      "explanation": "Look at hundredths digit: 8 ≥ 5, round up tenths: 0 becomes 1. So 4.08 ≈ 4.1."
+    },
+    {
+      "question": "A number increased by 45 equals 100. What is the number?",
+      "options": ["55", "45", "65", "145"],
+      "answer": "55",
+      "explanation": "n + 45 = 100. n = 100 − 45 = 55."
+    },
+    {
+      "question": "What is double of 375?",
+      "options": ["750", "700", "800", "375"],
+      "answer": "750",
+      "explanation": "Double means multiply by 2: 375 × 2 = 750."
+    },
+    {
+      "question": "What is half of 486?",
+      "options": ["243", "240", "248", "244"],
+      "answer": "243",
+      "explanation": "Half means divide by 2: 486 ÷ 2 = 243."
+    },
+    {
+      "question": "What is triple of 124?",
+      "options": ["372", "362", "382", "348"],
+      "answer": "372",
+      "explanation": "Triple means multiply by 3: 124 × 3 = 372."
+    },
+    {
+      "question": "What is 1/3 of 99?",
+      "options": ["33", "36", "30", "27"],
+      "answer": "33",
+      "explanation": "1/3 of 99 = 99 ÷ 3 = 33."
+    },
+    {
+      "question": "A rectangle has an area of 48 cm² and a length of 8 cm. What is the width?",
+      "options": ["6 cm", "5 cm", "7 cm", "4 cm"],
+      "answer": "6 cm",
+      "explanation": "Area = length × width. 48 = 8 × w. w = 48 ÷ 8 = 6 cm."
+    },
+    {
+      "question": "How many 5-rupee coins make ₹100?",
+      "options": ["20", "25", "10", "15"],
+      "answer": "20",
+      "explanation": "₹100 ÷ ₹5 = 20 coins."
+    },
+    {
+      "question": "What is the HCF of 16 and 24?",
+      "options": ["8", "4", "16", "12"],
+      "answer": "8",
+      "explanation": "Factors of 16: 1,2,4,8,16. Factors of 24: 1,2,3,4,6,8,12,24. HCF = 8."
+    },
+    {
+      "question": "What is the LCM of 8 and 12?",
+      "options": ["24", "48", "16", "96"],
+      "answer": "24",
+      "explanation": "Multiples of 8: 8,16,24. Multiples of 12: 12,24. LCM = 24."
+    },
+    {
+      "question": "What is the LCM of 6, 8, and 12?",
+      "options": ["24", "48", "12", "96"],
+      "answer": "24",
+      "explanation": "LCM(6,8)=24. LCM(24,12)=24. So LCM of 6, 8, 12 = 24."
+    },
+    {
+      "question": "HCF × LCM of two numbers = ?",
+      "options": ["Product of the two numbers", "Sum of the two numbers", "Difference of the two numbers", "Square of the larger number"],
+      "answer": "Product of the two numbers",
+      "explanation": "For any two numbers a and b: HCF × LCM = a × b."
+    },
+    {
+      "question": "HCF of 9 and 15 is 3 and their product is 135. What is their LCM?",
+      "options": ["45", "30", "60", "135"],
+      "answer": "45",
+      "explanation": "HCF × LCM = Product. 3 × LCM = 135. LCM = 135 ÷ 3 = 45."
+    },
+    {
+      "question": "What is 999 + 999?",
+      "options": ["1,998", "1,989", "1,999", "2,000"],
+      "answer": "1,998",
+      "explanation": "999 + 999 = 1,998. (Or: 1,000 + 1,000 − 2 = 1,998)"
+    },
+    {
+      "question": "A tank is 3/5 full. What fraction is empty?",
+      "options": ["2/5", "3/5", "1/5", "4/5"],
+      "answer": "2/5",
+      "explanation": "Full − used = 5/5 − 3/5 = 2/5."
+    },
+    {
+      "question": "3 workers can complete a job in 12 days. How many days will 6 workers take?",
+      "options": ["6 days", "4 days", "9 days", "3 days"],
+      "answer": "6 days",
+      "explanation": "More workers = fewer days (inverse proportion). 3×12 = 6×d. d = 36/6 = 6 days."
+    },
+    {
+      "question": "If 4 taps fill a tank in 8 hours, how long will 8 taps take?",
+      "options": ["4 hours", "2 hours", "6 hours", "8 hours"],
+      "answer": "4 hours",
+      "explanation": "Inverse proportion: 4×8 = 8×t. t = 32/8 = 4 hours."
+    },
+    {
+      "question": "What is 8/9 − 5/9?",
+      "options": ["3/9 = 1/3", "13/9", "3/18", "1/9"],
+      "answer": "3/9 = 1/3",
+      "explanation": "Same denominator: 8/9 − 5/9 = 3/9. Simplify: 3/9 = 1/3."
+    },
+    {
+      "question": "Convert 2 hours 30 minutes to minutes.",
+      "options": ["150 minutes", "130 minutes", "230 minutes", "120 minutes"],
+      "answer": "150 minutes",
+      "explanation": "2 hours = 2 × 60 = 120 minutes. 120 + 30 = 150 minutes."
+    },
+    {
+      "question": "Convert 185 minutes to hours and minutes.",
+      "options": ["3 hours 5 minutes", "2 hours 85 minutes", "3 hours 15 minutes", "2 hours 65 minutes"],
+      "answer": "3 hours 5 minutes",
+      "explanation": "185 ÷ 60 = 3 remainder 5. So 185 minutes = 3 hours 5 minutes."
+    },
+    {
+      "question": "How many months are in 4 years?",
+      "options": ["48", "36", "52", "24"],
+      "answer": "48",
+      "explanation": "1 year = 12 months. 4 years = 4 × 12 = 48 months."
+    },
+    {
+      "question": "A journey starts at 7:45 AM and ends at 11:15 AM. How long is the journey?",
+      "options": ["3 hours 30 minutes", "3 hours", "4 hours", "2 hours 30 minutes"],
+      "answer": "3 hours 30 minutes",
+      "explanation": "From 7:45 to 11:15. 11:15 − 7:45 = 3 hours 30 minutes."
+    },
+    {
+      "question": "What is 3 kg 500 g + 2 kg 750 g?",
+      "options": ["6 kg 250 g", "5 kg 250 g", "6 kg 500 g", "5 kg 750 g"],
+      "answer": "6 kg 250 g",
+      "explanation": "g: 500+750=1250g = 1kg 250g. kg: 3+2+1=6kg. Total = 6 kg 250 g."
+    },
+    {
+      "question": "What is 5 m 60 cm − 2 m 80 cm?",
+      "options": ["2 m 80 cm", "3 m 20 cm", "3 m 80 cm", "2 m 20 cm"],
+      "answer": "2 m 80 cm",
+      "explanation": "Borrow 1 m: 5m 60cm = 4m 160cm. 160−80=80cm. 4−2=2m. Answer: 2m 80cm."
+    },
+    {
+      "question": "What is 4 L 300 mL + 2 L 800 mL?",
+      "options": ["7 L 100 mL", "6 L 1100 mL", "7 L 100 mL", "6 L 100 mL"],
+      "answer": "7 L 100 mL",
+      "explanation": "mL: 300+800=1100mL = 1L 100mL. L: 4+2+1=7L. Total = 7 L 100 mL."
+    },
+    {
+      "question": "What is the difference between 5 km and 3500 m?",
+      "options": ["1,500 m", "1,500 km", "2,500 m", "500 m"],
+      "answer": "1,500 m",
+      "explanation": "5 km = 5,000 m. 5,000 − 3,500 = 1,500 m."
+    },
+    {
+      "question": "What is 7/10 + 3/100?",
+      "options": ["73/100", "10/100", "7.3/10", "70/100"],
+      "answer": "73/100",
+      "explanation": "7/10 = 70/100. 70/100 + 3/100 = 73/100."
+    },
+    {
+      "question": "What is 73/100 as a decimal?",
+      "options": ["0.73", "7.3", "0.073", "73"],
+      "answer": "0.73",
+      "explanation": "73/100 = 0.73 (73 hundredths)."
+    },
+    {
+      "question": "What is 9/100 as a decimal?",
+      "options": ["0.09", "0.9", "9.0", "0.009"],
+      "answer": "0.09",
+      "explanation": "9/100 = 0.09 (9 hundredths)."
+    },
+    {
+      "question": "Order from smallest to largest: 0.5, 0.05, 0.55, 0.505",
+      "options": ["0.05, 0.5, 0.505, 0.55", "0.5, 0.05, 0.55, 0.505", "0.05, 0.55, 0.5, 0.505", "0.5, 0.55, 0.505, 0.05"],
+      "answer": "0.05, 0.5, 0.505, 0.55",
+      "explanation": "0.05=0.050 < 0.500 < 0.505 < 0.550. Ascending order: 0.05, 0.5, 0.505, 0.55."
+    },
+    {
+      "question": "What is 10 − 3.75?",
+      "options": ["6.25", "6.75", "7.25", "6.5"],
+      "answer": "6.25",
+      "explanation": "10.00 − 3.75 = 6.25."
+    },
+    {
+      "question": "What is 0.3 × 0.3?",
+      "options": ["0.09", "0.9", "0.6", "0.003"],
+      "answer": "0.09",
+      "explanation": "3 × 3 = 9. Two decimal places total → 0.09."
+    },
+    {
+      "question": "What is 1.2 × 1.2?",
+      "options": ["1.44", "2.4", "1.4", "1.24"],
+      "answer": "1.44",
+      "explanation": "12 × 12 = 144. Two decimal places → 1.44."
+    },
+    {
+      "question": "A bus ticket costs ₹7.50. What is the cost for 6 tickets?",
+      "options": ["₹45", "₹42", "₹48", "₹50"],
+      "answer": "₹45",
+      "explanation": "7.50 × 6 = ₹45.00."
+    },
+    {
+      "question": "A piece of wood is 8.4 m long. It is cut into 7 equal pieces. How long is each piece?",
+      "options": ["1.2 m", "1.4 m", "1.0 m", "0.8 m"],
+      "answer": "1.2 m",
+      "explanation": "8.4 ÷ 7 = 1.2 m."
+    },
+    {
+      "question": "The perimeter of a regular hexagon is 48 cm. Find the length of each side.",
+      "options": ["8 cm", "6 cm", "10 cm", "12 cm"],
+      "answer": "8 cm",
+      "explanation": "A regular hexagon has 6 equal sides. Side = 48 ÷ 6 = 8 cm."
+    },
+    {
+      "question": "A square tile has a side of 25 cm. How many tiles are needed to cover 1 m²?",
+      "options": ["16", "25", "4", "100"],
+      "answer": "16",
+      "explanation": "1 m = 100 cm. Area of floor = 100 × 100 = 10,000 cm². Area of tile = 25 × 25 = 625 cm². Tiles = 10,000 ÷ 625 = 16."
     }
   ]
